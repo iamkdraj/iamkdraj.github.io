@@ -1,3 +1,7 @@
+---
+title: Romanticism
+---
+
 ### Literary Movements: Romanticism
 
 Romanticism was a revolutionary artistic and intellectual movement that swept across Europe from the late 18th to the mid-19th century. In England, it emerged as a powerful reaction against the core principles of the preceding **Neo-Classical Age**. If Neo-Classicism was the age of reason, order, and society, Romanticism was the age of **emotion, imagination, and the individual**. It was not a single, unified doctrine but a widespread shift in sensibility that valued individual consciousness and the power of nature.
