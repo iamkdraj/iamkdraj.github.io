@@ -1,9 +1,3 @@
-# RAJASTHAN PUBLIC SERVICE COMMISSION, AJMER
-### SYLLABUS FOR EXAMINATION FOR THE POST OF SR. TEACHER
-### SECONDARY EDUCATION DEPARTMENT
-### PAPER-II
-### ENGLISH
-
 ## Part-I
 ### Secondary and Senior Secondary Standard:-
 
@@ -94,18 +88,4 @@
 -   Communicative English Language Teaching.
 -   Teaching Prose, Poetry, Grammar and Composition.
 -   Basic Principles of Second Language Teaching- Selection, Gradation, Presentation and Testing.
-
-***
-
-**For the competitive examination for the post of Senior Teacher:-**
-
-1.  The question paper will carry maximum 300 marks.
-2.  Duration of question paper will be **Two Hours Thirty Minutes**.
-3.  The question paper will carry 150 questions of multiple choices.
-4.  Negative marking shall be applicable in the evaluation of answers. For every wrong answer one third of the marks prescribed for that particular question shall be deducted.
-5.  Paper shall include following subjects:-
-    (i) Knowledge of Secondary and Senior Secondary Standard about relevant subject matter.
-    (ii) Knowledge of Graduation Standard about relevant subject matter.
-    (iii) Teaching Methods of relevant subject.
-
-***
+___
