@@ -53,6 +53,9 @@ const config: QuartzConfig = {
       },
     },
   },
+  pageOptions: {
+  showTableOfContents: true,
+},
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
