@@ -6,28 +6,28 @@ This guide provides a deep, data-driven analysis of 11 previous question papers 
 
 This master table consolidates the data from all provided papers for a clear comparative view.
 
-| Syllabus Topic | TSS-24 | ST-22 | STS-32 | STS-91 | STSP-91 | ST-81 | TS-71 | 2015-18 | 2013 | 2011-II | 2011-I | **Total** | **Avg %** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Part I: Grammar & Usage** |
-| Parts of Speech | 7 | 3 | 4 | 0 | 0 | 6 | 5 | 4 | 5 | 4 | 10 | **48** | 3.0% |
-| Articles & Determiners | 6 | 3 | 7 | 3 | 5 | 7 | 7 | 6 | 6 | 6 | 0 | **59** | 3.7% |
-| Tenses | 7 | 3 | 0 | 4 | 5 | 11 | 6 | 7 | 9 | 11 | 5 | **68** | 4.3% |
-| Prepositions | 5 | 3 | 0 | 5 | 6 | 7 | 6 | 6 | 6 | 7 | 6 | **57** | 3.6% |
-| Modal Auxiliaries | 6 | 3 | 6 | 5 | 7 | 4 | 5 | 5 | 5 | 7 | 5 | **58** | 3.6% |
-| Degrees of Comparison | 5 | 3 | 0 | 3 | 6 | 6 | 6 | 4 | 5 | 7 | 5 | **50** | 3.1% |
-| Subject-Verb Agreement | 6 | 3 | 6 | 2 | 5 | 9 | 6 | 6 | 5 | 4 | 5 | **57** | 3.6% |
-| Sentence Structure & Joining | 5 | 3 | 12 | 0 | 5 | 2 | 8 | 8 | 9 | 1 | 9 | **62** | 3.9% |
-| Transformation of Sentences | 7 | 7 | 6 | 17 | 12 | 16 | 18 | 15 | 27 | 23 | 17 | **185** | 11.6% |
-| Phrasal Verbs & Idioms | 13 | 8 | 12 | 5 | 10 | 6 | 11 | 17 | 9 | 11 | 12 | **114** | 7.1% |
-| Vocabulary (Syn/Ant/Spelling) | 9 | 9 | 18 | 7 | 0 | 8 | 6 | 8 | 7 | 8 | 8 | **85** | 5.3% |
-| **Part II: Literature & Advanced Usage** |
-| Phonetic Transcription & Stress | 6 | 3 | 6 | 10 | 9 | 8 | 9 | 13 | 14 | 10 | 9 | **106** | 6.6% |
-| Sentence & Phrase Analysis | 2 | 6 | 0 | 15 | 12 | 9 | 13 | 9 | 10 | 12 | 8 | **106** | 6.6% |
-| Reading Comprehension & Appreciation | 2 | 10 | 3 | 5 | 4 | 5 | 4 | 5 | 4 | 5 | 5 | **52** | 3.3% |
-| Literary Knowledge (All) | 34 | 40 | 8 | 8 | 4 | 13 | 12 | 13 | 15 | 11 | 13 | **183** | 11.4% |
-| **Part III: Teaching Methods** |
-| Teaching Methods & Principles | 20 | 20 | 2 | 20 | 8 | 20 | 20 | 20 | 20 | 20 | 24 | **214** | 13.4% |
-| **Total Questions** | **150** | **150** | **91**¹ | **135**² | **102**³ | **150** | **150** | **150** | **150** | **150** | **139**⁴ | **1727** | |
+| Syllabus Topic                           | TSS-24  |  ST-22  |  STS-32  |  STS-91  | STSP-91  |  ST-81  |  TS-71  | 2015-18 |  2013   | 2011-II |  2011-I  | **Total** | **Avg %** |
+| :--------------------------------------- | :-----: | :-----: | :------: | :------: | :------: | :-----: | :-----: | :-----: | :-----: | :-----: | :------: | :-------: | :-------: |
+| **Part I: Grammar & Usage**              |         |         |          |          |          |         |         |         |         |         |          |           |           |
+| Parts of Speech                          |    7    |    3    |    4     |    0     |    0     |    6    |    5    |    4    |    5    |    4    |    10    |  **48**   |   3.0%    |
+| Articles & Determiners                   |    6    |    3    |    7     |    3     |    5     |    7    |    7    |    6    |    6    |    6    |    0     |  **59**   |   3.7%    |
+| Tenses                                   |    7    |    3    |    0     |    4     |    5     |   11    |    6    |    7    |    9    |   11    |    5     |  **68**   |   4.3%    |
+| Prepositions                             |    5    |    3    |    0     |    5     |    6     |    7    |    6    |    6    |    6    |    7    |    6     |  **57**   |   3.6%    |
+| Modal Auxiliaries                        |    6    |    3    |    6     |    5     |    7     |    4    |    5    |    5    |    5    |    7    |    5     |  **58**   |   3.6%    |
+| Degrees of Comparison                    |    5    |    3    |    0     |    3     |    6     |    6    |    6    |    4    |    5    |    7    |    5     |  **50**   |   3.1%    |
+| Subject-Verb Agreement                   |    6    |    3    |    6     |    2     |    5     |    9    |    6    |    6    |    5    |    4    |    5     |  **57**   |   3.6%    |
+| Sentence Structure & Joining             |    5    |    3    |    12    |    0     |    5     |    2    |    8    |    8    |    9    |    1    |    9     |  **62**   |   3.9%    |
+| Transformation of Sentences              |    7    |    7    |    6     |    17    |    12    |   16    |   18    |   15    |   27    |   23    |    17    |  **185**  |   11.6%   |
+| Phrasal Verbs & Idioms                   |   13    |    8    |    12    |    5     |    10    |    6    |   11    |   17    |    9    |   11    |    12    |  **114**  |   7.1%    |
+| Vocabulary (Syn/Ant/Spelling)            |    9    |    9    |    18    |    7     |    0     |    8    |    6    |    8    |    7    |    8    |    8     |  **85**   |   5.3%    |
+| **Part II: Literature & Advanced Usage** |         |         |          |          |          |         |         |         |         |         |          |           |           |
+| Phonetic Transcription & Stress          |    6    |    3    |    6     |    10    |    9     |    8    |    9    |   13    |   14    |   10    |    9     |  **106**  |   6.6%    |
+| Sentence & Phrase Analysis               |    2    |    6    |    0     |    15    |    12    |    9    |   13    |    9    |   10    |   12    |    8     |  **106**  |   6.6%    |
+| Reading Comprehension & Appreciation     |    2    |   10    |    3     |    5     |    4     |    5    |    4    |    5    |    4    |    5    |    5     |  **52**   |   3.3%    |
+| Literary Knowledge (All)                 |   34    |   40    |    8     |    8     |    4     |   13    |   12    |   13    |   15    |   11    |    13    |  **183**  |   11.4%   |
+| **Part III: Teaching Methods**           |         |         |          |          |          |         |         |         |         |         |          |           |           |
+| Teaching Methods & Principles            |   20    |   20    |    20    |    20    |    20    |   20    |   20    |   20    |   20    |   20    |    24    |  **214**  |   13.4%   |
+| **Total Questions**                      | **150** | **150** | **109**¹ | **135**² | **114**³ | **150** | **150** | **150** | **150** | **150** | **139**⁴ | **1727**  |           |
 
 ---
 **Notes on Totals:**
