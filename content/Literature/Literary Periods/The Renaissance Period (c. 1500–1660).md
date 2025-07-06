@@ -15,12 +15,12 @@ This era represented a "rebirth" of interest in the classical art, literature, a
 *   **Invention of the Printing Press**: Introduced to England by **William Caxton** in 1476, this technology made books more accessible, fueling literacy and the rapid spread of Humanist and Reformation ideas.
 
 > [!note]- The King James Bible (1611)
-    > Also known as the Authorized Version, this translation of the Bible was a landmark achievement of English prose. Commissioned during the Jacobean era, its powerful, simple, and rhythmic language had an enormous and lasting influence on all subsequent English literature, standardizing the language for generations.
+> Also known as the Authorized Version, this translation of the Bible was a landmark achievement of English prose. Commissioned during the Jacobean era, its powerful, simple, and rhythmic language had an enormous and lasting influence on all subsequent English literature, standardizing the language for generations.
 
 
 > [!note]- What is Humanism?
-    > Humanism was a philosophical and educational movement that emphasized the value and agency of human beings. It promoted the study of the "humanities" – classical literature, history, rhetoric, and philosophy – believing that this education could help people achieve their full potential. Key humanists included **Sir Thomas More** (author of *Utopia*) and the Dutch scholar **Erasmus**. It did not reject religion but focused on making life on Earth more meaningful.
----
+> Humanism was a philosophical and educational movement that emphasized the value and agency of human beings. It promoted the study of the "humanities" – classical literature, history, rhetoric, and philosophy – believing that this education could help people achieve their full potential. Key humanists included **Sir Thomas More** (author of *Utopia*) and the Dutch scholar **Erasmus**. It did not reject religion but focused on making life on Earth more meaningful.
+
 
 ### Literary Characteristics of the Renaissance
 
@@ -32,7 +32,7 @@ This era represented a "rebirth" of interest in the classical art, literature, a
 *   **Spirit of Optimism and Exploration**: The era was marked by a belief in unlimited human and national potential, sometimes captured in phrases like **"love and lust for knowledge, beauty and wealth."**
 
 > [!note]- The Spanish Armada (1588)
-    > The defeat of this massive Spanish fleet, sent to invade England, was a pivotal moment. It secured England's independence from Catholic Spain, boosted national morale, and established England as a major naval power, fueling the patriotic spirit seen in Elizabethan literature.
+> The defeat of this massive Spanish fleet, sent to invade England, was a pivotal moment. It secured England's independence from Catholic Spain, boosted national morale, and established England as a major naval power, fueling the patriotic spirit seen in Elizabethan literature.
 ---
 
 ## Sub-Periods of the Renaissance
@@ -60,7 +60,7 @@ This period, under Queen Elizabeth I, is often considered the "Golden Age" of En
     *   **Ben Jonson**: Shakespeare's contemporary, known for his satirical **Comedy of Humours**.
 
 > [!note]- Who were the University Wits?
-    > This was a group of late 16th-century playwrights and pamphleteers who were educated at the universities of Oxford or Cambridge. They transformed English drama with their sophisticated plots and powerful language. Key members included **Christopher Marlowe**, **Thomas Kyd**, **Robert Greene**, **John Lyly**, **George Peele**, and **Thomas Nashe**.
+> This was a group of late 16th-century playwrights and pamphleteers who were educated at the universities of Oxford or Cambridge. They transformed English drama with their sophisticated plots and powerful language. Key members included **Christopher Marlowe**, **Thomas Kyd**, **Robert Greene**, **John Lyly**, **George Peele**, and **Thomas Nashe**.
 
 #### Elizabethan Poetry
 
