@@ -1,4 +1,4 @@
-> [!note]- Click to toggle
+> [!note]- Note
 > This is hidden by default and expands when clicked.
 > You can write multiple lines here.
 
