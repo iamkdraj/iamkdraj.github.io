@@ -1,3 +1,5 @@
+**To Focus** 1 3 7 9 21 22 29 30 31 34 53 58 60 61 66 71 80 82 84 87 88 90 93 97 100 103 110 111 116 120 125 133 136 140 141 148
+
 ### 1. The wind was blowing dead against us. The word ‘dead’ used in the above sentence is –
 > [!tip]- (1) Adjective
 > ❌ Incorrect. This was your choice. 'Dead' is not modifying a noun here.

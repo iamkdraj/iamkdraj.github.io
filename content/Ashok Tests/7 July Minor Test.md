@@ -1,3 +1,9 @@
+---
+title: 7 July Minor Test
+enableToc: true
+---
+**To Focus**  5,8,11,18,19,22,35,42
+
 ### 1. Match the following (The word 'Near' and its Parts of Speech)
 (1) Draw near and listen
 (2) His house is near the temple
