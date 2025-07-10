@@ -340,7 +340,7 @@
 > [!tip]- (3) plenty
 > ❌ Incorrect. 'Plenty' means a large or sufficient amount of something.
 
-> [_tip]- (4) generosity
+> [!tip]- (4) generosity
 > ❌ Incorrect. 'Generosity' is an antonym of cupidity.
 
 > [!info]- 📘 In-depth Explanation
