@@ -1,3 +1,5 @@
+**To Focus** 3 14 23 27 34 35 38 39
+
 ### 1. There is an hourly service of trains to Kota, but the buses don't run hourly. The words "Hourly" used in the above sentence are –
 > [!tip]- (1) Adverb, Adverb
 > ❌ Incorrect. The first 'hourly' modifies 'service' (a noun), so it is an adjective.
