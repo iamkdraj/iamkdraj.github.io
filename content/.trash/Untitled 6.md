@@ -1,15 +1,3 @@
-ssh -i ~/.ssh/id_rsa opc@140.245.14.207
-
-ssh -i ~/.ssh/id_rsa ubuntu@140.245.14.207
-
-cd ~/storage/shared/KD/iamkdraj.github.io
-
-
-git config --global user.name "iamkdraj"
-git config --global user.email "iamkdraj@gmail.com"
-
-
-
 ssh -i "C:\Keshav Dev\ssh-key-2025-07-12.key" ubuntu@140.245.14.207
 
 npm install -g @anthropic-ai/claude-code
