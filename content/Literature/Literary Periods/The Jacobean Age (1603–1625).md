@@ -7,7 +7,7 @@ tags:
   - questions
 ---
 
-The Jacobean Age is named after the reign of **King James I** (1603-1625), whose name in Latin is *Jacobus*. This period is a direct continuation of the Elizabethan Renaissance but is marked by a significant shift in tone. The optimism and patriotic fervor of the Elizabethan era waned, replaced by a more critical, satirical, and psychologically complex mood in literature.
+The **[[Jacobean Age]]** is named after the reign of **King James I** (1603-1625), whose name in Latin is *Jacobus*. This period is a direct continuation of the Elizabethan Renaissance but is marked by a significant shift in tone. The optimism and patriotic fervor of the Elizabethan era waned, replaced by a more critical, satirical, and psychologically complex mood in literature.
 
 ---
 
@@ -26,7 +26,7 @@ The Jacobean Age is named after the reign of **King James I** (1603-1625), whose
 
 Drama remained the dominant literary form, but it evolved to reflect the darker sensibilities of the age.
 
-#### 1. Revenge Tragedy
+#### 1. [[Revenge Tragedy]]
 
 This genre reached its peak in the Jacobean era. The plays became darker, more violent, and more psychologically intense than their Elizabethan predecessors.
 
@@ -36,7 +36,7 @@ This genre reached its peak in the Jacobean era. The plays became darker, more v
     *   *Key Works:* ***The White Devil*** and ***The Duchess of Malfi*** (his masterpiece).
 *   **Thomas Middleton**: A versatile dramatist who co-wrote the famous revenge tragedy ***The Changeling*** with William Rowley.
 
-#### 2. City Comedy / Comedy of Manners
+#### 2. [[City Comedy]] / Comedy of Manners
 
 This satirical genre focused on the lives, vices, and follies of the urban middle class in London.
 
@@ -49,7 +49,7 @@ This satirical genre focused on the lives, vices, and follies of the urban middl
 *   **Thomas Middleton**: Excelled at city comedy, such as ***A Chaste Maid in Cheapside***.
 *   **Thomas Dekker**: Called "The Dickens of the Elizabethan stage," known for ***The Shoemaker's Holiday***.
 
-#### 3. Tragicomedy
+#### 3. [[Tragicomedy]]
 
 A new hybrid genre that mixed serious tragic elements with comedic ones, always ending with a happy resolution.
 
@@ -57,7 +57,7 @@ A new hybrid genre that mixed serious tragic elements with comedic ones, always 
     *   *Key Collaborative Work:* ***Philaster***.
     *   Beaumont, on his own, also wrote ***The Knight of the Burning Pestle***.
 
-### Jacobean Poetry: The Metaphysical Poets
+### Jacobean Poetry: The [[Metaphysical Poets]]
 
 While its roots are in the late Elizabethan period with John Donne, this distinctive style flourished in the Jacobean and Caroline ages.
 
@@ -68,7 +68,7 @@ While its roots are in the late Elizabethan period with John Donne, this distinc
     *   **Intellectual & Witty**: The poetry is highly intellectual and often structured like a logical argument.
     *   **Colloquial Language**: It uses the rough rhythms of everyday speech, often beginning with an abrupt, dramatic opening (e.g., Donne's "For God's sake hold your tongue, and let me love").
     *   **Use of Conceits**: Their most famous device.
-    *   **Use of Paradox and Pun**: These figures of speech were used to explore complex ideas.
+    *   **Use of [[Paradox]] and Pun**: These figures of speech were used to explore complex ideas.
     *   **Themes**: Love, death, and religion were their primary subjects, explored with psychological realism.
 
     > [!note]- What is a Metaphysical Conceit?

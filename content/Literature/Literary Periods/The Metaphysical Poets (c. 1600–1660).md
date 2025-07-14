@@ -6,7 +6,7 @@ tags:
   - questions
 ---
 
-The term "Metaphysical Poets" refers to a group of 17th-century English poets who, while not a formal school, shared a common intellectual, witty, and philosophical style. They consciously broke away from the smooth, musical, and conventional love poetry of the Elizabethan sonneteers.
+The term "**[[Metaphysical Poets]]**" refers to a group of 17th-century English poets who, while not a formal school, shared a common intellectual, witty, and philosophical style. They consciously broke away from the smooth, musical, and conventional love poetry of the Elizabethan sonneteers.
 
 The label itself is famous. It was first used by **John Dryden**, who said that John Donne "affects the metaphysics." However, the term was popularized over a century later by the critic **Dr. Samuel Johnson** in his work *Lives of the Most Eminent English Poets* (1779-81). He used it somewhat critically to describe a style he found intellectually showy, emotionally cold, and "unnatural." His most famous critique was that in their poetry, **"the most heterogeneous ideas are yoked by violence together,"** meaning they combined very dissimilar ideas in startling and unexpected ways.
 
@@ -18,7 +18,7 @@ The Metaphysical style emerged from the intellectual climate of the Jacobean and
 
 *   **A Time of Transition and Doubt**: The certainty of the Elizabethan world was fading. New discoveries in science and astronomy (Copernicus, Galileo) were challenging old beliefs about the universe and humanity's place in it. This sense of intellectual and spiritual uncertainty is reflected in the poetry's questioning, argumentative nature.
 *   **Reaction Against Elizabethan Convention**: These poets grew tired of the predictable, sugar-coated conventions of Elizabethan love poetry. The Metaphysicals aimed for a more realistic, psychologically complex, and intellectually honest portrayal of love.
-*   **Influence of Scholasticism**: Many of the poets were highly educated men familiar with medieval scholastic philosophy, which used logic and debate to explore complex theological questions. They applied this same argumentative method to poetry, using reason to dissect emotions.
+*   **Influence of [[Scholasticism]]**: Many of the poets were highly educated men familiar with medieval scholastic philosophy, which used logic and debate to explore complex theological questions. They applied this same argumentative method to poetry, using reason to dissect emotions.
 
 ---
 

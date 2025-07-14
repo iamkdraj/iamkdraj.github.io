@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2nd Grade May Minor Test 1 (Interactive Quiz)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-bg: #f0f4f8;
+            --card-bg: #ffffff;
+            --text-color: #333;
+            --header-color: #2c3e50;
+            --correct-bg: #e7f8ee;
+            --correct-border: #68d391;
+            --correct-text: #2f855a;
+            --incorrect-bg: #feeeee;
+            --incorrect-border: #fc8181;
+            --incorrect-text: #c53030;
+            --explanation-bg: #e9f7ff;
+            --explanation-border: #3498db;
+            --focus-border: #f6e05e;
+            --shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            --border-radius: 12px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--primary-bg);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding-top: 100px; /* Space for the fixed header */
+        }
+
+        .main-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .quiz-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: var(--card-bg);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 1rem 2rem;
+            z-index: 1000;
+        }
+        
+        .header-content {
+            max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        
+        .quiz-header h1 {
+            font-size: 1.5rem;
+            color: var(--header-color);
+            text-align: center;
+        }
+        
+        .progress-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        #score-text {
+            font-weight: 600;
+            white-space: nowrap;
+            color: var(--header-color);
+        }
+
+        .progress-bar-wrapper {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 20px;
+            height: 18px;
+            overflow: hidden;
+        }
+
+        #progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, #3498db, #2980b9);
+            border-radius: 20px;
+            transition: width 0.4s ease-in-out;
+            text-align: center;
+            color: white;
+            font-size: 0.75rem;
+            font-weight: 600;
+            line-height: 18px;
+        }
+
+        .focus-box {
+            background-color: #fffbe6;
+            border: 1px solid #ffe58f;
+            border-left: 5px solid var(--focus-border);
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            font-size: 0.9rem;
+        }
+
+        .focus-box h3 {
+            margin-bottom: 0.5rem;
+            color: #d69e2e;
+        }
+
+        .focus-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .focus-item {
+            background-color: #f6e05e;
+            color: #744210;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .focus-item:hover {
+            transform: scale(1.1);
+        }
+
+        .question-card {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            padding: 1.5rem 2rem;
+            margin-bottom: 2rem;
+            transition: all 0.3s ease;
+            border-left: 5px solid transparent;
+        }
+
+        .question-card.focus-question {
+            border-left: 5px solid var(--focus-border);
+            box-shadow: 0 6px 20px rgba(246, 224, 94, 0.5);
+        }
+
+        .question-text {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            display: flex;
+            gap: 0.75rem;
+            align-items: flex-start;
+        }
+        
+        .question-text .q-num {
+            font-weight: 700;
+        }
+        
+        .question-text .focus-star {
+            color: #f6e05e;
+            font-size: 1.2rem;
+            line-height: 1.2;
+        }
+
+        .options-container {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            padding: 0.9rem 1.2rem;
+            background-color: #fff;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: left;
+            font-family: 'Poppins', sans-serif;
+            font-size: 1rem;
+            transition: all 0.2s ease;
+        }
+        
+        .option:not(.disabled):hover {
+            border-color: var(--explanation-border);
+            background-color: #f5faff;
+        }
+
+        .option.disabled {
+            cursor: not-allowed;
+        }
+
+        .option-letter {
+            font-weight: 600;
+            margin-right: 0.75rem;
+            color: var(--explanation-border);
+        }
+
+        .your-choice {
+            font-style: italic;
+            font-size: 0.8rem;
+            color: #e74c3c;
+            margin-left: auto;
+            padding-left: 1rem;
+            white-space: nowrap;
+            font-weight: 500;
+        }
+
+        .option.correct {
+            background-color: var(--correct-bg);
+            border-color: var(--correct-border);
+            color: var(--correct-text);
+            font-weight: 600;
+        }
+
+        .option.incorrect {
+            background-color: var(--incorrect-bg);
+            border-color: var(--incorrect-border);
+            color: var(--incorrect-text);
+            font-weight: 500;
+        }
+        
+        .option.correct .option-letter, .option.incorrect .option-letter {
+            color: inherit;
+        }
+
+        .explanation {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-in-out, margin-top 0.5s ease-in-out;
+            background-color: var(--explanation-bg);
+            border-left: 4px solid var(--explanation-border);
+            border-radius: 4px;
+            padding: 0 1.5rem;
+        }
+        
+        .explanation.visible {
+            max-height: 1000px; /* large enough for content */
+            margin-top: 1.5rem;
+            padding: 1.2rem 1.5rem;
+        }
+
+        .explanation h4 {
+            color: var(--explanation-border);
+            margin-bottom: 0.5rem;
+        }
+
+        .explanation p {
+            margin: 0;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            font-size: 0.9rem;
+            color: #777;
+        }
+
+    </style>
+</head>
+<body>
+
+    <header class="quiz-header">
+        <div class="header-content">
+            <h1>2nd Grade May Minor Test 1</h1>
+            <div class="progress-container">
+                <span id="score-text">Score: 0 / 50</span>
+                <div class="progress-bar-wrapper">
+                    <div id="progress-bar">0%</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-container">
+        
+        <div class="focus-box">
+            <h3>⭐ Questions to Focus On</h3>
+            <p>The following questions were marked for special attention. Click a number to jump to the question.</p>
+            <div class="focus-list" id="focus-list-container">
+                <!-- Focus items will be dynamically inserted here -->
+            </div>
+        </div>
+
+        <!-- Questions will be dynamically inserted below -->
+        <div id="quiz-content"></div>
+
+        <div class="footer">
+            <p>Interactive quiz generated from Obsidian Markdown file.</p>
+        </div>
+    </div>
+
+    <script>
+    // Raw data from the Markdown file, parsed into a JavaScript object array
+    const quizData = [
+        {
+            "id": 1,
+            "question": "It was a civilized and orderly society. The world 'Orderly' used in the above sentence is -",
+            "options": [
+                {"text": "Adverb", "correct": false},
+                {"text": "Adjective", "correct": true},
+                {"text": "Noun", "correct": false},
+                {"text": "Pronoun", "correct": false}
+            ],
+            "explanation": "In the sentence, both 'civilized' and 'orderly' are describing the noun 'society'. Therefore, 'orderly' is functioning as an adjective. While many words ending in '-ly' are adverbs (like 'quickly' or 'sadly'), some, like 'orderly', 'friendly', and 'lovely', are adjectives."
+        },
+        {
+            "id": 2,
+            "question": "Match the following (the word 'Next' and its Parts of Speech)<br>(1) I shall see you next Monday<br>(2) What next?<br>(3) He was sitting next her.<br><br>(A) Preposition<br>(B) Adverb<br>(C) Adjective",
+            "options": [
+                {"text": "123 - ABC", "correct": false},
+                {"text": "123 - ACB", "correct": false},
+                {"text": "123 - CBA", "correct": true},
+                {"text": "123 - CAB", "correct": false}
+            ],
+            "explanation": "This option correctly identifies the part of speech for 'next' in each context:<br>- <strong>(1) next Monday -> (C) Adjective:</strong> 'next' modifies the noun 'Monday'.<br>- <strong>(2) What next? -> (B) Adverb:</strong> 'next' functions as an adverb of time, modifying the implied verb 'happens'.<br>- <strong>(3) next her -> (A) Preposition:</strong> 'next' is part of the compound preposition 'next to' (the 'to' is often omitted in informal speech), showing position in relation to 'her'."
+        },
+        {
+            "id": 3,
+            "question": "Identify the sentence in which the word 'Round' has been used as Adverb<br>(1) The child was watching it all with big round eyes.<br>(2) He had a scarf round his neck.<br>(3) They've built a high fence all round to keep intruders out.<br>(4) Put both the surname and publication date in round brackets.<br>(5) How do you make the wheels go round?",
+            "options": [
+                {"text": "2, 3 and 5", "correct": false, "userChoice": true},
+                {"text": "2, 3 and 4", "correct": false},
+                {"text": "1, 4 and 5", "correct": false},
+                {"text": "3 and 5", "correct": true}
+            ],
+            "explanation": "The word 'round' can be:<br>- <strong>Adjective:</strong> when it describes a noun (e.g., `round eyes`, `round brackets`).<br>- <strong>Preposition:</strong> when it shows location in relation to something else (e.g., `a scarf round his neck`).<br>- <strong>Adverb:</strong> when it modifies a verb, indicating direction or place (e.g., `go round`, `built all round`).<br>Sentences (3) and (5) are the only ones where 'round' functions as an adverb."
+        },
+        {
+            "id": 4,
+            "question": "Identify the sentence that does not contain a Demonstrative Adjective",
+            "options": [
+                {"text": "3 and 5", "correct": true},
+                {"text": "4 and 5", "correct": false},
+                {"text": "2 and 3", "correct": false},
+                {"text": "3, 4 and 5", "correct": false, "userChoice": true}
+            ],
+            "explanation": "A <strong>Demonstrative Adjective</strong> modifies a noun that follows it (e.g., `those shoes`, `these decisions`). A <strong>Demonstrative Pronoun</strong> takes the place of a noun (e.g., `This is nice`, `Those are expensive`).<br>- Sentences (1), (2), and (4) contain demonstrative adjectives.<br>- Sentences (3) and (5) use 'This' as a pronoun, so they do not contain a demonstrative adjective."
+        },
+        {
+            "id": 5,
+            "question": "It is not good to smoke .............cigarette before .......meal.",
+            "options": [
+                {"text": "a, X", "correct": false},
+                {"text": "a, the", "correct": false},
+                {"text": "a, a", "correct": true},
+                {"text": "X, X", "correct": false, "userChoice": true}
+            ],
+            "explanation": "In English, singular countable nouns (like 'cigarette', 'meal', 'book', 'car') generally require a determiner, such as an article ('a', 'an', 'the'), when used. When speaking generally about a non-specific item, 'a' or 'an' is used. The zero article (X) is typically used for plural nouns or uncountable nouns in general statements."
+        },
+        {
+            "id": 6,
+            "question": "......house made of ........stone can be very pretty.",
+            "options": [
+                {"text": "A, a", "correct": false},
+                {"text": "The, a", "correct": false},
+                {"text": "A, X", "correct": true},
+                {"text": "X, X", "correct": false}
+            ],
+            "explanation": "Use <strong>'a/an'</strong> for singular countable nouns in general statements. Use the <strong>zero article (X)</strong> for uncountable nouns (like materials such as stone, wood, glass) when speaking generally. The sentence means \"Any house that is made of the material stone can be very pretty.\""
+        },
+        {
+            "id": 7,
+            "question": "Choose the correct sentence (Use of Determiners)<br>(1) Please give me some more pudding. I am sorry but there is not any.<br>(2) I doubt if there are any sweets left. You had better give some chocolate to the children that haven't had any.<br>(3) The student could hardly speak any word.<br>(4) He asked me for some ice; but I could not find any.",
+            "options": [
+                {"text": "2, 3, and 4", "correct": false},
+                {"text": "1, 2, 3 and 4", "correct": true},
+                {"text": "3 and 4", "correct": false},
+                {"text": "1, 3 and 4", "correct": false}
+            ],
+            "explanation": "The rules for 'some' and 'any' are followed correctly in all sentences:<br>- <strong>Some:</strong> Used in affirmative statements (`some more pudding`, `some chocolate`, `some ice`) and offers/requests.<br>- <strong>Any:</strong> Used in negative statements (`not any`, `haven't had any`, `could not find any`), questions, `if` clauses (`if there are any`), and with words having a negative meaning like `hardly` (`hardly speak any word`)."
+        },
+        {
+            "id": 8,
+            "question": "Choose the incorrect sentence - (use of Determiners)",
+            "options": [
+                {"text": "2, 3 and 4", "correct": true},
+                {"text": "3 and 4", "correct": false},
+                {"text": "2 and 4", "correct": false},
+                {"text": "1 and 3", "correct": false, "userChoice": true}
+            ],
+            "explanation": "- <strong>(1) Correct:</strong> \"a few moments\" is correct usage for a small number of countable items.<br>- <strong>(2) Incorrect:</strong> \"a few tea\" is wrong. Tea is an uncountable noun, so it should be \"a little tea\".<br>- <strong>(3) Incorrect:</strong> \"only few\" is unidiomatic. The correct phrase is \"only a few\". 'Few' by itself has a negative meaning ('not many'), which clashes with 'only'.<br>- <strong>(4) Incorrect:</strong> While grammatically possible, \"few questions\" has a negative, almost dismissive tone (\"hardly any questions\"). In a polite request, \"a few questions\" is the standard, natural choice."
+        },
+        {
+            "id": 9,
+            "question": "When I ..........her house I ..........that she ..........all the five children and ............suicide.",
+            "options": [
+                {"text": "reached, had found, killed, had committed", "correct": false},
+                {"text": "reached, found, killed, had committed", "correct": false},
+                {"text": "had reached, found, have killed, committed", "correct": false},
+                {"text": "reached, found, had killed, had committed", "correct": true}
+            ],
+            "explanation": "When describing a sequence of events in the past, the <strong>Simple Past</strong> is used for the main narrative events. The <strong>Past Perfect (had + past participle)</strong> is used to describe actions that were completed *before* the main narrative events took place.<br>- <strong>Main Narrative (Simple Past):</strong> When I <strong>reached</strong> her house, I <strong>found</strong>...<br>- <strong>Earlier Action (Past Perfect):</strong> ...that she <strong>had killed</strong> the children and <strong>had committed</strong> suicide. (These events were finished before the arrival)."
+        },
+        {
+            "id": 10,
+            "question": "Choose the incorrect sentence (Use of Tense)",
+            "options": [
+                {"text": "2 and 3", "correct": false},
+                {"text": "1 and 3", "correct": false},
+                {"text": "only 2", "correct": true},
+                {"text": "only 3", "correct": false, "userChoice": true}
+            ],
+            "explanation": "- <strong>(1) Correct:</strong> Uses the Future Perfect tense (`will have realized`) correctly with the time marker \"By the time... tomorrow\".<br>- <strong>(2) Incorrect:</strong> \"The sun rises in the east\" is a correct general truth. However, the second clause \"now it sets and night falls\" is awkward and illogical. \"Now\" requires a continuous tense like \"now it <strong>is setting</strong> and night <strong>is falling</strong>\". The use of the simple present implies a general truth, which clashes with \"now\".<br>- <strong>(3) Correct:</strong> Uses simple present (`rains`, `does not move`) for a habitual action introduced by \"Whenever\".<br>- <strong>(4) Correct:</strong> Uses Past Continuous (`was passing`) for a background action interrupted by a Simple Past action (`came`)."
+        },
+        {
+            "id": 11,
+            "question": "Jyoti ____ her homework all morning but she ____ yet.",
+            "options": [
+                {"text": "has been doing, had not completed", "correct": false},
+                {"text": "has been doing, has not completed", "correct": true},
+                {"text": "is doing, did not complete", "correct": false},
+                {"text": "was doing, has not completed", "correct": false}
+            ],
+            "explanation": "This sentence combines two key time markers:<br>- <strong>\"all morning\"</strong> suggests a continuous action over a period leading up to the present, making the Present Perfect Continuous (`has been doing`) the best choice for the first blank.<br>- <strong>\"yet\"</strong> is a strong indicator for the Present Perfect tense (`has not completed`), used to express that an expected action has not occurred up to now."
+        },
+        {
+            "id": 12,
+            "question": "Jyoti ____ to get a job since she came here but she ____ yet.",
+            "options": [
+                {"text": "tried, has not succeed", "correct": false},
+                {"text": "has been trying, did not succeed", "correct": false},
+                {"text": "has tried, did not succeed", "correct": false},
+                {"text": "has been trying, has not succeeded", "correct": true}
+            ],
+            "explanation": "This sentence demonstrates a classic pairing of tenses:<br>- <strong>Present Perfect Continuous (`has been trying`)</strong> is used with `for` and `since` to describe the duration of an unfinished action that started in the past.<br>- <strong>Present Perfect (`has not succeeded`)</strong> is used with `yet` to show that an expected result has not been achieved by the present time."
+        },
+        {
+            "id": 13,
+            "question": "You should take the medicines twice daily.",
+            "options": [
+                {"text": "SVOA", "correct": false, "userChoice": true},
+                {"text": "SVOC", "correct": false},
+                {"text": "SVOCA", "correct": false},
+                {"text": "SVOAA", "correct": true}
+            ],
+            "explanation": "The sentence can be broken down as:<br>- <strong>S</strong> (Subject): You<br>- <strong>V</strong> (Verb/Predicator): should take<br>- <strong>O</strong> (Object): the medicines<br>- <strong>A</strong> (Adverbial of frequency): twice<br>- <strong>A</strong> (Adverbial of frequency/time): daily<br>In sentence pattern analysis, 'A' stands for Adverbial. An adverbial provides more information about the action, such as how, when, where, or how often it occurs. Both 'twice' and 'daily' answer the question \"how often?\" and are therefore two separate adverbials."
+        },
+        {
+            "id": 14,
+            "question": "That the customer gave a false name shows that he was doing something dishonest. Which of the following is not correct –",
+            "options": [
+                {"text": "\"That the customer gave a false name\" is a noun clause functioning as subject", "correct": false},
+                {"text": "'that he was doing something dishonest' noun clause functioning as object", "correct": false},
+                {"text": "The sentence follows the pattern SPO", "correct": false},
+                {"text": "The sentence follows the pattern SPC", "correct": true}
+            ],
+            "explanation": "A <strong>Subject Complement (C)</strong> follows a linking verb (like 'is', 'seems', 'becomes') and renames or describes the subject. An <strong>Object (O)</strong> follows an action verb and receives the action. Here, 'shows' is an action verb, and the clause \"that he was doing something dishonest\" is the thing being shown, making it the object."
+        },
+        {
+            "id": 15,
+            "question": "Identify the sentence having the pattern - S + V + O + C + A",
+            "options": [
+                {"text": "1 and 5", "correct": true},
+                {"text": "1, 3 and 5", "correct": false},
+                {"text": "2 and 5", "correct": false, "userChoice": true},
+                {"text": "2, 4 and 5", "correct": false}
+            ],
+            "explanation": "The pattern <strong>SVOCA</strong> (Subject-Verb-Object-Complement-Adverbial) requires an <strong>Object Complement (C)</strong>, which is a word that renames or describes the direct object.<br>- In (1), `difficult` describes the object `the things`.<br>- In (5), `baby` renames the object `her husband`.<br>The other sentences have different patterns, such as SVOO (two objects) or SVOA (object and adverbial, but no complement)."
+        },
+        {
+            "id": 16,
+            "question": "Rani bought a dress for her husband. Which one of the following sentences given below does not belong to the pattern given above?",
+            "options": [
+                {"text": "They left the room in a hurry.", "correct": false},
+                {"text": "She told him about that.", "correct": false, "userChoice": true},
+                {"text": "He painted the door white.", "correct": true},
+                {"text": "We put the books on the table.", "correct": false}
+            ],
+            "explanation": "The pattern of the main sentence is <strong>SVOO</strong>: Rani (S) bought (V) her husband (Oi) a dress (Od). We are looking for the sentence with a different core structure.<br>- (1) SVA: They(S) left(V) the room(A).<br>- (2) SVOO/SVOA: She(S) told(V) him(Oi) about that(Od).<br>- (3) <strong>SVOC</strong>: He(S) painted(V) the door(O) white(C).<br>- (4) SVOA: We(S) put(V) the books(O) on the table(A).<br>The pattern with an Object Complement (SVOC) is fundamentally different from the patterns with two objects or an object and an adverbial."
+        },
+        {
+            "id": 17,
+            "question": "Match the following (Parts of Pindaric Ode)<br>(1) Strophe<br>(2) Anti-strophe<br>(3) Epode<br><br>(A) Moving to the right<br>(B) Moving to the left<br>(C) Standing still",
+            "options": [
+                {"text": "123 - ABC", "correct": false},
+                {"text": "123 - ACB", "correct": false},
+                {"text": "123 - BAC", "correct": true},
+                {"text": "123 - CBA", "correct": false}
+            ],
+            "explanation": "This correctly matches the movements of the chorus in a classical Greek Pindaric ode:<br>- <strong>(1) Strophe (Turn):</strong> The chorus moves from one side of the stage to the other, conventionally described as moving left. (1-B)<br>- <strong>(2) Anti-strophe (Counter-turn):</strong> The chorus moves back in the opposite direction, moving right. (2-A)<br>- <strong>(3) Epode (Stand):</strong> The chorus stands still in the center to deliver the final section. (3-C)"
+        },
+        {
+            "id": 18,
+            "question": "Who wrote the elegy \"A Slumber Did My Spirit Seal\"?",
+            "options": [
+                {"text": "William Wordsworth", "correct": true},
+                {"text": "John Keats", "correct": false},
+                {"text": "Samuel Taylor Coleridge", "correct": false},
+                {"text": "Percy Bysshe Shelley", "correct": false}
+            ],
+            "explanation": "\"A Slumber Did My Spirit Seal\" is one of the five \"Lucy poems\" written by William Wordsworth between 1798 and 1801. It is a short lyric poem often interpreted as an elegy on the death of a loved one (the fictional \"Lucy\")."
+        },
+        {
+            "id": 19,
+            "question": "Which of the following is not an example of Onomatopoeia?",
+            "options": [
+                {"text": "The child was afraid of the roaring tiger.", "correct": false},
+                {"text": "The buzzing bee flew straight to my dog's ear.", "correct": false, "userChoice": true},
+                {"text": "All the world's a stage, And all the men and women merely players.", "correct": true},
+                {"text": "The book fell to the ground with a loud thump.", "correct": false}
+            ],
+            "explanation": "<strong>Onomatopoeia</strong> is a literary device where a word's pronunciation imitates its sound (e.g., *buzz, roar, thump*). A <strong>metaphor</strong> is a figure of speech that makes a direct comparison between two unlike things. Your choice of (2) was incorrect because 'buzzing' is a prime example of onomatopoeia. Sentence (3) is the only option that does not contain a sound-imitating word."
+        },
+        {
+            "id": 20,
+            "question": ".......... is a technique employed by writers to expose and criticize foolishness and corruption of an individual or a society by using humor, irony, exaggeration or ridicule.",
+            "options": [
+                {"text": "satire", "correct": true},
+                {"text": "Onomatopoeia", "correct": false},
+                {"text": "Metaphor", "correct": false},
+                {"text": "Hyperbole", "correct": false}
+            ],
+            "explanation": "<strong>Satire</strong> is a broad literary genre and technique. Its main goal is social or political criticism, and it achieves this by employing various tools, including humor, irony (saying the opposite of what is meant), exaggeration (hyperbole), and ridicule."
+        },
+        {
+            "id": 21,
+            "question": "Which writer is best known for his gothic horror tales, including \"The Raven\" and \"The Pit and the Pendulum\"?",
+            "options": [
+                {"text": "Edgar Allan Poe", "correct": true},
+                {"text": "Nathaniel Hawthorne", "correct": false},
+                {"text": "Herman Melville", "correct": false},
+                {"text": "Henry James", "correct": false}
+            ],
+            "explanation": "Edgar Allan Poe is considered the master of the American Gothic short story. \"The Raven\" and \"The Pit and the Pendulum\" are two of his most famous works, defining the genre with their themes of death, madness, and psychological terror."
+        },
+        {
+            "id": 22,
+            "question": "Choose incorrect option about Pre-Raphaelite Movement or Brotherhood",
+            "options": [
+                {"text": "", "correct": false},
+                {"text": "", "correct": false},
+                {"text": "", "correct": false},
+                {"text": "The group associated their work with John Milton, an English poet whose influences were driven by his religious background.", "correct": true}
+            ],
+            "explanation": "The question asks to identify the incorrect statement. Statements (1), (2), and (3) are all historically accurate facts about the Pre-Raphaelite Brotherhood. Statement (4) makes a factual error by substituting the poet John Milton for the art critic John Ruskin, who was the movement's most important contemporary defender and theorist."
+        },
+        {
+            "id": 23,
+            "question": "Which of the following is true about the aspects Romanticism -",
+            "options": [
+                {"text": "2 and 4", "correct": false},
+                {"text": "2, 3, and 4", "correct": false},
+                {"text": "1, 2, 3, and 4", "correct": true},
+                {"text": "1, 2 and 3", "correct": false}
+            ],
+            "explanation": "The question lists four key pillars of Romanticism:<br>1.  <strong>Nature:</strong> A reverence for the wild, sublime, and picturesque aspects of nature.<br>2.  <strong>Primitivism:</strong> The idealization of \"primitive\" or \"natural\" man (the \"Noble Savage\"), uncorrupted by civilization.<br>3.  <strong>Anti-Industrialism:</strong> A reaction against the perceived ugliness, dehumanization, and social ills of the Industrial Revolution.<br>4.  <strong>Individualism/Subjectivity:</strong> A profound focus on the individual's emotions, experiences, and inner world. Poetry became, as Wordsworth said, \"the spontaneous overflow of powerful feelings.\""
+        },
+        {
+            "id": 24,
+            "question": "Which of the following is true with regard to Renaissance -",
+            "options": [
+                {"text": "2 and 4", "correct": false},
+                {"text": "2, 3, and 4", "correct": false},
+                {"text": "1, 2, 3, and 4", "correct": false},
+                {"text": "1, 2 and 4", "correct": true}
+            ],
+            "explanation": "- <strong>(1) True:</strong> This is the standard definition of the Renaissance.<br>- <strong>(2) True:</strong> Humanism, a focus on human potential and achievements rather than exclusively divine matters, was the core intellectual movement of the Renaissance.<br>- <strong>(3) False:</strong> Sidney and Spenser were major English Renaissance poets. Browning and Tennyson belong to the 19th-century Victorian era.<br>- <strong>(4) True:</strong> This accurately describes the group of late 16th-century English playwrights known as the University Wits, with Christopher Marlowe being the most significant among them."
+        },
+        {
+            "id": 25,
+            "question": "Match the following (Renaissance writers and works)<br>(1) The Four PP<br>(2) Ralph Roister Doister<br>(3) The Spanish Tragedy<br>(4) The Comedy of Errors<br><br>(A) John Heywood<br>(B) Nicholas Udall<br>(C) Thomas Kyd<br>(D) William Shakespeare",
+            "options": [
+                {"text": "1234 - ABCD", "correct": true},
+                {"text": "1234 - ACB D", "correct": false},
+                {"text": "1234 - CDAB", "correct": false},
+                {"text": "1234 - BCAD", "correct": false}
+            ],
+            "explanation": "This question tests knowledge of key plays and playwrights from the English Renaissance (specifically the Tudor and early Jacobean periods). All pairings in option (1) are standard and foundational facts of English literary history."
+        },
+        {
+            "id": 26,
+            "question": "Which of the following is true with regard to Metaphysical poetry -",
+            "options": [
+                {"text": "1, 2 and 3", "correct": false},
+                {"text": "2, 3 and 4", "correct": false},
+                {"text": "1 and 4", "correct": false},
+                {"text": "1, 2, 3, and 4", "correct": true}
+            ],
+            "explanation": "This question provides a full summary of Metaphysical poetry:<br>- <strong>(1) Naming:</strong> The term was coined after the fact by critics like Dryden and Johnson, who used it to criticize the poets' \"unnatural\" intellectualism.<br>- <strong>(2) Poets:</strong> These are the canonical figures of the movement.<br>- <strong>(3) Style:</strong> These are the defining stylistic traits—conversational tone, intellectual metaphors (conceits), and a love for argument and paradox.<br>- <strong>(4) Themes:</strong> These are the primary subjects that the poets explored with their unique style."
+        },
+        {
+            "id": 27,
+            "question": "\"LIKE a huge Python, winding round and round / The rugged trunk, indented deep with scars...\" The above line appear in -",
+            "options": [
+                {"text": "Kamala Das' My Mother at Sixty Six", "correct": false},
+                {"text": "Nissim Ezekiel's \"Night of Scorpion\"", "correct": false},
+                {"text": "Sarojini Naidu's \"In the Bazaars of Hyderabad\"", "correct": false},
+                {"text": "Toru Dutt's “Our Casuarina Tree”", "correct": true}
+            ],
+            "explanation": "These are the opening lines of Toru Dutt's celebrated poem, where she uses a powerful simile to describe a creeper vine encircling the casuarina tree of her childhood."
+        },
+        {
+            "id": 28,
+            "question": "Charulata, Mrinmoyee, Mrinal, Suman, Binodini are famous female characters of -",
+            "options": [
+                {"text": "Mulk Raj Anand", "correct": false},
+                {"text": "Manju Kapoor", "correct": false},
+                {"text": "Rabindra Nath Tagore", "correct": true},
+                {"text": "Shashi Despande", "correct": false, "userChoice": true}
+            ],
+            "explanation": "These are all iconic female protagonists from the novels and short stories of Rabindranath Tagore, such as Charulata (*Nastanirh* or *The Broken Nest*), Mrinmoyee (*Samapti* or *The Conclusion*), and Binodini (*Chokher Bali* or *A Grain of Sand*)."
+        },
+        {
+            "id": 29,
+            "question": "Which of the following is true with regard to Mulk Raj Anand",
+            "options": [
+                {"text": "2, 3, and 4", "correct": false},
+                {"text": "1, 2 and 3", "correct": false},
+                {"text": "1, 3 and 4", "correct": false},
+                {"text": "1, 2, 3 and 4", "correct": true}
+            ],
+            "explanation": "- <strong>(1) True:</strong> Anand, Rao, and Narayan are often called the \"founding triumvirate\" of the Indian English novel.<br>- <strong>(2) True:</strong> His works, while rooted in the Indian context of the 'subaltern' (oppressed people), have universal themes of social injustice.<br>- <strong>(3) True:</strong> *Untouchable* is a powerful social protest novel that critiques the caste system through its protagonist, Bakha.<br>- <strong>(4) True:</strong> This list accurately summarizes the major recurring themes in Anand's novels."
+        },
+        {
+            "id": 30,
+            "question": "Which of the following is true about R.K.Narayan's famous novel The Guide",
+            "options": [
+                {"text": "2, 3, and 4", "correct": false},
+                {"text": "1, 2 and 3", "correct": true},
+                {"text": "1, 3 and 4", "correct": false},
+                {"text": "1, 2, 3 and 4", "correct": false}
+            ],
+            "explanation": "- <strong>(1) True:</strong> The novel was published in 1958.<br>- <strong>(2) True:</strong> This accurately describes the protagonist Raju's character arc.<br>- <strong>(3) True:</strong> This describes the setting (Malgudi) and major themes of the novel.<br>- <strong>(4) False:</strong> While the novel did win the prestigious Sahitya Akademi Award, it was awarded in <strong>1960</strong>, not 1958. This factual error makes the statement incorrect."
+        },
+        {
+            "id": 31,
+            "question": "Indian Dancer, Indian Love Song, Indian Weavers are famous poems of -",
+            "options": [
+                {"text": "Toru Dutt", "correct": false},
+                {"text": "Sarojini Naidu", "correct": true},
+                {"text": "Kamala Das", "correct": false, "userChoice": true},
+                {"text": "Jayanta Mahapatra", "correct": false}
+            ],
+            "explanation": "Sarojini Naidu, the \"Nightingale of India,\" wrote lyrical poetry that celebrated Indian life, culture, and landscape. \"Indian Weavers\" is a short, symbolic poem that uses the weavers' work at different times of day to represent the stages of human life: birth, marriage, and death."
+        },
+        {
+            "id": 32,
+            "question": "Don't smoke in the forest. Fires ____ easily at this time of the year.",
+            "options": [
+                {"text": "break in", "correct": false},
+                {"text": "break up", "correct": false},
+                {"text": "break out", "correct": true},
+                {"text": "beak down", "correct": false}
+            ],
+            "explanation": "The phrasal verb <strong>'break out'</strong> means to start suddenly, and it is commonly used for fires, wars, epidemics, and fights."
+        },
+        {
+            "id": 33,
+            "question": "The police ____ a thorough search of the premises, but failed to find any drugs.",
+            "options": [
+                {"text": "carried in", "correct": false},
+                {"text": "carried out", "correct": true},
+                {"text": "carried away", "correct": false},
+                {"text": "carried off", "correct": false}
+            ],
+            "explanation": "The phrasal verb <strong>'carry out'</strong> means to perform or conduct a task, plan, or order. The collocation \"carry out a search\" is very common."
+        },
+        {
+            "id": 34,
+            "question": "I think you'd better lay off fatty foods for a while. \"Lay off\" means -",
+            "options": [
+                {"text": "to stop using something", "correct": true},
+                {"text": "to start using something", "correct": false},
+                {"text": "to collect something", "correct": false},
+                {"text": "to distribute something", "correct": false}
+            ],
+            "explanation": "The phrasal verb <strong>'lay off'</strong> has several meanings. In this context, it means to stop doing or using something. It can also mean to stop bothering someone (\"Lay off me, I'm tired!\") or, in a work context, to make someone redundant (\"The company laid off 100 workers.\"). The sentence's context of \"fatty foods\" makes \"to stop using/consuming\" the only logical choice."
+        },
+        {
+            "id": 35,
+            "question": "The synonym of the word - Reluctant",
+            "options": [
+                {"text": "noble", "correct": false},
+                {"text": "anxious", "correct": false},
+                {"text": "ready to do something", "correct": false},
+                {"text": "unwilling", "correct": true}
+            ],
+            "explanation": "<strong>'Reluctant'</strong> means unwilling and hesitant to do something. <strong>'Unwilling'</strong> is a direct synonym."
+        },
+        {
+            "id": 36,
+            "question": "Select the correct pair of antonyms.",
+            "options": [
+                {"text": "Absurd - Inadequate", "correct": false},
+                {"text": "Dull - Despair", "correct": false},
+                {"text": "Deep - Hollow", "correct": false},
+                {"text": "Establish - Demolish", "correct": true}
+            ],
+            "explanation": "<strong>'Establish'</strong> means to set up or create something on a firm basis. <strong>'Demolish'</strong> means to pull or knock down a structure. They are direct opposites."
+        },
+        {
+            "id": 37,
+            "question": "The Antonym of the word - Detrimental",
+            "options": [
+                {"text": "adverse", "correct": false},
+                {"text": "mischievous", "correct": false},
+                {"text": "advantageous", "correct": true},
+                {"text": "damaging", "correct": false}
+            ],
+            "explanation": "<strong>'Detrimental'</strong> means tending to cause harm. Its opposite is <strong>'advantageous'</strong>, which means creating favorable circumstances or benefit."
+        },
+        {
+            "id": 38,
+            "question": "The correct phonetic transcription of the word - digestion",
+            "options": [
+                {"text": "/daɪ'dʒesən/", "correct": false},
+                {"text": "/daɪ'dʒeʃən/", "correct": false},
+                {"text": "/daɪ'dʒestʃən/", "correct": true},
+                {"text": "/daɪ'dʒestʃiən/", "correct": false}
+            ],
+            "explanation": "This transcription accurately captures the sounds:<br>- <strong>daɪ</strong>: the diphthong in the first syllable.<br>- <strong>'dʒes</strong>: the stressed second syllable starting with the /dʒ/ sound.<br>- <strong>tʃən</strong>: the final syllable where 'tion' following an 's' is pronounced /tʃən/, as in 'ques<strong>tion</strong>'."
+        },
+        {
+            "id": 39,
+            "question": "The correct phonetic transcription of the word - bouquet",
+            "options": [
+                {"text": "/bo'keɪ/", "correct": false, "userChoice": true},
+                {"text": "/bu:'keɪ/", "correct": false},
+                {"text": "/bəʊ'keɪ:/", "correct": true},
+                {"text": "/bəʊ'keɪ/", "correct": false}
+            ],
+            "explanation": "'Bouquet' is a word of French origin, and its pronunciation reflects this. The 't' at the end is silent. The first syllable is pronounced with the diphthong <strong>/əʊ/</strong> (as in 'boat') in standard British English. The second, stressed syllable '-quet' is pronounced with the diphthong <strong>/eɪ/</strong> (as in 'day'). Thus, the correct transcription is <strong>/bəʊˈkeɪ/</strong>. The test's correct answer includes a typo (a colon at the end) but has the correct vowel and consonant sounds."
+        },
+        {
+            "id": 40,
+            "question": "The correct phonetic transcription of the word - Museum",
+            "options": [
+                {"text": "/mju: 'ziəm/", "correct": false, "userChoice": true},
+                {"text": "/mju:'zi:əm/", "correct": true},
+                {"text": "/mju: 'zijm/", "correct": false},
+                {"text": "/mju: 'zijem", "correct": false}
+            ],
+            "explanation": "The transcription is /mjuːˈziːəm/.<br>- <strong>mjuː</strong>: The first syllable has a long /uː/ sound.<br>- <strong>'ziː</strong>: The stressed second syllable has a long /iː/ sound (as in 's<strong>ee</strong>').<br>- <strong>əm</strong>: The final, unstressed syllable is a schwa /ə/ followed by /m/."
+        },
+        {
+            "id": 41,
+            "question": "Which of the following is a merit of Direct Method",
+            "options": [
+                {"text": "1, 2 and 4", "correct": false},
+                {"text": "2, 3, and 4", "correct": false, "userChoice": true},
+                {"text": "1, 3, and 4", "correct": false},
+                {"text": "1, 2, 3 and 4", "correct": true}
+            ],
+            "explanation": "The <strong>Direct Method</strong> emphasizes communication and learning through context.<br>- <strong>(1) is a merit:</strong> It discourages rote learning in favor of understanding words through context and association.<br>- <strong>(2) is a merit:</strong> The heavy focus on speaking and listening naturally leads to improved pronunciation.<br>- <strong>(3) is a merit:</strong> It aims to develop all four skills together, unlike GTM which focuses only on reading/writing.<br>- <strong>(4) is a merit:</strong> By actively using the language, students move words they only understand (passive vocabulary) into words they can use themselves (active vocabulary)."
+        },
+        {
+            "id": 42,
+            "question": "Choose the statement not true of Grammar Translation method.",
+            "options": [
+                {"text": "Translation is a valuable exercise.", "correct": false},
+                {"text": "The teacher is the authority in the classroom.", "correct": false},
+                {"text": "Vocabulary and grammar are emphasized.", "correct": false},
+                {"text": "Primary skills to be developed are listening and speaking.", "correct": true}
+            ],
+            "explanation": "The question asks to identify the false statement about the <strong>Grammar-Translation Method (GTM)</strong>. The main goal of GTM is to enable students to read literature in the target language and translate. It has little to no focus on communicative skills. Therefore, the idea that listening and speaking are primary skills is directly contrary to the principles of GTM."
+        },
+        {
+            "id": 43,
+            "question": "Which one of the following is not true of Guided Composition Exercises?",
+            "options": [
+                {"text": "Graded and structured language manipulations are applied to model passages", "correct": false},
+                {"text": "Outlines in words or pictures are given.", "correct": false},
+                {"text": "Language control is not relaxed till the end of exercises.", "correct": true},
+                {"text": "They give students a sense of progress and improvement.", "correct": false}
+            ],
+            "explanation": "<strong>Guided Composition</strong> is a pedagogical approach that bridges the gap between controlled exercises and free writing. The fundamental idea is to provide scaffolding that is slowly removed. Therefore, the statement that control is *not* relaxed is false; the relaxation of control is the central principle of the process."
+        },
+        {
+            "id": 44,
+            "question": "The main shortcoming of the Direct Method is that:",
+            "options": [
+                {"text": "It lays emphasis on fluency.", "correct": false},
+                {"text": "The learner is over-exposed to the complexities of the target language.", "correct": true},
+                {"text": "It provides ample opportunities to the learner to listen to spoken language.", "correct": false},
+                {"text": "It does not provide ample opportunities to the student to listen to spoken language.", "correct": false, "userChoice": true}
+            ],
+            "explanation": "While the Direct Method has many merits (like improving speaking skills), it also has limitations. A major one is that it can be difficult to implement, especially with absolute beginners or in large classes. By forbidding the use of the mother tongue, it can be hard to explain complex grammar or abstract vocabulary, leading to the learner being \"over-exposed\" and potentially confused."
+        },
+        {
+            "id": 45,
+            "question": "Rearrange the four levels of comprehension as they are generally dealt with in the classroom:<br>1. Reorganisation level<br>2. Literal level<br>3. Evaluative level<br>4. Interpretative and inferential level",
+            "options": [
+                {"text": "1, 3, 4, 2", "correct": false},
+                {"text": "4, 3, 1, 2", "correct": false},
+                {"text": "2, 1, 4, 3", "correct": true},
+                {"text": "3, 4, 1, 2", "correct": false}
+            ],
+            "explanation": "The levels of comprehension follow a logical progression:<br>1.  <strong>Literal (2):</strong> Understanding what the text explicitly says. \"Reading the lines.\"<br>2.  <strong>Reorganisation (1):</strong> Finding and re-ordering information that is explicitly stated in the text.<br>3.  <strong>Interpretative/Inferential (4):</strong> Understanding what the text implies but does not state directly. \"Reading between the lines.\"<br>4.  <strong>Evaluative/Critical (3):</strong> Making judgments about the text, such as its value, truthfulness, or quality. \"Reading beyond the lines.\"<br>The correct pedagogical sequence is 2 → 1 → 4 → 3."
+        },
+        {
+            "id": 46,
+            "question": "Grammar should be taught:",
+            "options": [
+                {"text": "as a means to achieve good command of listening, speaking, reading and writing skills", "correct": false, "userChoice": true},
+                {"text": "as an end in itself", "correct": false},
+                {"text": "as a means to achieve good command of only speaking and reading skills", "correct": false},
+                {"text": "as a means to achieve good command of writing skills only", "correct": true}
+            ],
+            "explanation": "This question is about the purpose of teaching grammar. There are different philosophies.<br>- <strong>Communicative Approach (Option 1):</strong> Views grammar as a tool that supports all four communication skills. This is the most widely accepted modern view.<br>- <strong>Traditional/Formalist Approach (Option 2 or 4):</strong> May view grammar as a system to be learned for its own sake, or primarily as a tool for producing accurate written texts.<br>The test has selected option (4) as correct, suggesting it is operating from a more traditional viewpoint where the most visible and assessable outcome of grammar study is correct writing."
+        },
+        {
+            "id": 47,
+            "question": "Which one of the following is not applicable to the GT Method?",
+            "options": [
+                {"text": "Students are given lists of vocabulary items", "correct": false},
+                {"text": "Students are encouraged to memorize the given rules of the target language", "correct": false},
+                {"text": "Spoken English is greatly emphasized", "correct": true},
+                {"text": "Word to word translation in the mother tongue is considered an effective way of learning the target language", "correct": false}
+            ],
+            "explanation": "The <strong>Grammar-Translation (GT) Method</strong> is defined by its focus on reading classical texts, explicit grammar instruction, and translation. Its major criticism is its near-total neglect of oral/aural skills (speaking and listening). Therefore, the statement that \"Spoken English is greatly emphasized\" is the direct opposite of what is true for the method."
+        },
+        {
+            "id": 48,
+            "question": "In Grammar-Translation Method:",
+            "options": [
+                {"text": "Grammar is taught deductively", "correct": true},
+                {"text": "The ways to teach grammar are borrowed from the Target language.", "correct": false},
+                {"text": "Grammar is taught inductively", "correct": false, "userChoice": true},
+                {"text": "There is no fixed way of teaching grammar.", "correct": false}
+            ],
+            "explanation": "The question asks for a true statement about the Grammar-Translation Method.<br>- <strong>Deductive teaching</strong> means going from general to specific (Rule -> Examples). This is the method GTM uses.<br>- <strong>Inductive teaching</strong> means going from specific to general (Examples -> Rule). This is used in more modern, communicative methods.<br>Your choice, (3), was incorrect because it describes the opposite approach."
+        },
+        {
+            "id": 49,
+            "question": "Which one of the following statements is incorrect about Direct Method?",
+            "options": [
+                {"text": "Student's native language is not used in classroom.", "correct": false},
+                {"text": "Students need to learn how to ask questions as well as answer them.", "correct": false},
+                {"text": "Pronunciation is worked out at the end of the language instruction.", "correct": true},
+                {"text": "Students are encouraged to speak as much as possible.", "correct": false}
+            ],
+            "explanation": "The question asks for the <strong>incorrect</strong> statement. The Direct Method prioritizes oral skills, and correct pronunciation is seen as a vital component of successful spoken communication. It is therefore taught systematically from the outset, not left until the end."
+        },
+        {
+            "id": 50,
+            "question": "Which one of the following options is not a limitation of the Direct Method?",
+            "options": [
+                {"text": "The method requires teachers having native like fluency in English language.", "correct": false, "userChoice": true},
+                {"text": "A lot of teaching aids are required for teaching through this method.", "correct": false},
+                {"text": "The skill of speaking is largely ignored.", "correct": true},
+                {"text": "The method is largely dependent on the teacher's skill rather than on textbooks.", "correct": false}
+            ],
+            "explanation": "A <strong>limitation</strong> is a real drawback or challenge of a method. Options (1), (2), and (4) all describe real challenges associated with implementing the Direct Method. Option (3) is a false statement about the method itself—its main goal is to teach speaking. Since the statement is untrue, it cannot be a limitation."
+        }
+    ];
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const quizContent = document.getElementById('quiz-content');
+        const scoreText = document.getElementById('score-text');
+        const progressBar = document.getElementById('progress-bar');
+        const focusListContainer = document.getElementById('focus-list-container');
+        
+        const focusQuestions = [3, 4, 5, 8, 10, 13, 15, 16, 19, 28, 31, 39, 40, 41, 44, 46, 48, 50];
+        let score = 0;
+        let questionsAnswered = 0;
+        const totalQuestions = quizData.length;
+
+        // Populate Focus List
+        focusQuestions.forEach(qNum => {
+            const focusItem = document.createElement('a');
+            focusItem.className = 'focus-item';
+            focusItem.textContent = qNum;
+            focusItem.href = `#q${qNum}`;
+            focusItem.addEventListener('click', (e) => {
+                e.preventDefault();
+                document.querySelector(focusItem.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                });
+            });
+            focusListContainer.appendChild(focusItem);
+        });
+
+        // Generate Quiz HTML
+        quizData.forEach((q, index) => {
+            const isFocus = focusQuestions.includes(q.id);
+            const questionCard = document.createElement('div');
+            questionCard.className = 'question-card';
+            questionCard.id = `q${q.id}`;
+            if (isFocus) {
+                questionCard.classList.add('focus-question');
+            }
+
+            let optionsHTML = '';
+            q.options.forEach((opt, optIndex) => {
+                const isCorrect = opt.correct ? 'true' : 'false';
+                const userChoiceSpan = opt.userChoice ? '<span class="your-choice">(Your Choice)</span>' : '';
+                optionsHTML += `
+                    <button class="option" data-correct="${isCorrect}">
+                        <span class="option-letter">(${(optIndex + 1)})</span>
+                        <span class="option-text">${opt.text}</span>
+                        ${userChoiceSpan}
+                    </button>
+                `;
+            });
+
+            questionCard.innerHTML = `
+                <p class="question-text">
+                    <span class="q-num">${q.id}.</span> 
+                    ${isFocus ? '<span class="focus-star">⭐</span>' : ''}
+                    <span>${q.question}</span>
+                </p>
+                <div class="options-container">
+                    ${optionsHTML}
+                </div>
+                <div class="explanation">
+                    <h4>📘 In-depth Explanation</h4>
+                    <p>${q.explanation}</p>
+                </div>
+            `;
+            quizContent.appendChild(questionCard);
+        });
+
+        // Add Event Listeners
+        const allOptions = document.querySelectorAll('.option');
+
+        allOptions.forEach(option => {
+            option.addEventListener('click', handleOptionClick);
+        });
+
+        function handleOptionClick(e) {
+            const clickedOption = e.currentTarget;
+            const parentCard = clickedOption.closest('.question-card');
+            const optionsContainer = parentCard.querySelector('.options-container');
+
+            if (optionsContainer.classList.contains('answered')) {
+                return;
+            }
+            optionsContainer.classList.add('answered');
+
+            const isCorrect = clickedOption.getAttribute('data-correct') === 'true';
+            
+            if (isCorrect) {
+                clickedOption.classList.add('correct');
+                score++;
+            } else {
+                clickedOption.classList.add('incorrect');
+            }
+            
+            questionsAnswered++;
+            updateProgress();
+
+            // Disable all options in this card and reveal the correct answer
+            const optionsInCard = parentCard.querySelectorAll('.option');
+            optionsInCard.forEach(opt => {
+                opt.classList.add('disabled');
+                if (opt.getAttribute('data-correct') === 'true') {
+                    opt.classList.add('correct');
+                }
+            });
+
+            // Show explanation
+            const explanation = parentCard.querySelector('.explanation');
+            explanation.classList.add('visible');
+        }
+        
+        function updateProgress() {
+            scoreText.textContent = `Score: ${score} / ${totalQuestions}`;
+            const progressPercent = Math.round((questionsAnswered / totalQuestions) * 100);
+            progressBar.style.width = `${progressPercent}%`;
+            progressBar.textContent = `${progressPercent}%`;
+        }
+    });
+
+    </script>
+</body>
+</html>
