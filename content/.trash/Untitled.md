@@ -1,3 +1,10 @@
+---
+title: Literary Terms and Figures of Speech
+tags:
+  - period-study
+  - questions
+---
+
 ## Literary Terms and Figures of Speech
 
 ### Alliteration

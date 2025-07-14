@@ -1,3 +1,13 @@
+---
+title: 1. I usually sleep well.
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 ### 1. I usually sleep well.
 The word ‘sleep’ in this sentence belongs to the class of words called -
 (1) verb

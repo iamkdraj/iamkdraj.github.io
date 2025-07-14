@@ -1,3 +1,12 @@
+---
+title: 1\. Fill in the blank with the most appropriate degree of adjective from the options given below -
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - questions
+---
+
 ### 1\. Fill in the blank with the most appropriate degree of adjective from the options given below -
 She can knit................than she can sew.
 > [!tip]- (1) best ❌ Incorrect. 'Best' is the superlative degree, used for comparing three or more things.

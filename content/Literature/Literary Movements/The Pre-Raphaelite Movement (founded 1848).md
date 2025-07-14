@@ -1,3 +1,12 @@
+---
+title: Core Principles and Characteristics
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+---
+
 The Pre-Raphaelite Brotherhood (PRB) was a revolutionary group of young English painters, poets, and art critics founded in **1848**. The movement began in the visual arts but had a profound impact on Victorian poetry and design. It was a rebellion against the dull, academic art of their time, which they believed was based on a slavish imitation of the High Renaissance master, **Raphael**. They wanted to return to the art of the **early Italian Renaissance (before Raphael)**, which they admired for its vibrant color, detail, and sincere expression.
 
 ---
@@ -32,3 +41,7 @@ The movement centered around a core group of founders and their associates. They
 *   **Algernon Charles Swinburne (1837-1909)**: A poet whose work, with its radical themes, musicality, and classical influences, is closely associated with the movement.
 *   **John Everett Millais & William Holman Hunt**: The other two principal founders, primarily painters. Their works, like Millais's *Ophelia*, exemplify the PRB style.
 *   **John Ruskin (1819-1900)**: Not a member, but the most powerful art critic of the era. He became the PRB's most important champion, praising their principle of "truth to nature" and urging artists to "go to nature."
+
+---
+## Backlinks
+- [[index]]

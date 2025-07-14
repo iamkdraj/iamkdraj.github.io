@@ -1,3 +1,12 @@
+---
+title: Context and Influences
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+---
+
 Romanticism was a profound artistic, literary, and intellectual movement that originated as a revolt against the core values of the **Neo-Classical Age**. It turned away from the Neo-Classical emphasis on **reason, order, and society**, and instead championed **emotion, imagination, and the individual**. This movement is also known as the **Romantic Revival**.
 
 The movement's official beginning is marked by the publication of William Wordsworth and Samuel Taylor Coleridge's ***Lyrical Ballads*** in **1798**. It ends with the coronation of Queen Victoria in 1837, which began the Victorian Era.
@@ -46,3 +55,7 @@ The movement is dominated by poetry, with the poets traditionally divided into t
 *   **Sir Walter Scott**: Considered the father of the historical novel (*Ivanhoe*).
 *   **Jane Austen**: Her novels of manners are stylistically closer to Neo-Classical ideals but were written during this period (*Pride and Prejudice*).
 *   **Charles Lamb**: Known as the "prince of English essayists" (*Essays of Elia*).
+
+---
+## Backlinks
+- [[index]]

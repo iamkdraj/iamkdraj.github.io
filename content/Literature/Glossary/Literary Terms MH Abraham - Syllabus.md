@@ -1,3 +1,14 @@
+---
+title: Literary Terms and Figures of Speech
+tags:
+  - glossary
+  - literature
+  - movement-study
+  - period-study
+  - questions
+  - syllabus
+---
+
 ## Literary Terms and Figures of Speech
 
 ### Alliteration

@@ -1,3 +1,12 @@
+---
+title: Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+---
+
 The Romantic Period in English literature was a profound artistic, literary, and intellectual movement that originated as a revolt against the core values of the **Neo-Classical Age**. It turned away from the Neo-Classical emphasis on **reason, order, and society**, and instead championed **emotion, imagination, and the individual**. This movement is also known as the **Romantic Revival** or **Romanticism**.
 
 The period's official beginning is marked by the publication of William Wordsworth and Samuel Taylor Coleridge's ***Lyrical Ballads*** in **1798**. It ends with the coronation of Queen Victoria in 1837, which began the Victorian Era.

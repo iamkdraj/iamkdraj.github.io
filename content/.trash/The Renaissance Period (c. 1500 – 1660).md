@@ -1,3 +1,11 @@
+---
+title: Key Context and Influences
+tags:
+  - movement-study
+  - period-study
+  - questions
+---
+
 The word **"Renaissance"** (French for "Rebirth") refers to the period of European history that marked a gradual but profound shift away from the medieval worldview. Originating in Italy in the late 14th century with foundational figures like **Petrarch** and **Boccaccio**, its influence reached England around the early 16th century, flowering in the Elizabethan and Jacobean eras. The term was first used in its modern sense by French historian **Jules Michelet** in 1855.
 
 This era represented a "rebirth" of interest in the classical art, literature, and learning of ancient Greece and Rome. The beginning of the English Renaissance is often dated to **1485** with the start of the Tudor Dynasty, ending the preceding "Barren Age" of literature. The period's decline can be marked by the death of King James I in 1625 or, more broadly, the start of the Restoration in 1660.

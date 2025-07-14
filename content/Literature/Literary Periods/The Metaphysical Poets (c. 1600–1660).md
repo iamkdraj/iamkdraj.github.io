@@ -1,3 +1,11 @@
+---
+title: Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - questions
+---
+
 The term "Metaphysical Poets" refers to a group of 17th-century English poets who, while not a formal school, shared a common intellectual, witty, and philosophical style. They consciously broke away from the smooth, musical, and conventional love poetry of the Elizabethan sonneteers.
 
 The label itself is famous. It was first used by **John Dryden**, who said that John Donne "affects the metaphysics." However, the term was popularized over a century later by the critic **Dr. Samuel Johnson** in his work *Lives of the Most Eminent English Poets* (1779-81). He used it somewhat critically to describe a style he found intellectually showy, emotionally cold, and "unnatural." His most famous critique was that in their poetry, **"the most heterogeneous ideas are yoked by violence together,"** meaning they combined very dissimilar ideas in startling and unexpected ways.

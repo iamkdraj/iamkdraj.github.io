@@ -1,3 +1,14 @@
+---
+title: 1. It was a civilized and orderly society. The world 'Orderly' used in the above sentence is -
+tags:
+  - 2nd-grade
+  - ashok-tests
+  - movement-study
+  - period-study
+  - practice-tests
+  - questions
+---
+
 **To Focus** 3 4 5 8 10 13 15 16 19 28 31 39 40 41 44 46 48 50
 
 ### 1. It was a civilized and orderly society. The world 'Orderly' used in the above sentence is -

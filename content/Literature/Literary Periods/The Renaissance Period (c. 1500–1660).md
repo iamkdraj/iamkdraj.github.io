@@ -1,4 +1,14 @@
-The word **"Renaissance"** (French for "Rebirth") refers to the period of European history that marked a gradual but profound shift away from the medieval worldview. Originating in Italy in the late 14th century with foundational figures like **Petrarch** and **Boccaccio**, its influence reached England around the early 16th century, flowering in the Elizabethan and Jacobean eras. The term was first used in its modern sense by French historian **Jules Michelet** in 1855.
+---
+title: The Renaissance
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
+The word **"[[Renaissance]]"** (French for "Rebirth") refers to the period of European history that marked a gradual but profound shift away from the medieval worldview. Originating in Italy in the late 14th century with foundational figures like **Petrarch** and **Boccaccio**, its influence reached England around the early 16th century, flowering in the Elizabethan and Jacobean eras. The term was first used in its modern sense by French historian **Jules Michelet** in 1855.
 
 This era represented a "rebirth" of interest in the classical art, literature, and learning of ancient Greece and Rome. After the death of Chaucer in 1400, English literature entered a period sometimes called the **"Barren Age."** The beginning of the English Renaissance is often dated to **1485** with the start of the Tudor Dynasty, and its decline can be marked by the death of King James I in 1625 or, more broadly, the start of the Restoration in 1660.
 
@@ -6,7 +16,7 @@ This era represented a "rebirth" of interest in the classical art, literature, a
 
 ### Key Context and Influences
 
-*   **Humanism**: This was the single most important intellectual movement. It shifted focus from a God-centered to a **human-centered** worldview, celebrating human potential, reason, and achievement. The ideal was the multi-talented "Renaissance Man."
+*   **[[Humanism]]**: This was the single most important intellectual movement. It shifted focus from a God-centered to a **human-centered** worldview, celebrating human potential, reason, and achievement. The ideal was the multi-talented "Renaissance Man."
 
 *   **The Protestant Reformation**: King Henry VIII's break from the Roman Catholic Church placed immense emphasis on the individual's direct relationship with God, fueling religious and political controversy. This led to the monumental **King James Bible (1611)**.
 

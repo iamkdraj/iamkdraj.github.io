@@ -1,3 +1,12 @@
+---
+title: Commonwealth Period Questions
+tags:
+  - literary-periods
+  - literature
+  - period-study
+  - questions
+---
+
 ### 1. What is the alternative name for the Commonwealth Period?
 
 > [!tip]- (1) The Puritan Age

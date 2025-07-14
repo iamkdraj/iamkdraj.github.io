@@ -1,3 +1,11 @@
+---
+title: The Last Lesson - English to Hindi Translation
+tags:
+  - movement-study
+  - questions
+  - school
+---
+
 # The Last Lesson - English to Hindi Translation
 
 ## Page 1

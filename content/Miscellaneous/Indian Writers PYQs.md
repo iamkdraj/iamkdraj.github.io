@@ -1,3 +1,11 @@
+---
+title: Category 3: An Acquaintance with Major Indian Writers in English
+tags:
+  - miscellaneous
+  - period-study
+  - questions
+---
+
 ## Category 3: An Acquaintance with Major Indian Writers in English
 
 #### Q. 1 (TSS-24): The Sahitya Akademi Award winning work ‘The Shadow Lines’ was written by-

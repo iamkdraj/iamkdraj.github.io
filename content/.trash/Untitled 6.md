@@ -1,3 +1,8 @@
+---
+title: Untitled 6
+tags:
+---
+
 ssh -i "C:\Keshav Dev\ssh-key-2025-07-12.key" ubuntu@140.245.14.207
 
 npm install -g @anthropic-ai/claude-code

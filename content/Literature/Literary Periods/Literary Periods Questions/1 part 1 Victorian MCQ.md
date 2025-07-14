@@ -1,3 +1,11 @@
+---
+title: Victorian Period MCQs, Part 1
+tags:
+  - literature
+  - victorian-period
+  - mcq
+---
+
 ### 1. The Victorian Period is generally considered to span the years of Queen Victoria's reign, which are:
 
 > [!tip]- (1) 1801 – 1837

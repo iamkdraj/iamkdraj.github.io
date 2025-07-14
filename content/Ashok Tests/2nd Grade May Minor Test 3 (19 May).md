@@ -1,3 +1,14 @@
+---
+title: 1. There is an hourly service of trains to Kota, but the buses don't run hourly. The words "Hourly" used in the above sentence are –
+tags:
+  - 2nd-grade
+  - ashok-tests
+  - movement-study
+  - period-study
+  - practice-tests
+  - questions
+---
+
 **To Focus** 3 14 23 27 34 35 38 39
 
 ### 1. There is an hourly service of trains to Kota, but the buses don't run hourly. The words "Hourly" used in the above sentence are –

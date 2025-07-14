@@ -1,3 +1,12 @@
+---
+title: 1. The Jacobean Age is named after which monarch?
+tags:
+  - literary-periods
+  - literature
+  - period-study
+  - questions
+---
+
 ### 1. The Jacobean Age is named after which monarch?
 
 > [!tip]- (1) Queen Elizabeth I

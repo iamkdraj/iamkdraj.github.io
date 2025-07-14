@@ -1,3 +1,12 @@
+---
+title: Key Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - period-study
+  - questions
+---
+
 The Jacobean Age is named after the reign of **King James I** (1603-1625), whose name in Latin is *Jacobus*. This period is a direct continuation of the Elizabethan Renaissance but is marked by a significant shift in tone. The optimism and patriotic fervor of the Elizabethan era waned, replaced by a more critical, satirical, and psychologically complex mood in literature.
 
 ---

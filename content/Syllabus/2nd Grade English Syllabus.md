@@ -1,3 +1,13 @@
+---
+title: Part-I
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - questions
+  - syllabus
+---
+
 ## Part-I
 ### Secondary and Senior Secondary Standard:-
 

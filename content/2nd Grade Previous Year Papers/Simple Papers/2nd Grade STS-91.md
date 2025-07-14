@@ -1,3 +1,13 @@
+---
+title: 1. Choose the correct option to explain the idioms / phrases : (Question No. 1 to 5)
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 ### 1. Choose the correct option to explain the idioms / phrases : (Question No. 1 to 5)
 To have a dig at :
 (1) to weed out the grass

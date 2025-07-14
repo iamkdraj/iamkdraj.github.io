@@ -1,3 +1,13 @@
+---
+title: RPSC 2nd Grade English - Topic-wise Question Analysis
+tags:
+  - 2nd-grade
+  - analysis
+  - miscellaneous
+  - movement-study
+  - questions
+---
+
 This table categorizes 1639 questions from 11 previous year question papers based on the provided syllabus. The papers are numbered P1 to P11 in the order they appear in the source file.
 
 | Part    | Syllabus Topic                                        |   P1    |   P2    |   P3    |   P4    |   P5    |   P6    |   P7    |   P8    |   P9    |   P10   |   P11   | **Total** |

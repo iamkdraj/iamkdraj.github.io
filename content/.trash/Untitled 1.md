@@ -1,3 +1,11 @@
+---
+title: The Renaissance Period (c. 1500–1660)
+tags:
+  - movement-study
+  - period-study
+  - questions
+---
+
 # The Renaissance Period (c. 1500–1660)
 
 ## Overview

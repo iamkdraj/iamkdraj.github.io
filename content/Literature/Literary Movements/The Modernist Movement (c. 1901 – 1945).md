@@ -1,3 +1,12 @@
+---
+title: Context and Influences
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+---
+
 Modernism was a revolutionary international movement in the arts, dominating the first half of the 20th century. It was driven by a conscious and radical break with the traditions of the 19th century. Modernist writers felt that Victorian forms and conventions were inadequate to represent the reality of a world changed by war, industrialization, and new psychological theories. Their central call to action, famously articulated by **Ezra Pound**, was to **"Make It New."**
 
 The period roughly begins with the death of Queen Victoria in 1901 and ends with the conclusion of World War II in 1945.
@@ -56,3 +65,7 @@ The period roughly begins with the death of Queen Victoria in 1901 and ends with
     *   *Key Works*: *Pygmalion*, *Man and Superman*.
 *   **The Irish Literary Revival**: A movement to create a distinctly Irish literature.
     *   *Key Figures*: **W.B. Yeats**, **J.M. Synge** (*Riders to the Sea*).
+
+---
+## Backlinks
+- [[index]]

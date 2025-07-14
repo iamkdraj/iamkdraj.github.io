@@ -1,4 +1,14 @@
-Post-Modernism is not simply a continuation of Modernism; it is a critical, skeptical, and often playful reaction *against* it. While Modernists mourned the loss of meaning and coherence in a fragmented world (as in the despair of *The Waste Land*), Post-Modernists tend to **accept that chaos and fragmentation are the new reality**. Instead of mourning the loss of meaning, they often celebrate or play with the very idea of meaninglessness itself.
+---
+title: Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
+**[[Post-Modernism]]** is not simply a continuation of Modernism; it is a critical, skeptical, and often playful reaction *against* it. While Modernists mourned the loss of meaning and coherence in a fragmented world (as in the despair of *The Waste Land*), Post-Modernists tend to **accept that chaos and fragmentation are the new reality**. Instead of mourning the loss of meaning, they often celebrate or play with the very idea of meaninglessness itself.
 
 The period generally begins after World War II (1945), an event that confirmed for many that history was not a story of inevitable progress but of recurring violence and absurdity. The term 'postmodern' was first coined by historian **Arnold Toynbee**.
 
@@ -17,20 +27,20 @@ The period generally begins after World War II (1945), an event that confirmed f
 
 ### Key Concepts and Terminology of Post-Modernism
 
-*   **Rejection of Grand Narratives (or Metanarratives)**: This is the core idea of Post-Modernism, famously articulated by the French philosopher **Jean-François Lyotard**. He defined Post-Modernism as **"incredulity toward metanarratives."** It is a deep skepticism of any single theory that claims to offer a universal, totalizing explanation for history and human experience.
+*   **Rejection of [[Grand Narratives]] (or Metanarratives)**: This is the core idea of Post-Modernism, famously articulated by the French philosopher **Jean-François Lyotard**. He defined Post-Modernism as **"incredulity toward metanarratives."** It is a deep skepticism of any single theory that claims to offer a universal, totalizing explanation for history and human experience.
 
-*   **Pastiche**: The playful imitation or "pasting together" of multiple, often unrelated, styles and genres. Unlike parody, which mocks a style, pastiche adopts it without satirical intent. For example, a Post-Modern novel might mix elements of a detective story, science fiction, and a historical romance.
+*   **[[Pastiche]]**: The playful imitation or "pasting together" of multiple, often unrelated, styles and genres. Unlike parody, which mocks a style, [[pastiche]] adopts it without satirical intent. For example, a Post-Modern novel might mix elements of a detective story, science fiction, and a historical romance.
 
 *   **Irony, Playfulness, and Black Humor**: Faced with a world that seems absurd, the Post-Modern response is often not despair, but irony and play. Post-Modern works frequently treat serious or horrific subjects with a detached, darkly humorous, and playful tone.
 
-*   **Intertextuality**: The idea that any text is a web of references to other texts. Post-Modern works are often self-consciously filled with allusions, quotations, and borrowings from other literature, films, and pop culture, creating a dense, self-referential world.
+*   **[[Intertextuality]]**: The idea that any text is a web of references to other texts. Post-Modern works are often self-consciously filled with allusions, quotations, and borrowings from other literature, films, and pop culture, creating a dense, self-referential world.
 
-*   **Metafiction**: This is **fiction that is self-consciously about fiction**. The work deliberately reminds the reader that they are reading a work of art. The author might directly address the reader, or characters might realize they are in a novel.
-    *   **Historiographic Metafiction**: A term coined by **Linda Hutcheon**. This refers to novels that use metafictional techniques to challenge the idea of historical truth, suggesting that history itself is just another form of storytelling.
+*   **[[Metafiction]]**: This is **fiction that is self-consciously about fiction**. The work deliberately reminds the reader that they are reading a work of art. The author might directly address the reader, or characters might realize they are in a novel.
+    *   **[[Historiographic Metafiction]]**: A term coined by **Linda Hutcheon**. This refers to novels that use metafictional techniques to challenge the idea of historical truth, suggesting that history itself is just another form of storytelling.
 
 *   **Hyperreality and Simulacra**: Concepts from the theorist **Jean Baudrillard**. He argued that in our media-saturated world, the difference between the "real" and the "simulation" has collapsed. We live in a world of *simulacra*—copies without an original.
 
-*   **Magic Realism**: A style, particularly popular in post-colonial literature, that blends fantastical or magical elements into a realistic setting, treating the impossible as perfectly normal.
+*   **[[Magic Realism]]**: A style, particularly popular in post-colonial literature, that blends fantastical or magical elements into a realistic setting, treating the impossible as perfectly normal.
 
 ---
 

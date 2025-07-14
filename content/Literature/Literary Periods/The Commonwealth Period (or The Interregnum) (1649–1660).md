@@ -1,3 +1,12 @@
+---
+title: Key Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - period-study
+  - questions
+---
+
 This brief but significant 11-year period marks the time when England was a republic, without a monarch. It began with the execution of **King Charles I** in 1649 and ended with the **Restoration** of the monarchy under **King Charles II** in 1660. For this reason, it is also known as the **Interregnum** (meaning "between reigns"). The dominant political and social force during this time was **Puritanism**, led by **Oliver Cromwell**, who ruled as Lord Protector from 1653 to 1658.
 
 ---

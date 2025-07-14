@@ -1,3 +1,13 @@
+---
+title: Topic-wise Question Distribution
+tags:
+  - 2nd-grade
+  - analysis
+  - movement-study
+  - previous-papers
+  - questions
+---
+
 This note categorizes the questions from the `2nd Grade TS-71.md` paper based on the topics listed in the `2nd Grade English Syllabus.md`.
 
 ---

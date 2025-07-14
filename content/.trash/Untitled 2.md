@@ -1,3 +1,10 @@
+---
+title: 1. Fill in the blank with the most appropriate degree of adjective from the options given below:
+tags:
+  - movement-study
+  - questions
+---
+
 ### 1. Fill in the blank with the most appropriate degree of adjective from the options given below:  
 She can knit ................ than she can sew.
 

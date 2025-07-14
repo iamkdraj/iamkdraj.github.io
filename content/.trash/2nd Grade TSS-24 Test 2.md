@@ -1,3 +1,12 @@
+---
+title: 2\. The term ‘Existentialism’ was coined by -
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - questions
+---
+
 ﻿### 1\. Fill in the blank with the most appropriate degree of adjective from the options given below -
 She can knit................than she can sew. (1) best (2) good (3) better (4) more better (5) Question not attempted
 > [!tip]- (1) best ❌ Incorrect. "Best" is the superlative degree, used for comparing three or more things.

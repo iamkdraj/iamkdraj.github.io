@@ -1,3 +1,13 @@
+---
+title: Key Elements of Gothic Fiction
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 The Gothic movement emerged in the late 18th century as a dark and mysterious counterpart to the rational, well-lit world of the Neo-Classical Age. It is a genre of literature that delights in exploring the irrational, the supernatural, and the thrilling emotions of **terror and horror**. The first self-proclaimed Gothic novel was **Horace Walpole's *The Castle of Otranto*** (1764).
 
 The term "Gothic" originally referred to the Goths, a Germanic tribe who sacked Rome, and later came to mean "medieval." The movement is deeply connected to **Romanticism**, as both championed intense emotion over pure reason and were fascinated by the past. The Gothic, however, specifically channels these interests into stories of suspense, mystery, and the macabre.
@@ -43,3 +53,7 @@ It is useful to distinguish between two types of Gothic: the "Gothic of Terror" 
     *   **The Brontë Sisters**: ***Wuthering Heights*** (Emily Brontë) is filled with a wild, supernatural passion, while ***Jane Eyre*** (Charlotte Brontë) uses Gothic elements like the mysterious Thornfield Hall and the madwoman in the attic to explore its heroine's psychological journey.
     *   **Edgar Allan Poe**: An American master of the Gothic, focusing on psychological terror and madness in his short stories.
     *   **Bram Stoker's *Dracula*** and **Robert Louis Stevenson's *Dr. Jekyll and Mr. Hyde*** are famous late-Victorian examples that explore themes of sexuality, duality, and the monster within.
+
+---
+## Backlinks
+- [[index]]

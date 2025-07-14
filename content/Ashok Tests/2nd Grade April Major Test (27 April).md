@@ -1,3 +1,14 @@
+---
+title: 27 April Major Test
+tags:
+  - 2nd-grade
+  - ashok-tests
+  - movement-study
+  - period-study
+  - practice-tests
+  - questions
+---
+
 **To Focus** 3 8 9 13 14 16 17 24 26 30 36 43 45 51 52 54 55 59 62 63 66 67 69 73 74 76 77 78 83 89 90 94 111 113 118  122 123 127 128 137 142 143 144 148 149
 
 ### 1. Identify the part of speech of the underlined word (most)- What **most** annoys me is his obstinacy.

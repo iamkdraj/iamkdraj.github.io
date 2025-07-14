@@ -1,4 +1,14 @@
-The Victorian Period is named after the long and influential reign of **Queen Victoria** (1837-1901). It was an era of immense and rapid change, often called an age of "doubts and disputes, conflicts and controversies." Britain was at the peak of its global power as the center of the British Empire, while society at home was transformed by the full force of the **Industrial Revolution**.
+---
+title: Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
+The Victorian Period is named after the long and influential reign of **Queen Victoria** (1837-1901). It was an era of immense and rapid change, often called an age of "doubts and disputes, conflicts and controversies." Britain was at the peak of its global power as the center of the British Empire, while society at home was transformed by the full force of the **[[Industrial Revolution]]**.
 
 This era of dramatic progress was also filled with deep contradictions. The literature of the period reflects this duality, grappling with themes of confidence and doubt, faith and skepticism, scientific advancement and social decay, and immense wealth alongside grinding poverty. The period is often subdivided into the **Early Victorian** (1837-1870) and **Late Victorian** (1870-1901) phases.
 
@@ -12,16 +22,16 @@ This era of dramatic progress was also filled with deep contradictions. The lite
     *   **Charles Darwin's *On the Origin of Species*** (1859): This book introduced the theory of evolution by natural selection, dealing a seismic shock to traditional religious beliefs. It challenged the biblical account of creation and seemed to suggest that humanity was not God's special creation but merely an animal shaped by blind, natural forces.
     *   **Influence**: This conflict created a deep spiritual and intellectual anxiety, a major theme in the works of poets like **Tennyson** and **Matthew Arnold**.
 *   **Intellectual Movements**:
-    *   **Utilitarianism**: A philosophy championed by Jeremy Bentham, which argued that the best action is the one that produces "the greatest good for the greatest number." It was satirized by writers like **Charles Dickens** as cold and mechanical.
+    *   **[[Utilitarianism]]**: A philosophy championed by Jeremy Bentham, which argued that the best action is the one that produces "the greatest good for the greatest number." It was satirized by writers like **Charles Dickens** as cold and mechanical.
     *   **The Oxford Movement**: A religious movement within the Church of England, led by figures like **John Henry Newman**, that sought to bring back older, more ritualistic traditions.
 
 ---
 
 ### Key Characteristics of Victorian Literature
 
-*   **Realism**: The **novel** became the dominant literary form, and its primary mode was realism. Victorian novelists sought to create a detailed, realistic, and panoramic portrait of their society.
-*   **Moral Purpose and Didacticism**: Victorians believed that literature should be a tool for social improvement. It was meant to be morally uplifting and to expose social ills.
-*   **The Victorian Compromise**: This refers to the duality of the age. On the surface, society valued public morality, duty, and propriety. However, the literature often exposes the hypocrisy and dark realities that lay beneath this respectable surface.
+*   **[[Realism]]**: The **novel** became the dominant literary form, and its primary mode was [[realism]]. Victorian novelists sought to create a detailed, realistic, and panoramic portrait of their society.
+*   **Moral Purpose and [[Didacticism]]**: Victorians believed that literature should be a tool for social improvement. It was meant to be morally uplifting and to expose social ills.
+*   **The [[Victorian Compromise]]**: This refers to the duality of the age. On the surface, society valued public morality, duty, and propriety. However, the literature often exposes the hypocrisy and dark realities that lay beneath this respectable surface.
 *   **Idealism vs. Doubt**: The literature is marked by a deep conflict between a belief in progress and a profound sense of anxiety, doubt, and nostalgia for a simpler past.
 
 ---
@@ -39,7 +49,7 @@ This was the great age of the English novel. The rise of lending libraries and t
 *   **The Brontë Sisters**:
     *   **Charlotte Brontë (1816-1855)**: Known for her passionate and psychologically intense novels. *Key Work:* ***Jane Eyre***.
     *   **Emily Brontë (1818-1848)**: Wrote only one novel, the dark, wild, and powerful masterpiece ***Wuthering Heights***, which combines Gothic elements with tragic passion.
-*   **George Eliot (Mary Ann Evans, 1819-1880)**: A highly intellectual novelist known for her deep psychological insight and moral seriousness. She is a master of the **psychological novel**.
+*   **George Eliot (Mary Ann Evans, 1819-1880)**: A highly intellectual novelist known for her deep psychological insight and moral seriousness. She is a master of the **[[psychological novel]]**.
     *   *Key Works:* ***Middlemarch*** (often considered the greatest novel in English), ***The Mill on the Floss***, ***Silas Marner***.
 *   **Thomas Hardy (1840-1928)**: A late Victorian novelist whose work marks a transition towards modernism. His novels are deeply pessimistic and tragic, portraying characters who are victims of fate and social conventions.
     *   *Key Works:* ***Tess of the d'Urbervilles***, ***The Mayor of Casterbridge***, ***Jude the Obscure***.
@@ -48,9 +58,9 @@ This was the great age of the English novel. The rise of lending libraries and t
 
 *   **Alfred, Lord Tennyson (1809-1892)**: The representative poet of the age and **Poet Laureate** from 1850 to 1892. His poetry perfectly captures the Victorian conflict between faith and doubt.
     *   *Key Works:* ***In Memoriam A.H.H.*** (a long elegy that grapples with grief and scientific doubt), "Ulysses," "The Lady of Shalott," *Idylls of the King*.
-*   **Robert Browning (1812-1889)**: Known for perfecting the **dramatic monologue**. His poetry is psychologically complex, rugged, and often optimistic.
+*   **Robert Browning (1812-1889)**: Known for perfecting the **[[dramatic monologue]]**. His poetry is psychologically complex, rugged, and often optimistic.
     > [!note]- What is a Dramatic Monologue?
-    > A dramatic monologue is a type of lyric poem in which a single speaker (who is patently not the poet) addresses a silent but identifiable listener in a specific, critical situation. In the course of the speech, the speaker inadvertently reveals their own temperament and character. Browning's "My Last Duchess" is the most famous example.
+    > A [[dramatic monologue]] is a type of lyric poem in which a single speaker (who is patently not the poet) addresses a silent but identifiable listener in a specific, critical situation. In the course of the speech, the speaker inadvertently reveals their own temperament and character. Browning's "My Last Duchess" is the most famous example.
     *   *Key Works:* "My Last Duchess," "Fra Lippo Lippi," "Andrea del Sarto," "Porphyria's Lover."
 *   **Matthew Arnold (1822-1888)**: A poet and influential critic. His poetry is marked by a sense of melancholy, lamenting the loss of faith in the modern world.
     *   *Key Works:* "Dover Beach," "The Scholar-Gipsy," and his pastoral elegy on the death of A. H. Clough, "Thyrsis."

@@ -1,3 +1,13 @@
+---
+title: 1. What does the term "Renaissance" literally mean?
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 ### 1. What does the term "Renaissance" literally mean?
 
 > [!tip]- (1) Reformation

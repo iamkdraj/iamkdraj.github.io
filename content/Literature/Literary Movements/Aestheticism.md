@@ -1,3 +1,12 @@
+---
+title: Aestheticism and the "Art for Art's Sake" Movement (c. 1870-1900)
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+---
+
 ## Aestheticism and the "Art for Art's Sake" Movement (c. 1870-1900)
 
 Aestheticism was a late 19th-century literary and artistic movement centered on the belief that art is valuable in itself and does not need to serve any moral, political, or didactic purpose. It was a direct and radical rebellion against the dominant Victorian idea that art should be instructive and morally uplifting.
@@ -36,3 +45,7 @@ The movement's famous slogan was **"l'art pour l'art"** or **"Art for Art's Sake
     *   *Key Figures*: **Ernest Dowson**, **Arthur Symons**, and **Lionel Johnson**.
 
 Aestheticism's focus on the autonomy of art and its break from moralistic constraints were a major influence on the development of **Modernism** in the early 20th century.
+
+---
+## Backlinks
+- [[index]]

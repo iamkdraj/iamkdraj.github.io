@@ -1,3 +1,9 @@
+---
+title: **Page 1**
+tags:
+  - questions
+---
+
 Of course. Here is the paragraph-by-paragraph English text from the lesson "The Last Lesson," followed by its Hindi translation.
 
 ### **Page 1**

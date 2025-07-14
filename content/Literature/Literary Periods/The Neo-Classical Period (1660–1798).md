@@ -1,3 +1,13 @@
+---
+title: Context and Influences
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 (Also known as The Age of Reason, The Augustan Age)
 
 The term **"Neo-Classical"** (New Classical) defines a period in English literature that turned away from the imaginative exuberance of the Renaissance and instead admired and imitated the literature of classical Greece and Rome. This era valued **order, reason, restraint, logic, and correctness**. While the Renaissance was inspired by the classics, the Neo-Classical writers sought to *emulate* them, following their rules and forms.

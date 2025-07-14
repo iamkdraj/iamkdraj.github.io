@@ -1,3 +1,13 @@
+---
+title: 1. Which word' class is often defined by position rather than by form ?
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 ### 1. Which word' class is often defined by position rather than by form ?
 (1) Nouns
 (2) Adjectives

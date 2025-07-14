@@ -1,3 +1,11 @@
+---
+title: **Key Figures and Writings of the Romantic Movement**
+tags:
+  - movement-study
+  - period-study
+  - questions
+---
+
     *   **The Exotic:** The supreme example is **Coleridge's *Kubla Khan***, a poem supposedly inspired by an opium-induced dream.
 
 5.  **Rejection of "Poetic Diction" and Idealization of the Common Man:**

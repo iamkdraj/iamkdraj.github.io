@@ -1,3 +1,12 @@
+---
+title: Core Principles and Philosophy
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+---
+
 The Symbolist Movement was a late 19th-century movement, primarily in French poetry, that had an immense influence on European and American literature, acting as a crucial bridge between **Realism and Modernism**. It began as a reaction against the rigid conventions and objective descriptions of Realist and Naturalist writing, particularly the precise style of the **Parnassian** poets.
 
 The Symbolists believed that the external world was not the true reality. Instead, they sought to express individual emotional experience and universal truths through the subtle, suggestive use of highly metaphorical and symbolic language.

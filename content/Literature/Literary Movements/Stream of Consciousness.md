@@ -1,3 +1,13 @@
+---
+title: Core Aims and Techniques
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 Stream of Consciousness is not a movement in itself, but a highly influential **narrative technique** that became a hallmark of the **Modernist movement** in the early 20th century. It is a mode of writing that seeks to portray an individual's point of view by giving the written equivalent of their thought processes.
 
 The term was coined by the American psychologist and philosopher **William James** in his *Principles of Psychology* (1890). He described the human mind not as a logical chain of thoughts but as a "river" or a "stream"—a continuous, flowing, and often chaotic jumble of sensations, memories, and associations. The term was first applied in a literary context by the novelist May Sinclair when discussing the work of Dorothy Richardson.
@@ -28,3 +38,7 @@ The term was coined by the American psychologist and philosopher **William James
 *   **William Faulkner (1897-1962)**: An American novelist who adapted the technique to explore the consciousness of his characters in the American South.
     *   *Key Work:* ***The Sound and the Fury*** (1929), which presents its story from the perspectives of three different brothers, including one with severe developmental disabilities, whose section is a chaotic flow of sensory impressions.
 *   **Dorothy Richardson (1873-1957)**: A British writer considered a pioneer of the technique. Her multi-volume novel sequence, ***Pilgrimage***, was one of the first to be written almost entirely from within a single character's consciousness.
+
+---
+## Backlinks
+- [[index]]

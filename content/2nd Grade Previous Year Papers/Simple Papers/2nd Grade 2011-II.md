@@ -1,3 +1,13 @@
+---
+title: 1. Tomorrow could be a sunny day. The word 'sunny' belongs to the class of words called
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 ### 1. Tomorrow could be a sunny day. The word 'sunny' belongs to the class of words called
 (1) Adjective
 (2) Adverb

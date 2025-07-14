@@ -1,3 +1,12 @@
+---
+title: Core Principles and Philosophy
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - questions
+---
+
 Existentialism is primarily a philosophical movement that flourished in Europe in the mid-20th century, but its ideas have had a massive influence on literature and drama. It is not a single philosophy but a set of shared themes centered on the nature of **human existence, freedom, and responsibility** in a meaningless or absurd universe.
 
 The movement's roots go back to 19th-century thinkers like **Søren Kierkegaard** (considered the "father of existentialism") and **Friedrich Nietzsche**. It reached its peak in post-WWII France with its most famous proponent, **Jean-Paul Sartre**.
@@ -34,3 +43,7 @@ The movement's roots go back to 19th-century thinkers like **Søren Kierkegaard*
         *   *Key Works:* The novels ***The Stranger*** (or *The Outsider*) and ***The Plague***, and the philosophical essay ***The Myth of Sisyphus***.
 
 *   **The Theatre of the Absurd**: This post-WWII dramatic movement is the purest theatrical expression of existentialist philosophy. Playwrights like **Samuel Beckett** and **Harold Pinter** abandoned realistic plots to dramatize the illogical and absurd nature of human existence. Beckett's ***Waiting for Godot*** is the quintessential example.
+
+---
+## Backlinks
+- [[index]]

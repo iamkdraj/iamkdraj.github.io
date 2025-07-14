@@ -1,3 +1,14 @@
+---
+title: Topic-wise Question Distribution
+tags:
+  - 2nd-grade
+  - analysis
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 This note categorizes the questions from the `2nd Grade 2011-II.md` paper based on the topics listed in the `2nd Grade English Syllabus.md`.
 
 ---

@@ -1,3 +1,13 @@
+---
+title: 1. Choose the correct alternative from the verbs given below each sentence (Q. Nos. 1-5).
+tags:
+  - 2nd-grade
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 ### 1. Choose the correct alternative from the verbs given below each sentence (Q. Nos. 1-5).
 they not go ?
 (1) Did

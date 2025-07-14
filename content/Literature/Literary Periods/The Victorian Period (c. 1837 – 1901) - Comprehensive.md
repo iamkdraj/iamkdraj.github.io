@@ -1,3 +1,13 @@
+---
+title: The Victorian Period (c. 1837 – 1901) - Comprehensive Overview
+tags:
+  - literary-periods
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 # The Victorian Period (c. 1837 – 1901) - Comprehensive Overview
 
 The Victorian Period is named after the long and influential reign of **Queen Victoria** (1837-1901). It was an era of immense and rapid change, often called an age of "doubts and disputes, conflicts and controversies." Britain was at the peak of its global power as the center of the British Empire, while society at home was transformed by the full force of the **Industrial Revolution**.

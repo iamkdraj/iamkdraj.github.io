@@ -1,3 +1,13 @@
+---
+title: 1. Which of the following is/are true statements about the Romantic Period?
+tags:
+  - ashok-tests
+  - movement-study
+  - period-study
+  - practice-tests
+  - questions
+---
+
 **TO FOUCS** 3 7 9 15 19 36 41 42 47 48 50
 
 ### 1. Which of the following is/are true statements about the Romantic Period?

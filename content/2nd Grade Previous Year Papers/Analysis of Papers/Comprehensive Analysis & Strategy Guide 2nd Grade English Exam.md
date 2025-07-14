@@ -1,3 +1,14 @@
+---
+title: 1. Combined Topic-wise Question Distribution (All Papers)
+tags:
+  - 2nd-grade
+  - analysis
+  - movement-study
+  - period-study
+  - previous-papers
+  - questions
+---
+
 This guide provides a deep, data-driven analysis of 11 previous question papers to identify key trends, topic weightage, and a strategic approach to mastering this exam.
 
 ---

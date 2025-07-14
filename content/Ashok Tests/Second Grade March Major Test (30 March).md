@@ -1,3 +1,13 @@
+---
+title: 1. Match the following — (The word ‘Right’ and its part of speech)
+tags:
+  - ashok-tests
+  - movement-study
+  - period-study
+  - practice-tests
+  - questions
+---
+
 
 ### 1. Match the following — (The word ‘Right’ and its part of speech)
 (1) That is a fault that will right itself. (A) Adverb

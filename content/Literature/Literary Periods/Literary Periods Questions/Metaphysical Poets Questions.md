@@ -1,3 +1,12 @@
+---
+title: 1. Who first used the term "Metaphysical" in relation to John Donne's poetry?
+tags:
+  - literary-periods
+  - literature
+  - period-study
+  - questions
+---
+
 ### 1. Who first used the term "Metaphysical" in relation to John Donne's poetry?
 
 > [!tip]- (1) Dr. Samuel Johnson

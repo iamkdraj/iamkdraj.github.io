@@ -1,3 +1,13 @@
+---
+title: Core Principles and Philosophy
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 Realism was a major literary movement of the mid-to-late 19th century that began in France and spread across Europe and America. It developed as a reaction against the perceived excesses, exoticism, and fantastical plots of **Romanticism**. While the Romantics focused on the heroic, strange, and sublime, the Realists turned their attention to the **ordinary, the everyday, and the contemporary**.
 
 The core ambition of Realism is **verisimilitude**—the faithful, accurate, and truthful representation of reality. Realist writers sought to portray life "as it really is," without embellishment or idealization. As the American realist William Dean Howells put it, realism is "nothing more and nothing less than the truthful treatment of material." The **novel** was the perfect vehicle for this movement.
@@ -42,3 +52,7 @@ The core ambition of Realism is **verisimilitude**—the faithful, accurate, and
 
 *   **Key Figure (France)**: **Émile Zola**.
 *   **English Example**: The novels of **Thomas Hardy** (e.g., *Tess of the d'Urbervilles*, *Jude the Obscure*), which show characters crushed by an indifferent universe and rigid social laws, are prime examples of the Naturalistic worldview.
+
+---
+## Backlinks
+- [[index]]

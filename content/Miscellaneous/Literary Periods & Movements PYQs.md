@@ -1,3 +1,12 @@
+---
+title: Literary Periods & Movements
+tags:
+  - miscellaneous
+  - movement-study
+  - period-study
+  - questions
+---
+
 ## Literary Periods & Movements
 ### I. Renaissance Period
 

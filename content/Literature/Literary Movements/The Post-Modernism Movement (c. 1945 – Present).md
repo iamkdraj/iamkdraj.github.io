@@ -1,3 +1,13 @@
+---
+title: Core Principles and Philosophy
+tags:
+  - literary-movements
+  - literature
+  - movement-study
+  - period-study
+  - questions
+---
+
 Post-Modernism is a broad and complex literary and cultural movement that emerged after **World War II (c. 1945)**. It is not just a continuation of Modernism but a critical, skeptical, and often playful reaction *against* it. While Modernists mourned the loss of meaning in a fragmented world, Post-Modernists tend to **accept that chaos and fragmentation are the new reality** and often celebrate or play with it. The term 'postmodern' was first coined by historian **Arnold Toynbee**.
 
 ---
@@ -44,3 +54,7 @@ The line between "author" and "theorist" often blurs in this period.
     *   **Italo Calvino**: An Italian writer famous for experimental works like *If on a winter's night a traveler*.
     *   **Salman Rushdie**: A major practitioner of magic realism (*Midnight's Children*).
     *   **Angela Carter**: A British writer whose work uses pastiche and magic realism to deconstruct fairy tales (*The Bloody Chamber*).
+
+---
+## Backlinks
+- [[index]]
