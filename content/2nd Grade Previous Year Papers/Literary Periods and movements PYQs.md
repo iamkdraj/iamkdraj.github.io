@@ -1,12 +1,3 @@
----
-title: Literary Periods & Movements: PYQ Analysis
-tags:
-  - 2nd-grade
-  - movement-study
-  - period-study
-  - previous-papers
-  - questions
----
 
 # Literary Periods & Movements: PYQ Analysis
 
