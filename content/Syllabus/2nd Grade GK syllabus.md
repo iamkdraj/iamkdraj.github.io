@@ -1,5 +1,5 @@
 ---
-title: **PAPER-I**
+title: Gk syllabus
 tags:
   - 2nd-grade
   - movement-study
