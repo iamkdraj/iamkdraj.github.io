@@ -1,5 +1,5 @@
 ---
-title: Category 3: An Acquaintance with Major Indian Writers in English
+title: Category 3 An Acquaintance with Major Indian Writers in English
 tags:
   - miscellaneous
   - period-study
