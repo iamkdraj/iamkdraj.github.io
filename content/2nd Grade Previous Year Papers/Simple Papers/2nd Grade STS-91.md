@@ -1,5 +1,5 @@
 ---
-title: 1. Choose the correct option to explain the idioms / phrases : (Question No. 1 to 5)
+title: 1. Choose the correct option to explain the idioms / phrases 
 tags:
   - 2nd-grade
   - movement-study

@@ -1,13 +1,3 @@
----
-title: 1. Fill in the blank with the correct option:
-tags:
-  - 2nd-grade
-  - movement-study
-  - period-study
-  - previous-papers
-  - questions
----
-
 ### 1. Fill in the blank with the correct option:
 Everyone ______ to watch T.V. during the football world cup tournament. (subject - verb agreement)
 (1) likes
