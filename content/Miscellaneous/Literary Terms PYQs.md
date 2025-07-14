@@ -1,9 +1,6 @@
 ---
-title: Category 2: An Acquaintance with Literary Forms & Figures of Speech
-tags:
-  - miscellaneous
-  - movement-study
-  - questions
+title: Category 
+
 ---
 
 ## Category 2: An Acquaintance with Literary Forms & Figures of Speech
