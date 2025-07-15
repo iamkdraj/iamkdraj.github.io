@@ -8,8 +8,6 @@ tags:
   - metaphysical-poetry
 ---
 
-# Unification of Sensibility
-
 ## Definition
 **Unification of Sensibility** is T.S. Eliot's concept describing the Metaphysical poets' ability to combine thought and feeling seamlessly. For them, intellectual ideas were experienced as immediately and intensely as physical sensations.
 

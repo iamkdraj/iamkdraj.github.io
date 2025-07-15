@@ -8,7 +8,8 @@ tags:
   - moral-purpose
 ---
 
-# Didacticism
+## Definition
+**Didacticism** is a literary technique and philosophy that emphasizes the instructional or educational purpose of literature. Didactic works are designed to teach moral lessons, convey knowledge, or promote particular values and behaviors.
 
 ## Definition
 **Didacticism** is a literary technique and philosophy that emphasizes the instructional or educational purpose of literature. Didactic works are designed to teach moral lessons, convey knowledge, or promote particular values and behaviors.

@@ -9,7 +9,8 @@ tags:
   - textual-relations
 ---
 
-# Intertextuality
+## Definition
+**Intertextuality** is the concept that any text exists as a web of references, quotations, allusions, and relationships to other texts. It suggests that no text is entirely original or self-contained, but rather exists in dialogue with the entire body of literature and culture that preceded it.
 
 ## Definition
 **Intertextuality** is the concept that any text exists as a web of references, quotations, allusions, and relationships to other texts. It suggests that no text is entirely original or self-contained, but rather exists in dialogue with the entire body of literature and culture that preceded it.

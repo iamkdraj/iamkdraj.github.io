@@ -1,0 +1,219 @@
+# Literary Terms for Exams
+
+## Literary Periods
+- The Commonwealth Period (or The Interregnum)
+- The Jacobean Age
+- The Metaphysical Poets
+- The Modern Period (Modernism)
+- The Neo-Classical Period (Age of Reason, Augustan Age)
+- The Post-Modern Period (Post-Modernism)
+- The Renaissance Period
+- The Romantic Period (Romanticism, Romantic Revival)
+- The Victorian Period
+
+## Literary Movements
+- Aestheticism
+- Existentialism
+- Stream of Consciousness
+- The Gothic Movement
+- The Modernist Movement
+- The Post-Modernism Movement
+- The Pre-Raphaelite Movement
+- The Realism Movement
+- The Romanticism Movement
+- The Symbolist Movement
+
+## Key Literary Terms & Concepts
+- Interregnum
+- Puritanism
+- Puritan Rule
+- The Closing of the Theatres
+- Censorship and Religious Focus
+- Dominance of Prose
+- Decline of Lyric Poetry
+- Moral and Religious Seriousness
+- Blank Verse
+- Literary Epic
+- Invocation of the Muse
+- In Medias Res
+- Grand Scale
+- Supernatural Machinery
+- Monody
+- Freedom of the press
+- State of nature
+- Mood of Disillusionment
+- Jacobean Drama
+- Revenge Tragedy
+- City Comedy
+- Comedy of Manners
+- Comedy of Humours
+- Tragicomedy
+- Metaphysical Poets
+- Intellectual & Witty
+- Colloquial Language
+- Conceits
+- Paradox
+- Pun
+- Metaphysical Conceit
+- Aphoristic Style
+- The Caroline Age
+- Cavalier Poets
+- The Enlightenment
+- Heroic Couplet
+- The Restoration Period
+- Heroic Tragedy
+- Poet Laureate
+- Mock-epic
+- The Rise of the Novel
+- Epistolary novel
+- Periodical Essays
+- The Age of Sensibility (Age of Johnson, Age of Transition)
+- Pre-Romantic Trends
+- The Graveyard School
+- The Gothic Novel
+- Industrial Revolution
+- Disillusionment, trauma, and fragmentation
+- Unconscious mind
+- Mythical Method
+- Experimentation with Form
+- Fragmentation
+- Collage
+- Imagism
+- Symbolism
+- Futurism
+- Vorticism
+- Focus on Individual Consciousness
+- Stream of Consciousness
+- Interior Monologue
+- Themes of Alienation and Fragmentation
+- Allusion
+- Post-War World
+- Grand Narratives (Metanarratives)
+- Incredulity toward metanarratives
+- Pastiche
+- Irony, Playfulness, and Black Humor
+- Intertextuality
+- Metafiction
+- Historiographic Metafiction
+- Hyperreality
+- Simulacra
+- Magic Realism
+- Deconstruction
+- The Theatre of the Absurd
+- Humanism
+- Protestant Reformation
+- Age of Discovery
+- Printing Press
+- Elizabethan Age
+- Nest of singing birds
+- University Wits
+- Sonnet
+- Italian (Petrarchan) Sonnet
+- Octave
+- Sestet
+- Volta
+- English (Shakespearean) Sonnet
+- Quatrains
+- Couplet
+- Spenserian Sonnet
+- Spenserian Stanza
+- Euphuism
+- Allegory
+- Pastoral Poetry
+- Pantheism
+- Byronic Hero
+- Negative Capability
+- Constitutional Monarchy
+- Reform Bills
+- Imperial Expansion
+- Pax Britannica
+- Free Trade Movement
+- Banking and Finance
+- Working Conditions
+- Class Structure
+- Urban Growth
+- Women's Rights
+- Evangelical Revival
+- Catholic Emancipation
+- Religious Doubt
+- Secular Education
+- Scientific Challenges
+- Geological Discoveries
+- Biblical Criticism
+- Archaeological Findings
+- Religious Responses
+- Fundamentalism
+- Liberal Christianity
+- Agnosticism
+- Secularization
+- Utilitarianism
+- Hedonistic Calculus
+- Individual vs. Social Utility
+- Rule vs. Act Utilitarianism
+- Legal Reform
+- Education Policy
+- Economic Theory
+- Social Reform
+- The Oxford Movement
+- Gothic Revival Architecture
+- Liturgy
+- Religious Poetry
+- Positivism
+- Three Stages of Human Development
+- Theological Stage
+- Metaphysical Stage
+- Positive Stage
+- Scientific Method
+- Empiricism
+- Determinism
+- Progress
+- Sociology
+- Social Darwinism
+- Survival of the fittest
+- Laissez-faire Economics
+- Racial Hierarchy
+- Class Justification
+- Imperial Justification
+- Economic Policy
+- Educational Theory
+- Socialism and Marxism
+- Christian Socialism
+- Class struggle
+- Dialectical materialism
+- Fabian Society
+- Realism and the Novel
+- Moral Purpose and Didacticism
+- Problem Novels
+- Didactic Elements
+- The Victorian Compromise
+- Idealism vs. Doubt
+- Nostalgia
+- Serial Publication
+- Dramatic Monologue
+- Sprung rhythm
+- Return to Nature
+- Medieval Revival
+- Moral Purpose
+- Truth to Nature
+- Art for Art's Sake
+- Decadent Movement
+- Literary Realism
+- Naturalism
+- Literary Naturalism
+- Sensation Fiction
+- Domestic Gothic
+- Melodrama
+- Farce
+- Historical Drama
+- Social Justice and Reform
+- Faith and Doubt
+- Empire and National Identity
+- Progress and Tradition
+- Individual vs. Society
+- Bildungsroman
+- Gothic Elements
+- Realism vs. Romanticism
+- Free Indirect Discourse
+- The New Woman
+- Omniscient Narration
+- The Three-Volume Novel ("Triple-Decker")

@@ -1,0 +1,171 @@
+---
+title: Master Index
+---
+
+# My Knowledge Hub
+
+Welcome to my personal knowledge hub. This index provides a structured overview and quick access to all my notes and documents.
+
+---
+
+## Table of Contents
+
+*   [Academics](#academics)
+*   [Exams](#exams)
+*   [Literature](#literature)
+*   [Syllabus](#syllabus)
+
+---
+
+> [!info] <span id="academics">Academics</span>
+> ### 12th Grade
+> - [The Last Lesson](Academics/12th Grade/The Last Lesson.md)
+> ### 2nd Grade
+> #### Hindi
+> ##### Stories
+> - [एक और ज़िंदगी](Academics/2nd Grade/Hindi/Stories/एक और ज़िंदगी.md)
+> - [कोसी का घटवार](Academics/2nd Grade/Hindi/Stories/कोसी का घटवार.md)
+> - [खोई हुई दिशाएं](Academics/2nd Grade/Hindi/Stories/खोई हुई दिशाएं.md)
+> - [चीफ़ की दावत](Academics/2nd Grade/Hindi/Stories/चीफ़ की दावत.md)
+> - [जहाँ लक्ष्मी क़ैद है](Academics/2nd Grade/Hindi/Stories/जहाँ लक्ष्मी क़ैद है.md)
+> - [ज़िंदगी और जोंक](Academics/2nd Grade/Hindi/Stories/ज़िंदगी और जोंक.md)
+> - [तीसरी क़सम](Academics/2nd Grade/Hindi/Stories/तीसरी क़सम.md)
+> - [परिंदे](Academics/2nd Grade/Hindi/Stories/परिंदे.md)
+> - [प्रेत-मुक्ति](Academics/2nd Grade/Hindi/Stories/प्रेत-मुक्ति.md)
+> - [भुवनेश्वर](Academics/2nd Grade/Hindi/Stories/भुवनेश्वर.md)
+> - [मन्नू भंडारी](Academics/2nd Grade/Hindi/Stories/मन्नू भंडारी.md)
+> - [हंसा जाई अकेला](Academics/2nd Grade/Hindi/Stories/हंसा जाई अकेला.md)
+> ### English Language
+> - [Phrasal Verbs](Academics/English Language/Phrasal Verbs.md)
+
+---
+
+> [!info] <span id="exams">Exams</span>
+> - [Exams List](Exams/Exams List.md)
+> ### 2nd Grade Previous Year Papers
+> - [2nd Grade STS-91 Test](Exams/2nd Grade Previous Year Papers/2nd Grade STS-91 Test.md)
+> - [2nd Grade TSS-24 Test](Exams/2nd Grade Previous Year Papers/2nd Grade TSS-24 Test.md)
+> - [index](Exams/2nd Grade Previous Year Papers/index.md)
+> - [Literary Periods and movements PYQs](Exams/2nd Grade Previous Year Papers/Literary Periods and movements PYQs.md)
+> #### Analysis of Papers
+> - [Analysis of 2nd Grade 2011-I Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade 2011-I Question Paper.md)
+> - [Analysis of 2nd Grade 2011-II](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade 2011-II.md)
+> - [Analysis of 2nd Grade 2013 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade 2013 Question Paper.md)
+> - [Analysis of 2nd Grade 2015-18 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade 2015-18 Question Paper.md)
+> - [Analysis of 2nd Grade ST-22 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade ST-22 Question Paper.md)
+> - [Analysis of 2nd Grade ST-81 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade ST-81 Question Paper.md)
+> - [Analysis of 2nd Grade STS-32 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade STS-32 Question Paper.md)
+> - [Analysis of 2nd Grade STS-91 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis of Papers/Analysis of 2nd Grade STS-91 Question Paper.md)
+> - [Analysis of 2nd Grade STSP-91 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis/Analysis of 2nd Grade STSP-91 Question Paper.md)
+> - [Analysis of 2nd Grade TS-71 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis/Analysis of 2nd Grade TS-71 Question Paper.md)
+> - [Analysis of 2nd Grade TSS-24 Question Paper](Exams/2nd Grade Previous Year Papers/Analysis/Analysis of 2nd Grade TSS-24 Question Paper.md)
+> - [Comprehensive Analysis & Strategy Guide 2nd Grade English Exam](Exams/2nd Grade Previous Year Papers/Analysis/Comprehensive Analysis & Strategy Guide 2nd Grade English Exam.md)
+> #### Simple Papers
+> - [2nd Grade 2011-I](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade 2011-I.md)
+> - [2nd Grade 2011-II](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade 2011-II.md)
+> - [2nd Grade 2013](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade 2013.md)
+> - [2nd Grade 2015-18](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade 2015-18.md)
+> - [2nd Grade ST-22](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade ST-22.md)
+> - [2nd Grade ST-81](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade ST-81.md)
+> - [2nd Grade STS-32](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade STS-32.md)
+> - [2nd Grade STS-91](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade STS-91.md)
+> - [2nd Grade STSP-91](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade STSP-91.md)
+> - [2nd Grade TS-71](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade TS-71.md)
+> - [2nd Grade TSS-24](Exams/2nd Grade Previous Year Papers/Simple Papers/2nd Grade TSS-24.md)
+> ### Analysis
+> - [RPSC 2nd Grade English - Topic-wise Question Analysis](Exams/Analysis/RPSC 2nd Grade English - Topic-wise Question Analysis.md)
+> ### Ashok Tests
+> - [2nd Grade April Major Test (27 April)](Exams/Ashok Tests/2nd Grade April Major Test (27 April).md)
+> - [2nd Grade May Major Test (26 May)](Exams/Ashok Tests/2nd Grade May Major Test (26 May).md)
+> - [2nd Grade May Minor Test 1 (5 May)](Exams/Ashok Tests/2nd Grade May Minor Test 1 (5 May).md)
+> - [2nd Grade May Minor Test 2 (12 May)](Exams/Ashok Tests/2nd Grade May Minor Test 2 (12 May).md)
+> - [2nd Grade May Minor Test 3 (19 May)](Exams/Ashok Tests/2nd Grade May Minor Test 3 (19 May).md)
+> - [7 July Minor Test](Exams/Ashok Tests/7 July Minor Test.md)
+> - [index](Exams/Ashok Tests/index.md)
+> - [Second Grade April Minor Test 1 6 April](Exams/Ashok Tests/Second Grade April Minor Test 1 6 April.md)
+> - [Second Grade March Major Test (30 March)](Exams/Ashok Tests/Second Grade March Major Test (30 March).md)
+> ### Literary Periods Questions
+> - [1 part 1 Victorian MCQ](Exams/Literary Periods Questions/1 part 1 Victorian MCQ.md)
+> - [Commonwealth Period Questions](Exams/Literary Periods Questions/Commonwealth Period Questions.md)
+> - [Jacobean period questions](Exams/Literary Periods Questions/Jacobean period questions.md)
+> - [Metaphysical Poets Questions](Exams/Literary Periods Questions/Metaphysical Poets Questions.md)
+> - [Renaissance Questions](Exams/Literary Periods Questions/Renaissance Questions.md)
+> ### PYQs
+> - [Indian Writers PYQs](Exams/PYQs/Indian Writers PYQs.md)
+> - [Literary Periods & Movements PYQs](Exams/PYQs/Literary Periods & Movements PYQs.md)
+> - [Literary Terms PYQs](Exams/PYQs/Literary Terms PYQs.md)
+> ### Test
+> - [index](Exams/Test/index.md)
+
+---
+
+> [!info] <span id="literature">Literature</span>
+> ### Glossary
+> - [Aphoristic Style](Literature/Glossary/Aphoristic Style.md)
+> - [Carpe Diem](Literature/Glossary/Carpe Diem.md)
+> - [City Comedy](Literature/Glossary/City Comedy.md)
+> - [Didacticism](Literature/Glossary/Didacticism.md)
+> - [Dramatic Monologue](Literature/Glossary/Dramatic Monologue.md)
+> - [Euphuism](Literature/Glossary/Euphuism.md)
+> - [Glossary](Literature/Glossary/Glossary.md)
+> - [Grand Narratives](Literature/Glossary/Grand Narratives.md)
+> - [Imagism](Literature/Glossary/Imagism.md)
+> - [Interior Monologue](Literature/Glossary/Interior Monologue.md)
+> - [Intertextuality](Literature/Glossary/Intertextuality.md)
+> - [Jacobean Age](Literature/Glossary/Jacobean Age.md)
+> - [Literary Terms MH Abraham - Syllabus](Literature/Glossary/Literary Terms MH Abraham - Syllabus.md)
+> - [Metafiction](Literature/Glossary/Metafiction.md)
+> - [Metaphysical Conceits](Literature/Glossary/Metaphysical Conceits.md)
+> - [Modernism](Literature/Glossary/Modernism.md)
+> - [Mythical Method](Literature/Glossary/Mythical Method.md)
+> - [Paradox](Literature/Glossary/Paradox.md)
+> - [Pastiche](Literature/Glossary/Pastiche.md)
+> - [Pattern Poems](Literature/Glossary/Pattern Poems.md)
+> - [Post-Modernism](Literature/Glossary/Post-Modernism.md)
+> - [Psychological Novel](Literature/Glossary/Psychological Novel.md)
+> - [Realism](Literature/Glossary/Realism.md)
+> - [Renaissance](Literature/Glossary/Renaissance.md)
+> - [Scholasticism](Literature/Glossary/Scholasticism.md)
+> - [Spenserian Stanza](Literature/Glossary/Spenserian Stanza.md)
+> - [Tragicomedy](Literature/Glossary/Tragicomedy.md)
+> - [Unification of Sensibility](Literature/Glossary/Unification of Sensibility.md)
+> - [University Wits](Literature/Glossary/University Wits.md)
+> - [Utilitarianism](Literature/Glossary/Utilitarianism.md)
+> - [Victorian Compromise](Literature/Glossary/Victorian Compromise.md)
+> - [War Poets](Literature/Glossary/War Poets.md)
+> - [Wit](Literature/Glossary/Wit.md)
+> ### Literary Movements
+> - [Aestheticism](Literature/Literary Movements/Aestheticism.md)
+> - [Existentialism (c. 19th-20th Century)](Literature/Literary Movements/Existentialism (c. 19th-20th Century).md)
+> - [index](Literature/Literary Movements/index.md)
+> - [Stream of Consciousness](Literature/Literary Movements/Stream of Consciousness.md)
+> - [The Gothic Movement (c. 1764 – 1820s)](Literature/Literary Movements/The Gothic Movement (c. 1764 – 1820s).md)
+> - [The Modernist Movement (c. 1901 – 1945)](Literature/Literary Movements/The Modernist Movement (c. 1901 – 1945).md)
+> - [The Post-Modernism Movement (c. 1945 – Present)](Literature/Literary Movements/The Post-Modernism Movement (c. 1945 – Present).md)
+> - [The Pre-Raphaelite Movement (founded 1848)](Literature/Literary Movements/The Pre-Raphaelite Movement (founded 1848).md)
+> - [The Realism Movement (c. 1850s – 1900)](Literature/Literary Movements/The Realism Movement (c. 1850s – 1900).md)
+> - [The Romanticism Movement (c. 1798 – 1837)](Literature/Literary Movements/The Romanticism Movement (c. 1798 – 1837).md)
+> - [The Symbolist Movement (c. 1850s – 1900)](Literature/Literary Movements/The Symbolist Movement (c. 1850s – 1900).md)
+> ### Literary Periods
+> - [index](Literature/Literary Periods/index.md)
+> - [The Commonwealth Period (or The Interregnum) (1649–1660)](Literature/Literary Periods/The Commonwealth Period (or The Interregnum) (1649–1660).md)
+> - [The Jacobean Age (1603–1625)](Literature/Literary Periods/The Jacobean Age (1603–1625).md)
+> - [The Metaphysical Poets (c. 1600–1660)](Literature/Literary Periods/The Metaphysical Poets (c. 1600–1660).md)
+> - [The Modern Period (c. 1901 – 1945)](Literature/Literary Periods/The Modern Period (c. 1901 – 1945).md)
+> - [The Neo-Classical Period (1660–1798)](Literature/Literary Periods/The Neo-Classical Period (1660–1798).md)
+> - [The Post-Modern Period (c. 1945 – Present)](Literature/Literary Periods/The Post-Modern Period (c. 1945 – Present).md)
+> - [The Renaissance Period (c. 1500–1660)](Literature/Literary Periods/The Renaissance Period (c. 1500–1660).md)
+> - [The Romantic Period (c. 1798 – 1837)](Literature/Literary Periods/The Romantic Period (c. 1798 – 1837).md)
+> - [The Victorian Period (c. 1837 – 1901) - Comprehensive](Literature/Literary Periods/The Victorian Period (c. 1837 – 1901) - Comprehensive.md)
+> - [The Victorian Period (c. 1837 – 1901)](Literature/Literary Periods/The Victorian Period (c. 1837 – 1901).md)
+
+---
+
+> [!info] <span id="syllabus">Syllabus</span>
+> - [2nd Grade English Syllabus](Syllabus/2nd Grade English Syllabus.md)
+> - [2nd Grade GK syllabus](Syllabus/2nd Grade GK syllabus.md)
+> - [index](Syllabus/index.md)
+
+---
+
+*Generated on July 15, 2025*

@@ -1,5 +1,5 @@
 ---
-title: 1. Fill in the blank with the most appropriate degree of adjective from the options given below -
+title: 2nd Grade TSS 24
 tags:
   - 2nd-grade
   - movement-study
@@ -8,7 +8,6 @@ tags:
   - questions
 ---
 
-### 1. Fill in the blank with the most appropriate degree of adjective from the options given below - 
 She can knit................than she can sew.
 (1) best
 (2) good

@@ -1,12 +1,10 @@
 ---
-title: Gk syllabus
+title: 2nd Grade GK syllabus
 tags:
   - 2nd-grade
   - movement-study
   - syllabus
 ---
-
-### **PAPER-I**
 ---
 
 #### **I. Geographical, Historical, Cultural and General Knowledge of Rajasthan:-**

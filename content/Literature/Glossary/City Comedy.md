@@ -7,8 +7,6 @@ tags:
   - satirical-comedy
 ---
 
-# City Comedy
-
 ## Definition
 **City Comedy** is a satirical dramatic genre that emerged in the Jacobean period, focusing on the lives, vices, and follies of the urban middle class in London. These comedies used wit and humor to expose the moral corruption and social pretensions of city dwellers.
 

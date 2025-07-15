@@ -8,7 +8,8 @@ tags:
   - king-james-i
 ---
 
-# Jacobean Age
+## Definition
+The **Jacobean Age** (1603-1625) is the period of English literature during the reign of King James I (*Jacobus* in Latin). It continues the Renaissance but shifts from Elizabethan optimism to a darker, more cynical and psychologically complex literary mood.
 
 ## Definition
 The **Jacobean Age** (1603-1625) is the period of English literature during the reign of King James I (*Jacobus* in Latin). It continues the Renaissance but shifts from Elizabethan optimism to a darker, more cynical and psychologically complex literary mood.

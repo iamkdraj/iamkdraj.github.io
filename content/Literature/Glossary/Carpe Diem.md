@@ -9,7 +9,8 @@ tags:
   - poetry
 ---
 
-# Carpe Diem
+## Definition
+**Carpe Diem** is a Latin phrase meaning "seize the day" or "pluck the day." In literature, it refers to a theme that encourages people to make the most of the present moment, often emphasizing the transient nature of life and the importance of immediate pleasure or action.
 
 ## Definition
 **Carpe Diem** is a Latin phrase meaning "seize the day" or "pluck the day." In literature, it refers to a theme that encourages people to make the most of the present moment, often emphasizing the transient nature of life and the importance of immediate pleasure or action.

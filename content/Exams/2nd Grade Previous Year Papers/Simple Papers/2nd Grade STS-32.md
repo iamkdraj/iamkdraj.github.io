@@ -1,4 +1,12 @@
-### 1. Fill in the blank with the correct option:
+---
+title: 2nd Grade STS 32
+---
+
+Everyone ______ to watch T.V. during the football world cup tournament. (subject - verb agreement)
+(1) likes
+(2) like
+(3) was liking
+(4) had been liking
 Everyone ______ to watch T.V. during the football world cup tournament. (subject - verb agreement)
 (1) likes
 (2) like

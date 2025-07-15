@@ -10,7 +10,8 @@ tags:
   - siegfried-sassoon
 ---
 
-# War Poets
+## Definition
+The **War Poets** were a group of poets who wrote about their direct experiences of World War I (1914-1918). They created a new kind of poetry that realistically depicted the brutal realities of modern warfare, challenging romantic notions of war and heroism through vivid, often horrific imagery.
 
 ## Definition
 The **War Poets** were a group of poets who wrote about their direct experiences of World War I (1914-1918). They created a new kind of poetry that realistically depicted the brutal realities of modern warfare, challenging romantic notions of war and heroism through vivid, often horrific imagery.

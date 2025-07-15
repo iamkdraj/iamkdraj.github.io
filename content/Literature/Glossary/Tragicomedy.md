@@ -7,8 +7,6 @@ tags:
   - jacobean-drama
 ---
 
-# Tragicomedy
-
 ## Definition
 **Tragicomedy** is a hybrid dramatic genre that combines serious tragic elements with comedic ones, typically featuring noble characters in dangerous situations that are resolved happily. It became popular in the Jacobean period as an alternative to pure tragedy or comedy.
 

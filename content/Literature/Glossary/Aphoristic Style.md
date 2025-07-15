@@ -8,7 +8,8 @@ tags:
   - writing-technique
 ---
 
-# Aphoristic Style
+## Definition
+**Aphoristic Style** is a writing technique characterized by the use of brief, memorable statements that express general truths or principles. It emphasizes conciseness, wit, and the compression of complex ideas into pithy, quotable phrases.
 
 ## Definition
 **Aphoristic Style** is a writing technique characterized by the use of brief, memorable statements that express general truths or principles. It emphasizes conciseness, wit, and the compression of complex ideas into pithy, quotable phrases.

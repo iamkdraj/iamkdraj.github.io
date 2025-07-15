@@ -8,8 +8,6 @@ tags:
   - metaphysical-poetry
 ---
 
-# Paradox
-
 ## Definition
 A **Paradox** is a literary device that presents a statement or situation that appears contradictory or absurd but reveals a deeper truth upon closer examination. It challenges conventional thinking by combining seemingly opposite ideas.
 

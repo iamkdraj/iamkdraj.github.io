@@ -1,5 +1,5 @@
 ---
-title: 1. Combined Topic-wise Question Distribution (All Papers)
+title: Comprehensive Analysis Strategy Guide 2nd Grade English Exam
 tags:
   - 2nd-grade
   - analysis
@@ -13,7 +13,7 @@ This guide provides a deep, data-driven analysis of 11 previous question papers 
 
 ---
 
-## 1. Combined Topic-wise Question Distribution (All Papers)
+This master table consolidates the data from all provided papers for a clear comparative view.
 
 This master table consolidates the data from all provided papers for a clear comparative view.
 

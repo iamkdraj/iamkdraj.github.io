@@ -7,8 +7,6 @@ tags:
   - historical-period
 ---
 
-# Renaissance
-
 ## Definition
 The **Renaissance** (French for "Rebirth") refers to the period of European history that marked a gradual but profound shift away from the medieval worldview. It represents a "rebirth" of interest in the classical art, literature, and learning of ancient Greece and Rome.
 

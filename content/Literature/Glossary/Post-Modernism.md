@@ -1,5 +1,5 @@
 ---
-title: Post-Modernism
+title: Post Modernism
 tags:
   - glossary
   - literature
@@ -8,8 +8,6 @@ tags:
   - philosophy
   - cultural-theory
 ---
-
-# Post-Modernism
 
 ## Definition
 **Post-Modernism** is a cultural, artistic, and literary movement that emerged after World War II, characterized by a skeptical, critical, and often playful reaction against Modernism. Rather than mourning the loss of meaning and coherence, post-modernists accept and often celebrate chaos, fragmentation, and the absence of absolute truth.

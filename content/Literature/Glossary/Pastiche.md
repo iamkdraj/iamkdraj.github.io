@@ -9,7 +9,8 @@ tags:
   - style
 ---
 
-# Pastiche
+## Definition
+**Pastiche** is a literary and artistic technique that involves the playful imitation, borrowing, or "pasting together" of multiple styles, genres, or voices without satirical intent. Unlike parody, which mocks its source material, pastiche adopts different styles neutrally, often celebrating or simply utilizing their distinctive characteristics.
 
 ## Definition
 **Pastiche** is a literary and artistic technique that involves the playful imitation, borrowing, or "pasting together" of multiple styles, genres, or voices without satirical intent. Unlike parody, which mocks its source material, pastiche adopts different styles neutrally, often celebrating or simply utilizing their distinctive characteristics.

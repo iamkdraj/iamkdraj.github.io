@@ -8,7 +8,8 @@ tags:
   - narrative-technique
 ---
 
-# Psychological Novel
+## Definition
+A **Psychological Novel** is a type of fiction that emphasizes the interior lives of characters, focusing on their thoughts, emotions, motivations, and mental processes rather than external action or plot. It explores the complexity of human consciousness and behavior.
 
 ## Definition
 A **Psychological Novel** is a type of fiction that emphasizes the interior lives of characters, focusing on their thoughts, emotions, motivations, and mental processes rather than external action or plot. It explores the complexity of human consciousness and behavior.

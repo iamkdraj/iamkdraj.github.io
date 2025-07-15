@@ -8,7 +8,8 @@ tags:
   - novel
 ---
 
-# Realism
+## Definition
+**Realism** is a literary movement and technique that aims to represent life as it actually is, without idealization or romantic subjectivity. It seeks to create a detailed, accurate, and panoramic portrait of society, focusing on ordinary people and everyday situations.
 
 ## Definition
 **Realism** is a literary movement and technique that aims to represent life as it actually is, without idealization or romantic subjectivity. It seeks to create a detailed, accurate, and panoramic portrait of society, focusing on ordinary people and everyday situations.

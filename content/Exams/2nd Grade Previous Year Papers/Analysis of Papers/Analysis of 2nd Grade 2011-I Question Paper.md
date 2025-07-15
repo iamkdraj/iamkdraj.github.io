@@ -1,5 +1,5 @@
 ---
-title: Topic-wise Question Distribution
+title: Analysis of 2nd Grade 2011 I Question Paper
 tags:
   - 2nd-grade
   - analysis
@@ -12,8 +12,6 @@ tags:
 This note categorizes the questions from the `2nd Grade 2011-I.md` paper based on the topics listed in the `2nd Grade English Syllabus.md`.
 
 ---
-
-## Topic-wise Question Distribution
 
 | Part    | Syllabus Topic                                | Number of Questions |
 | :------ | :-------------------------------------------- | :------------------ |

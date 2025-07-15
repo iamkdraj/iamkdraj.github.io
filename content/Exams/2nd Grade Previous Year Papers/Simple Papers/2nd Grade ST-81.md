@@ -1,5 +1,5 @@
 ---
-title: 1. I usually sleep well.
+title: 2nd Grade ST 81
 tags:
   - 2nd-grade
   - movement-study
@@ -7,8 +7,11 @@ tags:
   - previous-papers
   - questions
 ---
-
-### 1. I usually sleep well.
+The word ‘sleep’ in this sentence belongs to the class of words called -
+(1) verb
+(2) adverb
+(3) adjective
+(4) noun
 The word ‘sleep’ in this sentence belongs to the class of words called -
 (1) verb
 (2) adverb

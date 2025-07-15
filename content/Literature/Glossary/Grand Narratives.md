@@ -9,7 +9,8 @@ tags:
   - cultural-theory
 ---
 
-# Grand Narratives
+## Definition
+**Grand Narratives** (also called **Metanarratives**) are overarching stories, theories, or belief systems that claim to provide universal, totalizing explanations for history, human experience, and social reality. They present themselves as comprehensive frameworks that can account for all aspects of existence and offer direction for human progress.
 
 ## Definition
 **Grand Narratives** (also called **Metanarratives**) are overarching stories, theories, or belief systems that claim to provide universal, totalizing explanations for history, human experience, and social reality. They present themselves as comprehensive frameworks that can account for all aspects of existence and offer direction for human progress.

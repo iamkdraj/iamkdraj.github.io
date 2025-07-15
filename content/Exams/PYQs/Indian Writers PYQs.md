@@ -6,8 +6,6 @@ tags:
   - questions
 ---
 
-## Category 3: An Acquaintance with Major Indian Writers in English
-
 #### Q. 1 (TSS-24): The Sahitya Akademi Award winning work ‘The Shadow Lines’ was written by-
 > [!tip]- Ruskin Bond
 > ❌ Incorrect. Ruskin Bond is known for his children's literature and stories set in the Indian hills.

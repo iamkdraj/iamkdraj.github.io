@@ -9,7 +9,8 @@ tags:
   - fiction
 ---
 
-# Metafiction
+## Definition
+**Metafiction** is fiction that is self-consciously about fiction itself. It deliberately reminds readers that they are reading a work of art, breaking the illusion of realism by drawing attention to the artificial nature of the narrative and the process of storytelling.
 
 ## Definition
 **Metafiction** is fiction that is self-consciously about fiction itself. It deliberately reminds readers that they are reading a work of art, breaking the illusion of realism by drawing attention to the artificial nature of the narrative and the process of storytelling.

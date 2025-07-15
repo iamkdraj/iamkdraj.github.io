@@ -1,5 +1,5 @@
 ---
-title: 1. Identify the Parts of Speech of the underlined words (1 – 3)
+title: 2nd Grade ST 22
 tags:
   - 2nd-grade
   - movement-study
@@ -7,8 +7,7 @@ tags:
   - previous-papers
   - questions
 ---
-
-### 1. Identify the Parts of Speech of the underlined words (1 – 3)
+These residential _complexes_ are quite new.
 These residential _complexes_ are quite new.
 (1) noun
 (2) adverb

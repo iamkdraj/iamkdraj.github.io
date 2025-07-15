@@ -8,8 +8,6 @@ tags:
   - metaphysical-poetry
 ---
 
-# Wit
-
 ## Definition
 In 17th-century literature, **Wit** meant intellectual cleverness, ingenuity, and the ability to see surprising connections between different, seemingly unrelated things. It was valued as a sophisticated mental quality rather than simple humor.
 

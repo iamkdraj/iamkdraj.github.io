@@ -1,9 +1,6 @@
 ---
-title: Category 
-
+title: Category 2 An Acquaintance with Literary Forms Figures of Speech
 ---
-
-## Category 2: An Acquaintance with Literary Forms & Figures of Speech
 
 ### I. Literary Forms
 

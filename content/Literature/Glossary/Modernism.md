@@ -8,7 +8,8 @@ tags:
   - international-movement
 ---
 
-# Modernism
+## Definition
+**Modernism** was a revolutionary international movement in the arts that emerged in the early 20th century, characterized by a conscious and radical break with 19th-century traditions. Modernist writers believed that Victorian forms and conventions were inadequate to represent the reality of the modern world.
 
 ## Definition
 **Modernism** was a revolutionary international movement in the arts that emerged in the early 20th century, characterized by a conscious and radical break with 19th-century traditions. Modernist writers believed that Victorian forms and conventions were inadequate to represent the reality of the modern world.

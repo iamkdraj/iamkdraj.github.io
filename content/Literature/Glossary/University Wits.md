@@ -8,7 +8,8 @@ tags:
   - renaissance
 ---
 
-# University Wits
+## Definition
+The **University Wits** were a group of late 16th-century English playwrights and pamphleteers who were educated at the universities of Oxford or Cambridge. They transformed English drama with their sophisticated plots, powerful language, and innovative theatrical techniques.
 
 ## Definition
 The **University Wits** were a group of late 16th-century English playwrights and pamphleteers who were educated at the universities of Oxford or Cambridge. They transformed English drama with their sophisticated plots, powerful language, and innovative theatrical techniques.

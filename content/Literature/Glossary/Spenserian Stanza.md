@@ -8,7 +8,8 @@ tags:
   - edmund-spenser
 ---
 
-# Spenserian Stanza
+## Definition
+The **Spenserian Stanza** is a nine-line verse form created by Edmund Spenser specifically for his epic poem *The Faerie Queene*. It consists of eight lines of iambic pentameter followed by a final line of iambic hexameter (called an alexandrine).
 
 ## Definition
 The **Spenserian Stanza** is a nine-line verse form created by Edmund Spenser specifically for his epic poem *The Faerie Queene*. It consists of eight lines of iambic pentameter followed by a final line of iambic hexameter (called an alexandrine).

@@ -8,7 +8,8 @@ tags:
   - cultural-analysis
 ---
 
-# Victorian Compromise
+## Definition
+The **Victorian Compromise** refers to the characteristic duality of Victorian society and culture, where public morality, respectability, and propriety coexisted with private hypocrisy and hidden social realities. It represents the tension between idealized surface values and the darker truths beneath.
 
 ## Definition
 The **Victorian Compromise** refers to the characteristic duality of Victorian society and culture, where public morality, respectability, and propriety coexisted with private hypocrisy and hidden social realities. It represents the tension between idealized surface values and the darker truths beneath.

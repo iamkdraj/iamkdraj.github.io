@@ -9,7 +9,8 @@ tags:
   - psychology
 ---
 
-# Interior Monologue
+## Definition
+**Interior Monologue** is a narrative technique that presents a character's inner thoughts and feelings directly, without mediation by a narrator. It reproduces the mental processes of a character, including thoughts, emotions, memories, and sensory perceptions, often in their natural, unstructured flow.
 
 ## Definition
 **Interior Monologue** is a narrative technique that presents a character's inner thoughts and feelings directly, without mediation by a narrator. It reproduces the mental processes of a character, including thoughts, emotions, memories, and sensory perceptions, often in their natural, unstructured flow.

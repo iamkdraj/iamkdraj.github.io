@@ -9,7 +9,8 @@ tags:
   - literary-form
 ---
 
-# Dramatic Monologue
+## Definition
+A **Dramatic Monologue** is a type of lyric poem in which a single speaker (who is clearly not the poet) addresses a silent but identifiable listener in a specific, critical situation. Through the course of the speech, the speaker inadvertently reveals their own temperament, character, and moral nature.
 
 ## Definition
 A **Dramatic Monologue** is a type of lyric poem in which a single speaker (who is clearly not the poet) addresses a silent but identifiable listener in a specific, critical situation. Through the course of the speech, the speaker inadvertently reveals their own temperament, character, and moral nature.

@@ -1,5 +1,5 @@
 ---
-title: 1. Choose the correct alternative from the verbs given below each sentence (Q. Nos. 1-5).
+title: 2nd Grade STSP 91
 tags:
   - 2nd-grade
   - movement-study
@@ -7,8 +7,7 @@ tags:
   - previous-papers
   - questions
 ---
-
-### 1. Choose the correct alternative from the verbs given below each sentence (Q. Nos. 1-5).
+they not go ?
 they not go ?
 (1) Did
 (2) Does

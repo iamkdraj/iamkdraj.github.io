@@ -1,5 +1,5 @@
 ---
-title: 1. Which word' class is often defined by position rather than by form ?
+title: 2nd Grade 2013
 tags:
   - 2nd-grade
   - movement-study
@@ -7,8 +7,10 @@ tags:
   - previous-papers
   - questions
 ---
-
-### 1. Which word' class is often defined by position rather than by form ?
+(1) Nouns
+(2) Adjectives
+(3) Adverbs
+(4) Verbs
 (1) Nouns
 (2) Adjectives
 (3) Adverbs

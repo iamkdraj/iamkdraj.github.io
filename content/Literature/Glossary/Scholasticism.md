@@ -8,8 +8,6 @@ tags:
   - argumentative-method
 ---
 
-# Scholasticism
-
 ## Definition
 **Scholasticism** was a medieval philosophical and educational method that used logic, debate, and systematic reasoning to explore complex theological and philosophical questions. It heavily influenced Metaphysical poets' argumentative style.
 

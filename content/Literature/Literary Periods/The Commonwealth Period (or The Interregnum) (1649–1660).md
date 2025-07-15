@@ -1,5 +1,5 @@
 ---
-title: Key Context and Influences
+title: The Commonwealth Period or The Interregnum 1649 1660
 tags:
   - literary-periods
   - literature
@@ -10,8 +10,6 @@ tags:
 This brief but significant 11-year period marks the time when England was a republic, without a monarch. It began with the execution of **King Charles I** in 1649 and ended with the **Restoration** of the monarchy under **King Charles II** in 1660. For this reason, it is also known as the **Interregnum** (meaning "between reigns"). The dominant political and social force during this time was **Puritanism**, led by **Oliver Cromwell**, who ruled as Lord Protector from 1653 to 1658.
 
 ---
-
-### Key Context and Influences
 
 *   **Puritan Rule**: The Puritans were a devout Protestant group who sought to "purify" the Church of England of its remaining Catholic traditions. They valued sobriety, strict morality, and religious observance. Their rise to power had a profound and restrictive impact on the arts and culture.
 *   **The Closing of the Theatres (1642)**: This is the single most important event for literature during this era. Viewing the theatres as dens of sin and moral corruption, the Puritan-led Parliament officially closed them. This act brought the golden age of English drama to an abrupt halt and silenced a major outlet for secular literature.

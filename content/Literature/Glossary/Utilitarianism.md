@@ -8,7 +8,8 @@ tags:
   - social-philosophy
 ---
 
-# Utilitarianism
+## Definition
+**Utilitarianism** is a moral and political philosophy that judges actions based on their consequences, specifically whether they produce "the greatest good for the greatest number." It emphasizes practical outcomes and measurable benefits over abstract principles or individual rights.
 
 ## Definition
 **Utilitarianism** is a moral and political philosophy that judges actions based on their consequences, specifically whether they produce "the greatest good for the greatest number." It emphasizes practical outcomes and measurable benefits over abstract principles or individual rights.

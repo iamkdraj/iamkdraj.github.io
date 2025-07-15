@@ -9,7 +9,8 @@ tags:
   - 20th-century
 ---
 
-# Imagism
+## Definition
+**Imagism** was a poetic movement that emerged in the early 20th century, emphasizing clear, precise imagery and direct treatment of subject matter. It sought to eliminate unnecessary words and present concrete, vivid images that would convey meaning directly to the reader.
 
 ## Definition
 **Imagism** was a poetic movement that emerged in the early 20th century, emphasizing clear, precise imagery and direct treatment of subject matter. It sought to eliminate unnecessary words and present concrete, vivid images that would convey meaning directly to the reader.

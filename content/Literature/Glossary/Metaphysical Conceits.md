@@ -9,7 +9,8 @@ tags:
   - john-donne
 ---
 
-# Metaphysical Conceits
+## Definition
+**Metaphysical Conceits** are highly clever, complex, and startling extended metaphors that compare two things that seem completely unrelated. Unlike simple similes, these comparisons are developed logically throughout the poem, often using scientific, legal, or theological imagery.
 
 ## Definition
 **Metaphysical Conceits** are highly clever, complex, and startling extended metaphors that compare two things that seem completely unrelated. Unlike simple similes, these comparisons are developed logically throughout the poem, often using scientific, legal, or theological imagery.

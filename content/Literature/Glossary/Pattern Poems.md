@@ -8,8 +8,6 @@ tags:
   - metaphysical-poetry
 ---
 
-# Pattern Poems
-
 ## Definition
 **Pattern Poems** (also called concrete or visual poems) are poems where the shape and visual arrangement of text on the page reflects or reinforces the poem's subject matter. The physical form becomes part of the meaning.
 

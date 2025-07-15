@@ -1,5 +1,6 @@
 
-title: 1. Choose the correct option to explain the idioms / phrases : (Question No. 1 to 5)
+---
+title: 2nd Grade STS 91 Test
 tags:
   - 2nd-grade
   - movement-study
@@ -7,8 +8,6 @@ tags:
   - previous-papers
   - questions
 ---
-
-### 1. Choose the correct option to explain the idioms / phrases : (Question No. 1 to 5)
 To have a dig at :
 (1) to weed out the grass
 (2) to criticise someone

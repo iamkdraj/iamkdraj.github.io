@@ -1,5 +1,5 @@
 ---
-title: 1. The wind was blowing dead against us. The word ‘dead’ used in the above sentence is –
+title: 2nd Grade May Major Test (26 May)
 tags:
   - 2nd-grade
   - ashok-tests
