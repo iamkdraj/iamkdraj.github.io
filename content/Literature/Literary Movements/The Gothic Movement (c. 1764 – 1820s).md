@@ -55,7 +55,7 @@ It is useful to distinguish between two types of Gothic: the "Gothic of Terror" 
     *   **Bram Stoker's *Dracula*** and **Robert Louis Stevenson's *Dr. Jekyll and Mr. Hyde*** are famous late-Victorian examples that explore themes of sexuality, duality, and the monster within.
 
 ---
-## Backlinks
+#### Backlinks
 - [[index]]
 
 ---

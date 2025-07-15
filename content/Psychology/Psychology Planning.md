@@ -328,3 +328,89 @@ author: Keshav Dev
 - Enhancing social skills in school settings
 
 ---
+
+# ✅ Day 1: Deep Learning + Flashcard Making (10 hrs)
+
+## Block 1 (2 hrs): Educational Psychology + Development of Learner (Part 1)
+- Meaning, scope, classroom implications
+- Growth vs development, principles
+- Stages: Infancy → Adolescence
+
+## Block 2 (2 hrs): Development of Learner (Part 2)
+- Physical, emotional, social development
+- Piaget + Vygotsky
+- Kohlberg’s moral development
+
+## Block 3 (2 hrs): Learning Theories + Transfer
+- Types of learning
+- Pavlov, Skinner, Bandura, Bruner
+- Transfer of learning and classroom implications
+
+## Block 4 (2 hrs): Personality + Intelligence
+- Type/trait theories, adjustment/maladjustment
+- Freud, Rogers, Maslow
+- IQ theories: Spearman, Gardner, Sternberg
+
+## Block 5 (2 hrs): Motivation + Special Needs + Others
+- Maslow, McClelland, Herzberg
+- Gifted, slow learners, delinquency
+- Self-concept, attitude, aptitude, habits, social skills
+
+🎯 **Outcome**: All concepts revised once, 50+ flashcards/toggles created.
+
+___
+# ✅ Day 2: Active Recall + MCQs + Mindmaps (10 hrs)
+
+## Block 1 (2 hrs): Active Recall – Development + Learning Theories
+- Self-test with recall sheets (no notes!)
+- MCQs: Developmental stages, Piaget, Kohlberg
+- Mindmap: Theories of learning
+
+## Block 2 (2 hrs): MCQ Practice – Learning + Personality
+- 50+ MCQs (PYQs if possible)
+- Create error log: “I forget,” “I confused,” “I guessed”
+
+## Block 3 (2 hrs): Active Recall – Intelligence + Motivation
+- Flashcard blitz + 10 oral explains
+- Mindmap: Motivation + Intelligence theories
+
+## Block 4 (2 hrs): MCQ Practice – Motivation + Special Needs
+- 50 MCQs from all weak zones
+- Reinforce Self-concept, aptitude, interest, etc.
+
+## Block 5 (2 hrs): Mixed Revision + Formula Sheet + Visuals
+- 1-page summary per unit
+- Wall-notes / diagrams for tough parts
+- Fix 10 persistent confusion points
+
+🎯 **Outcome**: You can now **recall + apply**. All MCQ errors are logged.
+____
+# ✅ Day 3: Exam Readiness + Final Reinforcement (10 hrs)
+
+## Block 1 (2 hrs): Full-Length Mock Test (90 min) + Review (30 min)
+- 100 questions (mix of PYQ + model)
+- Analyze errors → go back to theory
+
+## Block 2 (2 hrs): Revise Weak Areas
+- Based on error log (Day 2)
+- Theory + MCQ mix
+- Use flashcards or toggles actively
+
+## Block 3 (2 hrs): Rapid Fire + Recall Sheets
+- 10×10 recall challenge: name 10 items from each unit
+- Speak/explain topics aloud
+- Finalize “cheat sheet” summaries
+
+## Block 4 (2 hrs): Final Revision – Theories Only
+- Personality
+- Intelligence
+- Learning
+- Motivation
+
+## Block 5 (2 hrs): Chill + Passive Revision + Mind Warm-up
+- Watch summary videos / listen to voice notes
+- Review diagrams, error log, mnemonics
+- Sleep well
+
+🎯 **Outcome**: Ready to face any angle – theory, MCQ, or case-based Qs.
+___
