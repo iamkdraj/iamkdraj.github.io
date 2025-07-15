@@ -1,104 +1,34 @@
 ---
-title: Didacticism
 tags:
   - glossary
-  - literature
-  - literary-technique
-  - victorian-literature
-  - moral-purpose
 ---
+# Didacticism
 
-## Definition
-**Didacticism** is a literary technique and philosophy that emphasizes the instructional or educational purpose of literature. Didactic works are designed to teach moral lessons, convey knowledge, or promote particular values and behaviors.
+**Didacticism** refers to a philosophy in art and literature that emphasizes the instructional and informative qualities of a work. A didactic work aims to teach a moral, political, or practical lesson, or to convey a body of knowledge. The primary purpose is to instruct or educate the audience, rather than solely to entertain or express beauty.
 
-## Definition
-**Didacticism** is a literary technique and philosophy that emphasizes the instructional or educational purpose of literature. Didactic works are designed to teach moral lessons, convey knowledge, or promote particular values and behaviors.
+## Characteristics
 
-## Key Characteristics
+*   **Moral or Ethical Instruction**: Often, didactic literature seeks to instill virtues, correct vices, or guide behavior.
+*   **Social or Political Commentary**: Works can be didactic by advocating for specific social reforms or political ideologies.
+*   **Clear Message**: The message or lesson is typically clear and explicit, not left to subtle interpretation.
+*   **Emphasis on Utility**: The value of the work is often measured by its usefulness in conveying a message or teaching a skill.
 
-### Purpose and Function
-- **Educational Intent**: Primary goal is to instruct or teach
-- **Moral Instruction**: Conveys ethical lessons and values
-- **Social Reform**: Promotes social improvement and change
-- **Practical Guidance**: Provides advice for conduct and behavior
-- **Ideological Messaging**: Advances particular worldviews or beliefs
+## Historical Context
 
-### Literary Techniques
-- **Direct Address**: Author speaks directly to reader
-- **Moral Commentary**: Explicit judgment on characters' actions
-- **Exemplary Characters**: Characters who model good or bad behavior
-- **Clear Moral Framework**: Obvious distinction between right and wrong
-- **Instructional Asides**: Direct lessons embedded in narrative
+Didacticism has been a prominent feature in literature across various periods:
 
-## Victorian Didacticism
+*   **Ancient Greece and Rome**: Philosophers like Plato and poets like Horace (who famously stated that poetry should both "delight and instruct") emphasized the didactic function of art.
+*   **[[The Neo-Classical Period (1660–1798)]]**: This era strongly believed that literature should both "instruct and delight." Writers aimed to correct social follies and promote reason and order.
+*   **[[The Victorian Period (c. 1837 – 1901)]]**: Victorian literature, particularly the novel, often had a strong moral and social purpose, addressing issues like poverty, industrialization, and class inequality.
 
-### Cultural Context
-- **Social Responsibility**: Literature seen as tool for social improvement
-- **Moral Earnestness**: Serious approach to ethical questions
-- **Religious Influence**: Christian values and moral instruction
-- **Educational Expansion**: Growing literacy and need for moral guidance
-- **Reform Movements**: Literature supporting social and political change
+## Examples
 
-### Functions in Victorian Literature
-- **Social Criticism**: Exposure of social ills and injustices
-- **Moral Guidance**: Teaching proper behavior and values
-- **Religious Instruction**: Promoting Christian faith and morality
-- **Political Reform**: Advocating for social and political change
-- **Cultural Formation**: Shaping middle-class values and identity
-
-## Major Practitioners
-
-### Victorian Authors
-- **Charles Dickens**: Social reform through vivid portrayals of poverty
-- **Charlotte Brontë**: Moral development and women's independence
-- **George Eliot**: Moral philosophy and ethical complexity
-- **John Ruskin**: Art criticism with moral and social purpose
-- **Thomas Carlyle**: Social criticism and moral instruction
-
-### Earlier Tradition
-- **John Bunyan**: *The Pilgrim's Progress* (religious allegory)
-- **Alexander Pope**: Satirical poetry with moral purpose
-- **Samuel Johnson**: Moral essays and literary criticism
-- **William Blake**: Prophetic poetry with social message
-
-## Techniques and Methods
-
-### Narrative Strategies
-- **Omniscient Commentary**: Author's direct moral observations
-- **Symbolic Characters**: Figures representing virtues or vices
-- **Moral Consequences**: Characters rewarded or punished for actions
-- **Instructional Dialogue**: Conversations that teach lessons
-- **Exemplary Situations**: Scenarios that demonstrate moral principles
-
-### Rhetorical Devices
-- **Allegory**: Extended metaphor with moral meaning
-- **Satire**: Criticism through humor and irony
-- **Exemplum**: Brief story illustrating moral point
-- **Apostrophe**: Direct address to reader or abstract concept
-- **Moral Epigram**: Brief, witty statements of ethical truth
-
-## Reception and Criticism
-
-### Contemporary Views
-- **Popular Acceptance**: Readers expected moral instruction
-- **Critical Approval**: Literature valued for educational purpose
-- **Social Function**: Literature as means of moral and social improvement
-- **Religious Support**: Churches endorsed morally instructive literature
-
-### Later Criticism
-- **Aesthetic Movement**: Reaction against didactic purpose
-- **Art for Art's Sake**: Emphasis on beauty over instruction
-- **Modern Criticism**: Questioning of overt moral messaging
-- **Postmodern Views**: Skepticism toward authoritative moral instruction
+*   **Aesop's Fables**: Short stories with explicit moral lessons.
+*   **John Bunyan's *The Pilgrim's Progress***: An allegory designed to instruct readers on the Christian journey.
+*   **Charles Dickens's *Hard Times***: A novel that critiques utilitarianism and the dehumanizing effects of industrial education.
 
 ## Related Terms
-- [[Victorian Literature]]
-- [[Moral Purpose]]
-- [[Social Novel]]
-- [[Realism]]
-- [[Allegory]]
-- [[Satire]]
-- [[Charles Dickens]]
 
-## Sources
-- Literature/Literary Periods/The Victorian Period (c. 1837 – 1901)
+*   [[Allegory]]
+*   [[Satire]]
+*   [[Moral Purpose]]

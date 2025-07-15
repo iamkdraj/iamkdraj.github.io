@@ -10,7 +10,7 @@ tags:
 
 Realism was a major literary movement of the mid-to-late 19th century that began in France and spread across Europe and America. It developed as a reaction against the perceived excesses, exoticism, and fantastical plots of **Romanticism**. While the Romantics focused on the heroic, strange, and sublime, the Realists turned their attention to the **ordinary, the everyday, and the contemporary**.
 
-The core ambition of Realism is **verisimilitude**—the faithful, accurate, and truthful representation of reality. Realist writers sought to portray life "as it really is," without embellishment or idealization. As the American realist William Dean Howells put it, realism is "nothing more and nothing less than the truthful treatment of material." The **novel** was the perfect vehicle for this movement.
+The core ambition of Realism is **[[verisimilitude]]**—the faithful, accurate, and truthful representation of reality. Realist writers sought to portray life "as it really is," without embellishment or idealization. As the American realist William Dean Howells put it, realism is "nothing more and nothing less than the truthful treatment of material." The **novel** was the perfect vehicle for this movement.
 
 ---
 
@@ -48,7 +48,7 @@ The core ambition of Realism is **verisimilitude**—the faithful, accurate, and
 ### Naturalism: An Extreme Form of Realism
 
 > [!note]- What is Naturalism?
-> Naturalism is a more pessimistic and deterministic offshoot of Realism that emerged in the late 19th century. Influenced by **Charles Darwin's** theory of evolution and the scientific principles of determinism, Naturalist writers viewed human beings as products of their **heredity and environment**. They believed that characters are not free agents but are instead controlled by powerful, often brutal, internal and external forces they cannot understand or control (instincts, social conditions, etc.). Naturalistic works often depict characters struggling futilely against their squalid, oppressive environments, and frequently end in tragedy.
+> [[Naturalism]] is a more pessimistic and deterministic offshoot of Realism that emerged in the late 19th century. Influenced by **Charles Darwin's** theory of evolution and the scientific principles of determinism, Naturalist writers viewed human beings as products of their **heredity and environment**. They believed that characters are not free agents but are instead controlled by powerful, often brutal, internal and external forces they cannot understand or control (instincts, social conditions, etc.). Naturalistic works often depict characters struggling futilely against their squalid, oppressive environments, and frequently end in tragedy.
 
 *   **Key Figure (France)**: **Émile Zola**.
 *   **English Example**: The novels of **Thomas Hardy** (e.g., *Tess of the d'Urbervilles*, *Jude the Obscure*), which show characters crushed by an indifferent universe and rigid social laws, are prime examples of the Naturalistic worldview.
@@ -56,3 +56,9 @@ The core ambition of Realism is **verisimilitude**—the faithful, accurate, and
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Realism (c. 1850s-1900) was a major literary movement reacting against Romanticism, aiming for truthful and accurate representation of reality (verisimilitude). It focused on ordinary people, everyday life, and contemporary settings, often adopting an objective, unsentimental narration. Realism emphasized character development and frequently served as a social critique. Key figures include Gustave Flaubert (*Madame Bovary*) in France, George Eliot (*Middlemarch*) and Charles Dickens in England, Leo Tolstoy and Fyodor Dostoevsky in Russia, and Mark Twain in America. Naturalism, an extreme and pessimistic offshoot of Realism, viewed humans as products of heredity and environment, controlled by forces beyond their understanding, often ending tragically (e.g., Thomas Hardy's novels).

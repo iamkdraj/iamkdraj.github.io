@@ -31,7 +31,7 @@ The Metaphysical style emerged from the intellectual climate of the Jacobean and
     *   **Wit**: In the 17th-century sense, "wit" meant intellectual cleverness, ingenuity, and the ability to see surprising connections between different things.
     *   **Paradox**: The poets frequently used paradoxes—statements that seem contradictory but contain a deeper truth (e.g., Donne's "Death, thou shalt die").
     *   **Pun**: They also employed serious puns to explore complex ideas.
-*   **Fusion of Passion and Thought**: The 20th-century poet **T.S. Eliot**, who revived their reputation, praised the Metaphysicals for what he called the **"unification of sensibility."** He argued that they did not separate thinking from feeling; for them, a thought was an experience. They could "feel their thought as immediately as the odour of a rose."
+*   **Fusion of Passion and Thought**: The 20th-century poet **T.S. Eliot**, who revived their reputation, praised the Metaphysicals for what he called the **"[[Unification of Sensibility]]."** He argued that they did not separate thinking from feeling; for them, a thought was an experience. They could "feel their thought as immediately as the odour of a rose."
 *   **The Metaphysical Conceit**: This is their most famous and defining characteristic.
 
     > [!note]- What is a Metaphysical Conceit?
@@ -63,3 +63,9 @@ The Metaphysical style emerged from the intellectual climate of the Jacobean and
 *   **Abraham Cowley (1618-1667)**: Was extremely popular in his own time. It was in his biography that Dr. Johnson originally developed his theory of the Metaphysical poets.
 
 *   **Thomas Traherne (c. 1637-1674)**: A clergyman whose joyful, mystical poetry and prose celebrate the glory of God's creation. His work was almost entirely unknown until its rediscovery in the early 20th century.
+
+---
+
+**Summary for Quick Revision:**
+
+The Metaphysical Poets (c. 1600-1660) were 17th-century English poets, not a formal school, known for their intellectual, witty, and philosophical style. The term was coined by John Dryden and popularized by Dr. Samuel Johnson, who noted their ability to "yoke heterogeneous ideas by violence together." Influenced by a time of transition and doubt, and a reaction against Elizabethan conventions, their poetry is characterized by an intellectual and argumentative style, colloquial language, wit, paradox, puns, and a "unification of sensibility" (T.S. Eliot). Their most defining feature is the **Metaphysical Conceit**, a complex, extended metaphor comparing dissimilar things (e.g., Donne's compass conceit). Major poets include **John Donne** (*Holy Sonnets*, "The Flea"), **George Herbert** (*The Temple*, pattern poems), **Andrew Marvell** ("To His Coy Mistress"), Henry Vaughan, Richard Crashaw, Abraham Cowley, and Thomas Traherne.

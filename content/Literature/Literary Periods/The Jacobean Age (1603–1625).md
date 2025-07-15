@@ -71,7 +71,7 @@ While its roots are in the late Elizabethan period with John Donne, this distinc
     *   **Use of [[Paradox]] and Pun**: These figures of speech were used to explore complex ideas.
     *   **Themes**: Love, death, and religion were their primary subjects, explored with psychological realism.
 
-    > [!note]- What is a Metaphysical Conceit?
+    > [!note]- What is a [[Metaphysical Conceit]]?
     > A conceit is a clever and unconventional extended metaphor that establishes a surprising parallel between two very dissimilar things. For example, in "A Valediction: Forbidding Mourning," **John Donne** compares the souls of two separated lovers to the two legs of a geometer's compass—a strange, un-poetic image that he develops through logic to show their spiritual connection. It is a hallmark of the intellectual style of the Metaphysicals.
 
 *   **Major Poets**:
@@ -85,3 +85,9 @@ While its roots are in the late Elizabethan period with John Donne, this distinc
 *   **Francis Bacon**: Continued his influential work and is considered the **Father of the English Essay**. His prose is a model of the concise and memorable **aphoristic style**.
     *   *Key Jacobean Works:* *The Advancement of Learning* (1605), *Novum Organum* (1620), and the final edition of his *Essays* (1625).
 *   **Robert Burton**: Known for his massive and eccentric work, ***The Anatomy of Melancholy*** (1621), an exhaustive and learned study of depression.
+
+---
+
+**Summary for Quick Revision:**
+
+The Jacobean Age (1603-1625), named after King James I, was a continuation of the Elizabethan Renaissance but with a darker, more cynical tone due to political instability (Gunpowder Plot) and disillusionment. Drama remained dominant, with the rise of Revenge Tragedy (Shakespeare's major tragedies, John Webster's *The Duchess of Malfi*) and City Comedy (Ben Jonson's *Volpone*). Tragicomedy was perfected by Beaumont and Fletcher. Jacobean poetry saw the flourishing of Metaphysical Poets like John Donne, characterized by intellectual wit, colloquial language, and conceits. Key prose works include the monumental King James Bible (1611) and Francis Bacon's essays, known for their aphoristic style.

@@ -165,3 +165,9 @@ The Renaissance period concludes in 1660 with the restoration of the monarchy un
 > *   **Italian (Petrarchan) Sonnet**: An **octave** (8 lines, `abbaabba`) presenting a problem, and a **sestet** (6 lines, `cdecde` or `cdcdcd`) offering a resolution. The turn in thought is the *volta*.
 > *   **English (Shakespearean) Sonnet**: Three **quatrains** (4 lines each) and a concluding **couplet** (2 lines). The rhyme scheme is `abab cdcd efef gg`. The final couplet often provides a witty twist.
 > *   **Spenserian Sonnet**: A variation with a linked rhyme scheme: `abab bcbc cdcd ee`.
+
+---
+
+**Summary for Quick Revision:**
+
+The Renaissance (c. 1500-1660), meaning "Rebirth," marked a shift from medieval to a human-centered worldview, influenced by Humanism, the Protestant Reformation, the Age of Discovery, and the printing press. Key literary characteristics include a focus on humanism, nationalism, linguistic experimentation (sonnet, blank verse), and classical influence. Sub-periods are Elizabethan (1558-1603), Jacobean (1603-1625), Caroline (1625-1649), and Commonwealth (1649-1660). Elizabethan era saw the rise of drama (Shakespeare, Marlowe, Kyd, University Wits) and poetry (sonnets by Sidney, Spenser, Shakespeare). Jacobean era continued these trends with a darker tone, introducing Metaphysical (Donne, Herbert) and Cavalier poets. Caroline era saw escalating conflicts. The Commonwealth period closed theaters and focused on prose (Milton, Hobbes). The era ended with the Restoration in 1660. Key literary forms include Allegory, Blank Verse, Comedy of Humours, Pastoral Poetry, Revenge Tragedy, and Sonnets (Italian, English, Spenserian).

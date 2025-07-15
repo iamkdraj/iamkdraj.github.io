@@ -10,7 +10,7 @@ tags:
 
 # The Victorian Period (c. 1837 – 1901) - Comprehensive Overview
 
-The Victorian Period is named after the long and influential reign of **Queen Victoria** (1837-1901). It was an era of immense and rapid change, often called an age of "doubts and disputes, conflicts and controversies." Britain was at the peak of its global power as the center of the British Empire, while society at home was transformed by the full force of the **Industrial Revolution**.
+The Victorian Period is named after the long and influential reign of **Queen Victoria** (1837-1901). It was an era of immense and rapid change, often called an age of "doubts and disputes, conflicts and controversies." Britain was at the peak of its global power as the center of the British Empire, while society at home was transformed by the full force of the **[[Industrial Revolution]]**.
 
 This era of dramatic progress was also filled with deep contradictions. The literature of the period reflects this duality, grappling with themes of confidence and doubt, faith and skepticism, scientific advancement and social decay, and immense wealth alongside grinding poverty. The period is often subdivided into the **Early Victorian** (1837-1870) and **Late Victorian** (1870-1901) phases.
 
@@ -328,7 +328,7 @@ This was the great age of the English novel. The rise of lending libraries, thre
     * ***Idylls of the King*** (1859-1885): Arthurian epic about moral decay
     * "The Charge of the Light Brigade" (1854): Commemoration of military heroism
 
-* **Robert Browning (1812-1889)**: Master of dramatic monologue
+* **Robert Browning (1812-1889)**: Master of [[dramatic monologue]]
   * **Innovation**: Psychological revelation through speech
   * **Themes**: Renaissance art, Italian history, moral complexity
   * **Style**: Colloquial diction, irregular rhythms, intellectual complexity
@@ -829,3 +829,9 @@ The Victorian Period represents one of the most dynamic and influential eras in 
 The period's central tension between progress and tradition, faith and doubt, individual fulfillment and social responsibility, continues to resonate in our own era of rapid change and cultural transformation. Victorian literature's combination of aesthetic achievement and social engagement offers valuable lessons for understanding how literature can both reflect and shape the societies that produce it.
 
 *(The death of Queen Victoria in 1901 marks the end of this era and the beginning of the **Modern Period**.)*
+
+---
+
+**Summary for Quick Revision:**
+
+The Victorian Period (1837-1901), under Queen Victoria, was an era of rapid change, contradictions, and British imperial zenith, shaped by the Industrial Revolution. Key contexts include political reforms, economic transformation, social changes (class structure, urban growth, women's rights), and a crisis of faith due to scientific discoveries (Darwin). Intellectual movements like Utilitarianism, the Oxford Movement, Positivism, and Social Darwinism influenced thought, alongside emerging Socialism. Victorian literature is characterized by realism, moral purpose, the "Victorian Compromise," and a tension between idealism and doubt. The novel became dominant, with authors like Charles Dickens (social reform), the Brontë sisters (psychological/Gothic), George Eliot (intellectual), and Thomas Hardy (pessimistic realism). Poetry saw masters like Tennyson (faith vs. doubt), Robert Browning (dramatic monologue), and Elizabeth Barrett Browning. Sub-movements included the Pre-Raphaelite Brotherhood, Aestheticism, Realism, Naturalism, and Sensation Fiction. Key themes were social justice, faith/doubt, empire, progress/tradition, and individual vs. society. Important concepts include dramatic monologue, Bildungsroman, Gothic elements, free indirect discourse, the "New Woman," omniscient narration, and serial/three-volume publication. The era's innovations laid foundations for modern literature.

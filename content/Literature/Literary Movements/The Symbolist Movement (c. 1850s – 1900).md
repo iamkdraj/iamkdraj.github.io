@@ -7,7 +7,7 @@ tags:
   - period-study
 ---
 
-The Symbolist Movement was a late 19th-century movement, primarily in French poetry, that had an immense influence on European and American literature, acting as a crucial bridge between **Realism and Modernism**. It began as a reaction against the rigid conventions and objective descriptions of Realist and Naturalist writing, particularly the precise style of the **Parnassian** poets.
+The Symbolist Movement was a late 19th-century movement, primarily in French poetry, that had an immense influence on European and American literature, acting as a crucial bridge between **Realism and Modernism**. It began as a reaction against the rigid conventions and objective descriptions of Realist and Naturalist writing, particularly the precise style of the **Parnassian** poets. While distinct, it shared with movements like [[Impressionism]] a move towards subjective experience and away from purely objective representation.
 
 The Symbolists believed that the external world was not the true reality. Instead, they sought to express individual emotional experience and universal truths through the subtle, suggestive use of highly metaphorical and symbolic language.
 
@@ -34,3 +34,9 @@ The Symbolists believed that the external world was not the true reality. Instea
     *   **T.S. Eliot**: He was deeply influenced by Symbolist techniques, particularly their use of suggestion and fragmented imagery to evoke a mood of urban desolation.
     *   **James Joyce and Virginia Woolf**: The influence of Symbolism is apparent in their novels, which prioritize subjective reality and the inner world of consciousness.
     *   **Other Influenced Writers**: The movement's influence extended to poets like **Ezra Pound**, **Dylan Thomas**, **Hart Crane**, and the English **Decadent** writers **Arthur Symons** and **Ernest Dowson**.
+
+---
+
+**Summary for Quick Revision:**
+
+The Symbolist Movement (c. 1850s-1900), primarily French, bridged Realism and Modernism. Reacting against objective description, Symbolists sought to express individual emotional experience and universal truths through subtle, suggestive, and highly metaphorical language. Key principles include rejecting direct statement (suggest, not state), using private and subjective symbols, believing in "correspondences" (Baudelaire) between material and spiritual worlds, and emphasizing music's evocative power. Themes often included sensuality, religious impulses, occultism, love, death, and decadence. Key French originators were Charles Baudelaire (*Les Fleurs du mal*), Stéphane Mallarmé, Paul Verlaine, and Arthur Rimbaud. The movement profoundly influenced major Modernist writers like W.B. Yeats, T.S. Eliot, James Joyce, and Virginia Woolf, as well as other poets and Decadent writers.

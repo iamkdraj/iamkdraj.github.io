@@ -42,3 +42,9 @@ The term was coined by the American psychologist and philosopher **William James
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Stream of Consciousness is a highly influential narrative technique, a hallmark of Modernism, that portrays an individual's thought processes. Coined by psychologist William James, it aims to give direct, unmediated access to a character's mind, reflecting subjective reality and often employing non-linear narratives and disrupted syntax. While often used interchangeably with "interior monologue" (a specific type of stream of consciousness), it is primarily associated with the novel. Key practitioners include James Joyce (*Ulysses*), Virginia Woolf (*Mrs. Dalloway*, *To the Lighthouse*), William Faulkner (*The Sound and the Fury*), and Dorothy Richardson (*Pilgrimage*).

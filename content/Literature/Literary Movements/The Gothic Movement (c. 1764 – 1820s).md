@@ -57,3 +57,9 @@ It is useful to distinguish between two types of Gothic: the "Gothic of Terror" 
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+The Gothic movement (c. 1764-1820s) emerged as a dark, mysterious counterpart to Neo-Classicism, exploring terror, horror, and the irrational. It began with Horace Walpole's *The Castle of Otranto* (1764) and is deeply connected to Romanticism. Key elements include dark, decaying settings (castles, ruined abbeys), supernatural occurrences, plots of mystery and suspense, stock characters (tyrannical villain, persecuted heroine, valiant hero), and intense emotions. It distinguishes between "Gothic of Terror" (suspense, psychological dread, explained supernatural, perfected by Ann Radcliffe) and "Gothic of Horror" (explicit, shocking, graphic, exemplified by Matthew "Monk" Lewis). The movement evolved, influencing Mary Shelley's *Frankenstein* (Romantic Gothic) and continuing into the Victorian era with authors like the Brontë Sisters, Edgar Allan Poe, Bram Stoker, and Robert Louis Stevenson, exploring psychological states and social anxieties.

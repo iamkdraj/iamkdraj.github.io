@@ -16,7 +16,7 @@ The period's official beginning is marked by the publication of William Wordswor
 ### Context and Influences
 
 *   **The French Revolution (1789)**: This was the single most important political event shaping the Romantic imagination. The revolution's ideals of **"Liberty, Equality, and Fraternity"** initially inspired the young Romantic poets with a spirit of hope, freedom, and radical change. Though many became disillusioned by the later violence, the revolutionary spirit of individualism remained a core influence.
-*   **The Industrial Revolution**: The massive shift from a rural, agricultural society to an urban, industrialized one prompted a strong reaction from the Romantics. They were repulsed by the polluted cities, dehumanizing factory work, and the destruction of the natural landscape, which fueled their idealization of Nature.
+*   **The [[Industrial Revolution]]**: The massive shift from a rural, agricultural society to an urban, industrialized one prompted a strong reaction from the Romantics. They were repulsed by the polluted cities, dehumanizing factory work, and the destruction of the natural landscape, which fueled their idealization of Nature.
 *   **Reaction Against The Enlightenment**: Romanticism was a direct backlash against the cold, mechanical rationalism of the Neo-Classical period. The Romantics believed that reason alone was insufficient and that **imagination and emotion** were the true sources of wisdom and creativity.
 
 ---
@@ -32,7 +32,7 @@ The period's official beginning is marked by the publication of William Wordswor
     > Pantheism is the belief that God is identical with the universe and that divinity is present in everything. For the Romantics, this meant that God could be experienced directly through nature, without the need for organized religion. Poets like Wordsworth and Shelley are often associated with this belief.
 
 *   **Focus on the Individual and Subjectivity**: The poet's personal experience, thoughts, and feelings became the central subject of poetry. The poet was often portrayed as a visionary, prophet, or social outcast. This is in sharp contrast to the Neo-Classical focus on man as a social being.
-*   **Interest in the Supernatural and the Exotic**: In rebellion against "common sense," Romantics were fascinated by the mysterious, the medieval (**Gothicism**), and distant, exotic lands.
+*   **Interest in the Supernatural and the Exotic**: In rebellion against "common sense," Romantics were fascinated by the mysterious, the medieval ([[Gothic Movement]]), and distant, exotic lands. This often led to an exploration of the [[Sublime]].
 *   **Use of Simple, "Common" Language**: In the *Preface to Lyrical Ballads*, Wordsworth advocated for using the "real language of men" and choosing subjects from "humble and rustic life," rejecting the artificial "poetic diction" of the previous century.
 
 ---
@@ -56,7 +56,7 @@ These were the pioneers of the movement. They are called the "Lake Poets" becaus
 
 These poets were more radical in their politics and personal lives. They built upon the ideas of the first generation with a more intense, passionate, and rebellious spirit. All died tragically young.
 
-*   **Lord Byron (1788-1824)**: The celebrity of the group, famous for creating the **Byronic Hero**. He is often called a "romantic paradox" for blending Romantic passion with Neo-Classical satire.
+*   **Lord Byron (1788-1824)**: The celebrity of the group, famous for creating the **[[Byronic Hero]]**. He is often called a "romantic paradox" for blending Romantic passion with Neo-Classical satire.
     > [!note]- What is a Byronic Hero?
     > The Byronic Hero is a character type who is intelligent, arrogant, cynical, and brooding. He is an outcast, haunted by a secret sin or past trauma, and rebels against societal norms. This figure, largely based on Byron's own public persona, first appeared in his poem ***Childe Harold's Pilgrimage***.
     *   *Key Works:* ***Childe Harold's Pilgrimage***, ***Don Juan*** (a long, satirical mock-epic).
@@ -65,7 +65,7 @@ These poets were more radical in their politics and personal lives. They built u
     *   *Key Works:* ***Prometheus Unbound*** (a lyrical drama), **"Ode to the West Wind,"** "To a Skylark," "Ozymandias," and his pastoral elegy on the death of Keats, ***Adonais***.
 
 *   **John Keats (1795-1821)**: The poet of beauty, art, and sensory experience. His work is characterized by sensuous imagery and a dedication to art.
-    > [!note]- What is Negative Capability?
+    > [!note]- What is [[Negative Capability]]?
     > Keats coined this term in a letter. It describes the ability of a great artist to exist in "uncertainties, Mysteries, doubts, without any irritable reaching after fact & reason." It means embracing complexity rather than trying to reduce it to a simple system.
     *   *Key Works:* His **Great Odes of 1819** ("Ode to a Nightingale," "Ode on a Grecian Urn," "To Autumn"), the romance "The Eve of St. Agnes," the ballad "La Belle Dame sans Merci."
 
@@ -86,3 +86,9 @@ While poetry dominated, the novel and the essay also flourished.
     *   **Charles Lamb**: Known as the "prince of English essayists," famous for his charming, personal ***Essays of Elia***.
     *   **William Hazlitt**: A brilliant critic and essayist, known for works like *The Spirit of the Age*.
     *   **Thomas De Quincey**: Famous for his autobiographical ***Confessions of an English Opium-Eater***.
+
+---
+
+**Summary for Quick Revision:**
+
+The Romantic Period (1798-1837), or Romanticism, was an artistic and intellectual movement that reacted against Neo-Classical emphasis on reason, favoring emotion, imagination, and the individual. It began with Wordsworth and Coleridge's *Lyrical Ballads* (1798) and ended with Queen Victoria's coronation (1837). Influenced by the French Revolution, the Industrial Revolution (leading to idealization of nature), and a backlash against Enlightenment rationalism, Romantic literature emphasizes emotion and imagination, glorifies nature (often pantheistic), focuses on the individual, and shows interest in the supernatural and exotic. It also advocated for simple, common language. The movement is dominated by two generations of poets: the First Generation or "Lake Poets" (Wordsworth, Coleridge) and the Second Generation (Byron, Shelley, Keats). Notable prose includes Gothic novels (Mary Shelley's *Frankenstein*), historical novels (Sir Walter Scott), and essays (Charles Lamb).

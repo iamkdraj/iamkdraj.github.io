@@ -27,9 +27,9 @@ The period generally begins after World War II (1945), an event that confirmed f
 
 ### Key Concepts and Terminology of Post-Modernism
 
-*   **Rejection of [[Grand Narratives]] (or Metanarratives)**: This is the core idea of Post-Modernism, famously articulated by the French philosopher **Jean-François Lyotard**. He defined Post-Modernism as **"incredulity toward metanarratives."** It is a deep skepticism of any single theory that claims to offer a universal, totalizing explanation for history and human experience.
+*   **Rejection of [[Grand Narratives (Metanarratives)]]**: This is the core idea, famously articulated by **Jean-François Lyotard**. He defined Post-Modernism as **"incredulity toward metanarratives."**
 
-*   **[[Pastiche]]**: The playful imitation or "pasting together" of multiple, often unrelated, styles and genres. Unlike parody, which mocks a style, [[pastiche]] adopts it without satirical intent. For example, a Post-Modern novel might mix elements of a detective story, science fiction, and a historical romance.
+*   **[[Pastiche]]**: The playful imitation or "pasting together" of multiple, often unrelated, styles and genres. Unlike [[Parody]], which mocks a style, pastiche adopts it without satirical intent. For example, a Post-Modern novel might mix elements of a detective story, science fiction, and a historical romance.
 
 *   **Irony, Playfulness, and Black Humor**: Faced with a world that seems absurd, the Post-Modern response is often not despair, but irony and play. Post-Modern works frequently treat serious or horrific subjects with a detached, darkly humorous, and playful tone.
 
@@ -75,3 +75,9 @@ The line between "author" and "theorist" often blurs in this period.
         *   *Key Work:* ***The Bloody Chamber***.
     *   **John Barth**: An American writer known for his postmodern and metafictional fiction.
         *   *Key Works:* *The Floating Opera*, *The Sot-Weed Factor*.
+
+---
+
+**Summary for Quick Revision:**
+
+Post-Modernism (c. 1945-Present) is a critical and playful reaction against Modernism, accepting chaos and fragmentation as reality. Influenced by WWII's horrors, the rise of Post-Structuralism (Derrida, Foucault), and the Information Age, it rejects "grand narratives" (Lyotard). Key concepts include pastiche, irony, intertextuality, metafiction (including historiographic metafiction), hyperreality (Baudrillard), and magic realism. Major theorists include Lyotard, Derrida, Foucault, and Baudrillard. Key playwrights are from the Theatre of the Absurd (Beckett, Pinter). Notable novelists include Kurt Vonnegut, Joseph Heller, John Fowles, Salman Rushdie, Angela Carter, and John Barth.

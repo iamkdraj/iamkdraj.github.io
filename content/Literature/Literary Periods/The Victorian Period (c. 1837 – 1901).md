@@ -76,3 +76,9 @@ This was the great age of the English novel. The rise of lending libraries and t
 
 ---
 *(The death of Queen Victoria in 1901 marks the end of this era and the beginning of the **Modern Period**.)*
+
+---
+
+**Summary for Quick Revision:**
+
+The Victorian Period (1837-1901), named after Queen Victoria, was an era of rapid change, contradictions, and British imperial zenith, shaped by the Industrial Revolution. Key contexts include the Industrial Revolution's social problems, the British Empire's rise, and a crisis of faith due to scientific discoveries (Darwin). Intellectual movements like Utilitarianism and the Oxford Movement also influenced the era. Victorian literature is characterized by realism (novel as dominant form), moral purpose, the "Victorian Compromise" (surface respectability vs. hidden realities), and a tension between idealism and doubt. Major novelists include Charles Dickens (social critique), William Makepeace Thackeray (satire), the Brontë sisters (psychological/Gothic), George Eliot (psychological insight), and Thomas Hardy (pessimistic realism). Key poets are Alfred, Lord Tennyson (faith vs. doubt), Robert Browning (dramatic monologue), and Matthew Arnold (loss of faith). Sub-movements include the Pre-Raphaelite Brotherhood and Aestheticism ("Art for Art's Sake"). The period ended with Queen Victoria's death in 1901, leading to the Modern Period.

@@ -1,51 +1,34 @@
 ---
-title: Scholasticism
 tags:
   - glossary
   - philosophy
-  - medieval-thought
-  - metaphysical-poetry
-  - argumentative-method
 ---
+# Scholasticism
 
-## Definition
-**Scholasticism** was a medieval philosophical and educational method that used logic, debate, and systematic reasoning to explore complex theological and philosophical questions. It heavily influenced Metaphysical poets' argumentative style.
+**Scholasticism** was a dominant philosophical and theological movement in medieval Europe, particularly from the 11th to the 17th centuries. It is characterized by its rigorous method of critical thought, which aimed to reconcile Christian theology with classical philosophy, especially that of Aristotle.
 
-## Key Features
-- **Logical Method**: Systematic reasoning and argumentation
-- **Theological Focus**: Applied reason to religious questions
-- **Debate Structure**: Question, opposing views, resolution
-- **Systematic Approach**: Organized, methodical thinking
-- **Synthesis**: Combined faith and reason
+## Core Principles and Method
 
-## Educational Context
-- **University Training**: Standard method in medieval/Renaissance education
-- **Clerical Education**: Especially important for religious training
-- **Intellectual Rigor**: Demanded precise, logical thinking
-- **Academic Debate**: Formal disputations and arguments
+*   **Reconciliation of Faith and Reason**: Scholasticism sought to use reason and logic to understand and defend Christian doctrine. It believed that faith and reason were not contradictory but complementary.
+*   **Dialectical Method**: The core method involved posing a question, presenting arguments for and against it (often citing authorities like the Bible, Church Fathers, and classical philosophers), and then resolving the apparent contradictions through logical distinction and synthesis.
+*   **Emphasis on Authority**: While employing reason, Scholasticism heavily relied on established authorities (Scripture, tradition, Aristotle, Plato).
+*   **Systematic Organization**: Scholastic works are often highly structured and systematic, aiming for comprehensive understanding of a subject.
 
-## Influence on Metaphysical Poetry
-- **Argumentative Structure**: Poems organized like logical arguments
-- **Intellectual Approach**: Reason applied to emotions and love
-- **Complex Logic**: Sophisticated reasoning in poetry
-- **Educational Background**: Many poets trained in this method
+## Key Figures
 
-## Examples in Poetry
-- **Donne's Arguments**: Logical progression in love poems
-- **Herbert's Reasoning**: Theological arguments in verse
-- **Marvell's Logic**: Systematic persuasion in "To His Coy Mistress"
+*   **Anselm of Canterbury** (11th century): Known for his ontological argument for the existence of God.
+*   **Peter Abelard** (12th century): Famous for his dialectical method and ethical philosophy.
+*   **Thomas Aquinas** (13th century): The most influential Scholastic philosopher. His *Summa Theologica* is a monumental work that systematically addresses almost every theological and philosophical question of his time.
 
-## Method
-1. **Pose Question**: Present a problem or theme
-2. **Examine Arguments**: Consider different viewpoints  
-3. **Apply Logic**: Use reasoning to analyze
-4. **Reach Conclusion**: Resolve through systematic thought
+## Significance in Literature
+
+While primarily a philosophical and theological movement, Scholasticism had an indirect influence on literature, particularly on the intellectual rigor and argumentative style seen in some later periods:
+
+*   **[[Metaphysical Poets]]**: The intellectual and argumentative style of the Metaphysical Poets, particularly their use of logic and complex reasoning to explore emotions and spiritual questions, shows an indirect influence of Scholastic methods. Many of these poets were highly educated and familiar with scholastic thought.
 
 ## Related Terms
-- [[Metaphysical Poets]]
-- [[Wit]]
-- [[Argumentative Poetry]]
-- [[Medieval Philosophy]]
 
-## Sources
-- [[The Metaphysical Poets (c. 1600–1660)]]
+*   [[Metaphysical Poets]]
+*   [[Reason]]
+*   [[Theology]]
+*   [[Aristotle]]

@@ -69,3 +69,9 @@ The period roughly begins with the death of Queen Victoria in 1901 and ends with
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Modernism (c. 1901-1945) was a revolutionary international art movement that broke with 19th-century traditions, driven by Ezra Pound's "Make It New." Influenced by WWI's disillusionment, new psychological theories (Freud), philosophical ideas (Nietzsche, Marx), and the "mythical method" (Frazer), Modernist literature features formal experimentation, focus on individual consciousness (Stream of Consciousness), and themes of alienation and fragmentation. It is often intellectual and challenging, incorporating Symbolism and Imagism. Key poets include T.S. Eliot (*The Waste Land*), W.B. Yeats, Ezra Pound, and the War Poets. Major novelists are James Joyce (*Ulysses*), Virginia Woolf, D.H. Lawrence, Joseph Conrad, and E.M. Forster. Modernist drama saw figures like George Bernard Shaw and the Irish Literary Revival.

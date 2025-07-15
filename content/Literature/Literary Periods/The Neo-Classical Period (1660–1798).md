@@ -27,10 +27,10 @@ The period begins sharply in **1660** with the **Restoration** of the monarchy a
 ### Key Characteristics of Neo-Classical Literature
 
 *   **Emphasis on Reason and Logic**: Literature was expected to be rational, logical, and clear. As Alexander Pope wrote, "True Wit is Nature to advantage drest, / What oft was thought, but ne'er so well exprest."
-*   **Didacticism**: Writers believed literature should **instruct** as well as delight. Its purpose was to teach moral lessons and correct social vices.
-*   **Satire**: This was the most important literary tool of the age. By making vice and folly ridiculous, satirists aimed to reform individuals and society.
+*   **[[Didacticism]]**: Writers believed literature should **instruct** as well as delight. Its purpose was to teach moral lessons and correct social vices.
+*   **[[Satire]]**: This was the most important literary tool of the age. By making vice and folly ridiculous, satirists aimed to reform individuals and society.
 *   **Value for Order and Clarity**: The style was precise, polished, and elegant.
-*   **The Heroic Couplet**: This became the dominant poetic form, perfected by John Dryden and Alexander Pope.
+*   **[[Heroic Couplet]]**: This became the dominant poetic form, perfected by John Dryden and Alexander Pope.
     > [!note]- What is a Heroic Couplet?
     > A heroic couplet consists of two rhyming lines of **iambic pentameter**, usually expressing a complete, self-contained thought. It is "heroic" because in England it was first used for epic or heroic poetry. Its balance and polish made it the perfect vehicle for the Neo-Classical ideals of order and reason.
 
@@ -104,3 +104,13 @@ This is a transitional period. While Neo-Classical ideals of reason still domina
 
 ---
 *(The publication of **Lyrical Ballads** in 1798 marks the definitive end of the Neo-Classical era and the beginning of the **Romantic Period**.)*
+
+---
+
+**Summary for Quick Revision:**
+
+The Neo-Classical Period (1660-1798), or Age of Reason/Augustan Age, admired and imitated classical Greek and Roman literature, valuing order, reason, restraint, and correctness. It began with the Restoration (1660) and ended with *Lyrical Ballads* (1798). Influenced by the Enlightenment and the rise of the middle class, its literature emphasized reason, didacticism, satire, and the heroic couplet. Sub-periods include:
+
+1.  **The Restoration Period (1660-1700)**: (Age of Dryden) Reaction against Puritanism, known for cynical Comedy of Manners (Congreve, Wycherley) and Heroic Tragedy. John Dryden was dominant in poetry (*Absalom and Achitophel*) and prose.
+2.  **The Augustan Age (1700-1745)**: (Age of Pope) High point of Neo-Classicism. Alexander Pope mastered the heroic couplet (*The Rape of the Lock*). Saw the birth of the English novel (Defoe, Richardson, Fielding) and periodical essays (Addison, Steele). Jonathan Swift was a major satirist (*Gulliver's Travels*).
+3.  **The Age of Sensibility (1745-1798)**: (Age of Johnson/Transition) Transitional period with growing emphasis on emotion. Dr. Samuel Johnson was dominant. Pre-Romantic trends like the Graveyard School (Thomas Gray) and Gothic Novel (Horace Walpole) emerged. This period paved the way for Romanticism.

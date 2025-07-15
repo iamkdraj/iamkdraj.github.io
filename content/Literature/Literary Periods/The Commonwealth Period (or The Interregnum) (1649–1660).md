@@ -74,3 +74,9 @@ The intellectual and spiritual style of the Metaphysical poets continued, often 
 
 ---
 *The Commonwealth period ends in 1660 when the monarchy is restored with Charles II. This event ushers in a completely new era in English literature: **The Restoration and the 18th Century**, also known as the **Neoclassical Period** or the **Age of Reason**.*
+
+---
+
+**Summary for Quick Revision:**
+
+The Commonwealth Period (1649-1660), or Interregnum, was England's republican era after King Charles I's execution, marked by Puritan rule under Oliver Cromwell. Theatres closed in 1642, leading to strict censorship and a literary shift to religious/political prose. Literature was characterized by prose dominance, poetic decline, and moral seriousness. Key figures include John Milton (*Paradise Lost*, *Areopagitica*), late Metaphysical Poets (Andrew Marvell), and prose writers Thomas Hobbes (*Leviathan*) and Izaak Walton (*The Compleat Angler*). This period concluded with the 1660 Restoration, beginning the Neoclassical Period.

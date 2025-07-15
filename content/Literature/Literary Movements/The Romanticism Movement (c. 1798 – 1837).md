@@ -59,3 +59,9 @@ The movement is dominated by poetry, with the poets traditionally divided into t
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Romanticism (c. 1798-1837) was an artistic and intellectual movement that reacted against Neo-Classical emphasis on reason, favoring emotion, imagination, and the individual. It began with Wordsworth and Coleridge's *Lyrical Ballads* (1798) and ended with Queen Victoria's coronation (1837). Influenced by the French Revolution, the Industrial Revolution (leading to idealization of nature), and a backlash against Enlightenment rationalism, Romantic literature emphasizes emotion and imagination, glorifies nature (often pantheistic), focuses on the individual, and shows interest in the supernatural and exotic. It also advocated for simple, common language. The movement is dominated by two generations of poets: the First Generation or "Lake Poets" (Wordsworth, Coleridge) and the Second Generation (Byron, Shelley, Keats). Notable prose includes Gothic novels (Mary Shelley's *Frankenstein*), historical novels (Sir Walter Scott), and essays (Charles Lamb).

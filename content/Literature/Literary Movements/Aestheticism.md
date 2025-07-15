@@ -11,7 +11,7 @@ tags:
 
 Aestheticism was a late 19th-century literary and artistic movement centered on the belief that art is valuable in itself and does not need to serve any moral, political, or didactic purpose. It was a direct and radical rebellion against the dominant Victorian idea that art should be instructive and morally uplifting.
 
-The movement's famous slogan was **"l'art pour l'art"** or **"Art for Art's Sake."** Aesthetes argued that art was autonomous, and its only aim was to be beautiful. Life, they suggested, should be lived intensely, with a focus on experiencing beauty in all its forms.
+The movement's famous slogan was **"l'art pour l'art"** or **"[[Art for Art's Sake]]"**. Aesthetes argued that art was autonomous, and its only aim was to be beautiful. Life, they suggested, should be lived intensely, with a focus on experiencing beauty in all its forms.
 
 ---
 
@@ -49,3 +49,9 @@ Aestheticism's focus on the autonomy of art and its break from moralistic constr
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Aestheticism (c. 1870-1900) was a late 19th-century literary and artistic movement based on the belief that art is valuable in itself, independent of moral, political, or didactic purposes. Its slogan was "Art for Art's Sake." It rejected Victorian didacticism, emphasizing the cult of beauty and the idea that art is superior to life. It grew from the Pre-Raphaelite Brotherhood and was influenced by French writers. Key figures include Walter Pater (intellectual father, *Studies in the History of the Renaissance*) and Oscar Wilde (most famous practitioner, *The Picture of Dorian Gray*, *The Importance of Being Earnest*). Algernon Charles Swinburne was also associated with the movement, as were the later Decadents. Aestheticism's focus on art's autonomy significantly influenced Modernism.

@@ -47,3 +47,9 @@ The movement's roots go back to 19th-century thinkers like **Søren Kierkegaard*
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+Existentialism, a philosophical movement prominent in mid-20th century Europe, profoundly influenced literature. Rooted in 19th-century thinkers like Kierkegaard and Nietzsche, it peaked with Jean-Paul Sartre. Its core tenets include "existence precedes essence" (Sartre), meaning humans define themselves through choices, leading to radical freedom and responsibility. The "Absurd" (Camus) arises from humanity's search for meaning in a meaningless universe, which should be embraced. This freedom causes "Angst" (anxiety) and alienation. Key themes are the individual, choice, anxiety, and personal relations. Literary forerunners include Dostoevsky. Major 20th-century figures are Sartre (*Nausea*, *No Exit*) and Camus (*The Stranger*, *The Myth of Sisyphus*). The Theatre of the Absurd (Beckett, Pinter) is a pure theatrical expression of existentialist philosophy.

@@ -45,3 +45,9 @@ The movement centered around a core group of founders and their associates. They
 ---
 ## Backlinks
 - [[index]]
+
+---
+
+**Summary for Quick Revision:**
+
+The Pre-Raphaelite Brotherhood (PRB), founded in 1848, was a group of English painters, poets, and critics who rebelled against academic art, seeking to return to the detailed, vibrant, and sincere art of the early Italian Renaissance (before Raphael). Their core principles included "Truth to Nature" (meticulous realism), vibrant color, sensuousness, heavy symbolism, medievalism, and a fusion of flesh and spirit. Influenced by Romanticism, their work impacted later Aesthetic and Symbolist movements. Key figures include Dante Gabriel Rossetti (charismatic leader, poet), Christina Rossetti (poet), William Morris (poet, designer, socialist), Algernon Charles Swinburne (poet), and painters Millais and Hunt. Art critic John Ruskin was a key champion of the movement.
