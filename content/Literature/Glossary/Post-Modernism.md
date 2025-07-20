@@ -181,9 +181,9 @@ tags:
 
 ## Related Terms
 - [[Post-Structuralism]]
-- [[Metafiction]]
-- [[Pastiche]]
-- [[Intertextuality]]
+- [[Metafiction 1]]
+- [[Pastiche 1]]
+- [[Intertextuality 1]]
 - [[Magic Realism]]
 - [[Theatre of the Absurd]]
 - [[Deconstruction]]

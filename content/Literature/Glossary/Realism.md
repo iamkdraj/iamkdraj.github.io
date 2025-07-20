@@ -81,7 +81,7 @@ tags:
 - [[Victorian Literature]]
 - [[Social Novel]]
 - [[Psychological Novel]]
-- [[Didacticism]]
+- [[Didacticism 1]]
 - [[Industrial Revolution]]
 - [[Charles Dickens]]
 - [[George Eliot]]

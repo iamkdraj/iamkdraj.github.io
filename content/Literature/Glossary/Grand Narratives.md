@@ -175,7 +175,7 @@ tags:
 ## Related Terms
 - [[Post-Modernism]]
 - [[Jean-François Lyotard]]
-- [[Metafiction]]
+- [[Metafiction 1]]
 - [[Post-Structuralism]]
 - [[Relativism]]
 - [[Fragmentation]]

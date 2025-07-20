@@ -186,9 +186,9 @@ tags:
 - [[Julia Kristeva]]
 - [[Dialogism]]
 - [[Allusion]]
-- [[Pastiche]]
+- [[Pastiche 1]]
 - [[Parody]]
-- [[Metafiction]]
+- [[Metafiction 1]]
 - [[Cultural Hybridity]]
 - [[Reader Response Theory]]
 

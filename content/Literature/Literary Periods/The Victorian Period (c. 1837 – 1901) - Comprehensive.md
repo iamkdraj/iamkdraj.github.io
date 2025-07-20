@@ -328,7 +328,7 @@ This was the great age of the English novel. The rise of lending libraries, thre
     * ***Idylls of the King*** (1859-1885): Arthurian epic about moral decay
     * "The Charge of the Light Brigade" (1854): Commemoration of military heroism
 
-* **Robert Browning (1812-1889)**: Master of [[dramatic monologue]]
+* **Robert Browning (1812-1889)**: Master of [[Dramatic Monologue]]
   * **Innovation**: Psychological revelation through speech
   * **Themes**: Renaissance art, Italian history, moral complexity
   * **Style**: Colloquial diction, irregular rhythms, intellectual complexity

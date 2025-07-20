@@ -213,7 +213,7 @@ tags:
 - [[Self-Reflexivity]]
 - [[Narratology]]
 - [[Poststructuralism]]
-- [[Intertextuality]]
+- [[Intertextuality 1]]
 - [[Reader Response Theory]]
 - [[Experimental Fiction]]
 

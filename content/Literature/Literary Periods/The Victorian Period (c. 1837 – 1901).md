@@ -29,7 +29,7 @@ This era of dramatic progress was also filled with deep contradictions. The lite
 
 ### Key Characteristics of Victorian Literature
 
-*   **[[Realism]]**: The **novel** became the dominant literary form, and its primary mode was [[realism]]. Victorian novelists sought to create a detailed, realistic, and panoramic portrait of their society.
+*   **[[Realism]]**: The **novel** became the dominant literary form, and its primary mode was [[Realism]]. Victorian novelists sought to create a detailed, realistic, and panoramic portrait of their society.
 *   **Moral Purpose and [[Didacticism]]**: Victorians believed that literature should be a tool for social improvement. It was meant to be morally uplifting and to expose social ills.
 *   **The [[Victorian Compromise]]**: This refers to the duality of the age. On the surface, society valued public morality, duty, and propriety. However, the literature often exposes the hypocrisy and dark realities that lay beneath this respectable surface.
 *   **Idealism vs. Doubt**: The literature is marked by a deep conflict between a belief in progress and a profound sense of anxiety, doubt, and nostalgia for a simpler past.
@@ -49,7 +49,7 @@ This was the great age of the English novel. The rise of lending libraries and t
 *   **The Brontë Sisters**:
     *   **Charlotte Brontë (1816-1855)**: Known for her passionate and psychologically intense novels. *Key Work:* ***Jane Eyre***.
     *   **Emily Brontë (1818-1848)**: Wrote only one novel, the dark, wild, and powerful masterpiece ***Wuthering Heights***, which combines Gothic elements with tragic passion.
-*   **George Eliot (Mary Ann Evans, 1819-1880)**: A highly intellectual novelist known for her deep psychological insight and moral seriousness. She is a master of the **[[psychological novel]]**.
+*   **George Eliot (Mary Ann Evans, 1819-1880)**: A highly intellectual novelist known for her deep psychological insight and moral seriousness. She is a master of the **[[Psychological Novel]]**.
     *   *Key Works:* ***Middlemarch*** (often considered the greatest novel in English), ***The Mill on the Floss***, ***Silas Marner***.
 *   **Thomas Hardy (1840-1928)**: A late Victorian novelist whose work marks a transition towards modernism. His novels are deeply pessimistic and tragic, portraying characters who are victims of fate and social conventions.
     *   *Key Works:* ***Tess of the d'Urbervilles***, ***The Mayor of Casterbridge***, ***Jude the Obscure***.
@@ -58,9 +58,9 @@ This was the great age of the English novel. The rise of lending libraries and t
 
 *   **Alfred, Lord Tennyson (1809-1892)**: The representative poet of the age and **Poet Laureate** from 1850 to 1892. His poetry perfectly captures the Victorian conflict between faith and doubt.
     *   *Key Works:* ***In Memoriam A.H.H.*** (a long elegy that grapples with grief and scientific doubt), "Ulysses," "The Lady of Shalott," *Idylls of the King*.
-*   **Robert Browning (1812-1889)**: Known for perfecting the **[[dramatic monologue]]**. His poetry is psychologically complex, rugged, and often optimistic.
+*   **Robert Browning (1812-1889)**: Known for perfecting the **[[Dramatic Monologue]]**. His poetry is psychologically complex, rugged, and often optimistic.
     > [!note]- What is a Dramatic Monologue?
-    > A [[dramatic monologue]] is a type of lyric poem in which a single speaker (who is patently not the poet) addresses a silent but identifiable listener in a specific, critical situation. In the course of the speech, the speaker inadvertently reveals their own temperament and character. Browning's "My Last Duchess" is the most famous example.
+    > A [[Dramatic Monologue]] is a type of lyric poem in which a single speaker (who is patently not the poet) addresses a silent but identifiable listener in a specific, critical situation. In the course of the speech, the speaker inadvertently reveals their own temperament and character. Browning's "My Last Duchess" is the most famous example.
     *   *Key Works:* "My Last Duchess," "Fra Lippo Lippi," "Andrea del Sarto," "Porphyria's Lover."
 *   **Matthew Arnold (1822-1888)**: A poet and influential critic. His poetry is marked by a sense of melancholy, lamenting the loss of faith in the modern world.
     *   *Key Works:* "Dover Beach," "The Scholar-Gipsy," and his pastoral elegy on the death of A. H. Clough, "Thyrsis."

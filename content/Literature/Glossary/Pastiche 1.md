@@ -167,9 +167,9 @@ tags:
 
 ## Related Terms
 - [[Post-Modernism]]
-- [[Intertextuality]]
+- [[Intertextuality 1]]
 - [[Parody]]
-- [[Metafiction]]
+- [[Metafiction 1]]
 - [[Cultural Hybridity]]
 - [[Bricolage]]
 - [[Simulation]]
