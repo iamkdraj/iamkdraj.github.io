@@ -1,5 +1,7 @@
 # Analysis of *Untouchable*
 
+[Previous: Works and Awards](../../2_Works_and_Awards.md) | [Next: Coolie](Coolie.md)
+
 ## Introduction
 
 Published in 1935, *Untouchable* is Mulk Raj Anand's debut novel and a landmark work of social protest in Indian English literature. The novel is a stark and powerful exposé of the dehumanizing practice of untouchability in India. It chronicles a single day in the life of its protagonist, Bakha, a young toilet-cleaner, to provide an unflinching look at the daily humiliations and deep-seated injustices of the caste system. The novel's introduction was famously written by Anand's friend and mentor, the British novelist **E.M. Forster**, who praised its directness and emotional power.

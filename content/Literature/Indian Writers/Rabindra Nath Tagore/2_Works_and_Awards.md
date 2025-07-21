@@ -1,5 +1,9 @@
 # 2. Works and Awards of Rabindranath Tagore
 
+[Previous: Biography](1_Biography.md) | [Next: Literary Style and Themes](4_Literary_Style_and_Themes.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/Gitanjali.md)
+
 This section provides a catalog of Rabindranath Tagore's major works across various genres and the significant awards and honors he received. 
 
 ## Major Works

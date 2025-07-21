@@ -1,5 +1,9 @@
 # Mulk Raj Anand: A Mindmap
 
+[Previous: Literary Style and Themes](4_Literary_Style_and_Themes.md) | [Next: Practice MCQs](6_Practice_MCQs.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/Untouchable.md)
+
 - **Mulk Raj Anand (1905-2004)**
   - **Titles & Epithets**
     - India's Charles Dickens

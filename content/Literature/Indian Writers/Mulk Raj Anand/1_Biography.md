@@ -1,5 +1,7 @@
 # 1. Biography of Mulk Raj Anand
 
+[Next: Works and Awards](2_Works_and_Awards.md)
+
 **(12 December 1905 – 28 September 2004)**
 
 ## Introduction

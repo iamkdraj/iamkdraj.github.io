@@ -1,5 +1,7 @@
 # 1. Biography of Rabindranath Tagore
 
+[Next: Works and Awards](2_Works_and_Awards.md)
+
 **(7 May 1861 – 7 August 1941)**
 
 ## Introduction

@@ -1,5 +1,7 @@
 # Analysis of *Coolie*
 
+[Previous: Untouchable](Untouchable.md) | [Next: Two Leaves and a Bud](Two_Leaves_and_a_Bud.md)
+
 ## Introduction
 
 Published in 1936, just a year after *Untouchable*, *Coolie* is Mulk Raj Anand's second major novel and a powerful continuation of his exploration of social injustice in India. While *Untouchable* focused on the vertical oppression of the caste system, *Coolie* examines the horizontal oppression of class and economic exploitation in colonial India. It is a sprawling, picaresque novel that follows its young protagonist through a series of misfortunes, painting a vast and harrowing picture of the lives of the poor and powerless. The novel is often described as a "prose epic of modern India."

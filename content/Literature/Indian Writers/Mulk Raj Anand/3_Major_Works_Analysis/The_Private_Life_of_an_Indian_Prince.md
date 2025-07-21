@@ -1,5 +1,7 @@
 # Analysis of *The Private Life of an Indian Prince*
 
+[Previous: Seven Summers](Seven_Summers.md) | [Next: The Old Woman and the Cow](The_Old_Woman_and_the_Cow.md)
+
 ## Introduction
 
 Published in 1953, *The Private Life of an Indian Prince* is one of Mulk Raj Anand's most complex and psychologically intense novels. Drawing on his own experiences as a confidant to a real-life prince, Anand moves away from the direct social protest of his earlier works to explore the decadent and disintegrating world of the Indian princely states in the period just after India's independence. The novel is a powerful character study of a neurotic and tyrannical prince, set against the backdrop of a major political transition.

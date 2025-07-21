@@ -1,5 +1,9 @@
 # 4. Literary Style and Themes of Mulk Raj Anand
 
+[Previous: Works and Awards](2_Works_and_Awards.md) | [Next: Mindmap](5_Mindmap.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/Untouchable.md)
+
 ## Literary Style
 
 Mulk Raj Anand forged a unique and powerful literary style that was deeply rooted in his social and political convictions. His approach was a significant departure from the more romantic or spiritual writing of his predecessors.

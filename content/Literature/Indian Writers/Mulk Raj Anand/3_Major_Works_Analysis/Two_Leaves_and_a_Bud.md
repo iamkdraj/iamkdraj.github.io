@@ -1,5 +1,7 @@
 # Analysis of *Two Leaves and a Bud*
 
+[Previous: Coolie](Coolie.md) | [Next: Seven Summers](Seven_Summers.md)
+
 ## Introduction
 
 Published in 1937, *Two Leaves and a Bud* is the third novel in Mulk Raj Anand's early trilogy of social protest, following *Untouchable* and *Coolie*. In this novel, Anand shifts his focus to the plight of indentured laborers on a tea plantation in Assam. The book is a powerful and deeply moving indictment of the exploitation of workers by colonial capitalists and their Indian subordinates. It is considered one of Anand's most politically charged and tragic works.

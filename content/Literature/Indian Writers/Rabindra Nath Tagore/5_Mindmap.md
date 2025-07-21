@@ -1,5 +1,7 @@
 # Rabindranath Tagore: A Mindmap
 
+[Previous: Literary Style and Themes](4_Literary_Style_and_Themes.md) | [Next: Practice MCQs](6_Practice_MCQs.md)
+
 - **Rabindranath Tagore (1861-1941)**
   - **Titles & Epithets**
     - Gurudev

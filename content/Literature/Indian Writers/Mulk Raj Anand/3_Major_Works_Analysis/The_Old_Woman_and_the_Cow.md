@@ -1,5 +1,7 @@
 # Analysis of *The Old Woman and the Cow*
 
+[Previous: The Private Life of an Indian Prince](The_Private_Life_of_an_Indian_Prince.md) | [Next: Mindmap](../../5_Mindmap.md)
+
 ## Introduction
 
 Published in 1960, *The Old Woman and the Cow* is a significant novel in Mulk Raj Anand's oeuvre, notable for being his only novel with a female protagonist, Gauri. The novel is a powerful exploration of the oppression faced by women in traditional Indian society, particularly within the patriarchal structures of rural life. It delves into themes of superstition, gender inequality, and the struggle for individual freedom against societal norms, often drawing parallels with the mythological tale of Sita.

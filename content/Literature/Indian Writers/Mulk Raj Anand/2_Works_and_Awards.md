@@ -1,5 +1,9 @@
 # 2. Works and Awards of Mulk Raj Anand
 
+[Previous: Biography](1_Biography.md) | [Next: Literary Style and Themes](4_Literary_Style_and_Themes.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/Untouchable.md)
+
 This section provides a comprehensive catalog of Mulk Raj Anand's major works and the significant awards and honors he received for his contributions to literature and art.
 
 ## Major Works

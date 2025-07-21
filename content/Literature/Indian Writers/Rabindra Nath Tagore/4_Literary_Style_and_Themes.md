@@ -1,5 +1,9 @@
 # 4. Literary Style and Themes of Rabindranath Tagore
 
+[Previous: Works and Awards](2_Works_and_Awards.md) | [Next: Mindmap](5_Mindmap.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/Gitanjali.md)
+
 Rabindranath Tagore's literary work is characterized by its profound depth, lyrical beauty, and philosophical underpinnings. He was a master of multiple genres, and his unique style left an indelible mark on both Indian and world literature.
 
 ## Literary Style

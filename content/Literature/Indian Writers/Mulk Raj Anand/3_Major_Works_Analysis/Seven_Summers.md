@@ -1,5 +1,7 @@
 # Analysis of *Seven Summers*
 
+[Previous: Two Leaves and a Bud](Two_Leaves_and_a_Bud.md) | [Next: The Private Life of an Indian Prince](The_Private_Life_of_an_Indian_Prince.md)
+
 ## Introduction
 
 Published in 1951, *Seven Summers* is the first volume of Mulk Raj Anand's ambitious seven-part autobiographical novel series, *Seven Ages of Man*. The book is a lyrical and evocative memoir that recounts the first seven years of his life, from his birth until his family's departure from Mian Mir. Unlike his more overtly political protest novels, *Seven Summers* is a work of personal reflection, exploring the formation of a young boy's consciousness against the backdrop of a colonial military cantonment in Punjab.
