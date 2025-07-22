@@ -1,5 +1,9 @@
 # 2. Works and Awards of Amitav Ghosh
 
+[Previous: Biography](1_Biography.md) | [Next: Literary Style and Themes](4_Literary_Style_and_Themes.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/The_Circle_of_Reason.md)
+
 This section provides a comprehensive catalog of Amitav Ghosh's major works across various genres and the significant awards and honors he has received for his contributions to literature.
 
 ## Major Works
@@ -36,3 +40,7 @@ Amitav Ghosh is primarily known for his historical fiction, but he has also writ
 *   **Padma Shri (2007):** India's fourth-highest civilian award.
 *   **Booker Prize Shortlist:** *Sea of Poppies* (2008).
 *   **Commonwealth Writers' Prize:** He withdrew *The Glass Palace* from consideration for this award.
+---
+- [[Literature/Indian Writers/Amitav Ghosh/1_Biography|1_Biography]]
+- [[Sea_of_Poppies]]
+- 

@@ -1,5 +1,7 @@
 # Analysis of *The Glass Palace*
 
+[Previous: The Calcutta Chromosome](The_Calcutta_Chromosome.md) | [Next: The Hungry Tide](The_Hungry_Tide.md)
+
 ## Introduction
 
 *The Glass Palace*, published in 2000, is a sweeping historical novel by Amitav Ghosh that spans over a century and moves across multiple continents, including Burma, Malaya, and India. The novel is a poignant exploration of colonialism, migration, the impact of historical events on individual lives, and the enduring human search for identity and belonging. It is a meticulously researched and richly detailed narrative that weaves together personal stories with grand historical movements.

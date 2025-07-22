@@ -1,5 +1,7 @@
 # Analysis of *The Calcutta Chromosome*
 
+[Previous: The Shadow Lines](The_Shadow_Lines.md) | [Next: The Glass Palace](The_Glass_Palace.md)
+
 ## Introduction
 
 *The Calcutta Chromosome*, published in 1995, is Amitav Ghosh's third novel and a radical departure from his previous works, blending elements of science fiction, medical thriller, and historical mystery. The novel won the prestigious Arthur C. Clarke Award in 1997, a rare achievement for an Indian author. It is a complex and intellectually stimulating narrative that explores themes of scientific discovery, the nature of knowledge, the interconnectedness of seemingly disparate events, and the hidden histories of colonial science.

@@ -1,5 +1,7 @@
 # Analysis of *The Circle of Reason*
 
+[Previous: Literary Style and Themes](../../4_Literary_Style_and_Themes.md) | [Next: The Shadow Lines](The_Shadow_Lines.md)
+
 ## Introduction
 
 *The Circle of Reason*, published in 1986, is Amitav Ghosh's debut novel and a sprawling, ambitious work that immediately established his unique voice in contemporary Indian English literature. The novel is a complex and often whimsical narrative that defies easy categorization, blending elements of picaresque adventure, philosophical inquiry, and social commentary. It explores themes of rationality, madness, migration, and the interconnectedness of human lives across vast geographies.

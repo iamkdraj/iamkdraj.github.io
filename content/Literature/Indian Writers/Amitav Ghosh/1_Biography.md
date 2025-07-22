@@ -38,3 +38,6 @@ Amitav Ghosh has received numerous prestigious awards for his literary contribut
 ## Later Life and Legacy
 
 Amitav Ghosh continues to write and engage with global issues. His legacy is defined by his unique ability to blend rigorous historical research with compelling storytelling, creating narratives that are both intellectually stimulating and emotionally resonant. He has significantly expanded the scope of Indian English literature, bringing a global and ecological consciousness to its themes. His work serves as a vital commentary on the interconnectedness of humanity, history, and the environment in an increasingly complex world.
+
+---
+[[Literature/Indian Writers/Amitav Ghosh/2_Works_and_Awards|2_Works_and_Awards]]

@@ -40,7 +40,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
+    Component.TableOfContents(),
     Component.Backlinks(),
   ],
 }

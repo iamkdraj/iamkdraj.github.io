@@ -1,5 +1,7 @@
 # Analysis of *The Hungry Tide*
 
+[Previous: The Glass Palace](The_Glass_Palace.md) | [Next: Sea of Poppies](Sea_of_Poppies.md)
+
 ## Introduction
 
 *The Hungry Tide*, published in 2004, is a powerful and evocative novel by Amitav Ghosh that explores the complex relationship between humans and nature, particularly in the fragile and ecologically sensitive Sundarbans region of India and Bangladesh. The novel weaves together themes of environmentalism, displacement, cultural identity, and the challenges of survival in a landscape constantly shaped by the forces of nature and human intervention. It is a deeply researched and beautifully written narrative that highlights the precarious balance of life in a unique ecosystem.

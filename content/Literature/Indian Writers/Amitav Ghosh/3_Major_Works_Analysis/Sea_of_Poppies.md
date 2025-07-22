@@ -1,5 +1,7 @@
 # Analysis of *Sea of Poppies*
 
+[Previous: The Hungry Tide](The_Hungry_Tide.md) | [Next: Mindmap](../../5_Mindmap.md)
+
 ## Introduction
 
 *Sea of Poppies*, published in 2008, is the first novel in Amitav Ghosh's monumental **Ibis Trilogy**, a historical epic that explores the opium trade between India and China in the 19th century, leading up to the Opium Wars. The novel is a meticulously researched and richly detailed narrative that delves into themes of colonialism, migration, indentured labor, and the complex web of human relationships forged amidst global historical forces. It was shortlisted for the prestigious Booker Prize, bringing significant international attention to Ghosh's ambitious project.

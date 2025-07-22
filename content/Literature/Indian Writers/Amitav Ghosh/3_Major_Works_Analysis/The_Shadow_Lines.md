@@ -1,5 +1,7 @@
 # Analysis of *The Shadow Lines*
 
+[Previous: The Circle of Reason](The_Circle_of_Reason.md) | [Next: The Calcutta Chromosome](The_Calcutta_Chromosome.md)
+
 ## Introduction
 
 *The Shadow Lines*, published in 1988, is Amitav Ghosh's second novel and a highly acclaimed work that won him the Sahitya Akademi Award in 1989. It is a complex, non-linear narrative that delves into themes of memory, identity, nationalism, and the arbitrary nature of borders, both geographical and psychological. The novel is a profound meditation on how personal lives are intertwined with historical events, and how the past continues to shape the present.

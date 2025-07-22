@@ -1,5 +1,9 @@
 # Amitav Ghosh: A Mindmap
 
+[Previous: Literary Style and Themes](4_Literary_Style_and_Themes.md) | [Next: Practice MCQs](6_Practice_MCQs.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/The_Circle_of_Reason.md)
+
 - **Amitav Ghosh (Born 1956)**
   - **Titles & Epithets:** Jnanpith Award Winner (First English-language writer)
   - **Biography**

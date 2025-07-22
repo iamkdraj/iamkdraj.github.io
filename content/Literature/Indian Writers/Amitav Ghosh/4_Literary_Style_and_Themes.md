@@ -1,5 +1,9 @@
 # 4. Literary Style and Themes of Amitav Ghosh
 
+[Previous: Works and Awards](2_Works_and_Awards.md) | [Next: Mindmap](5_Mindmap.md)
+
+[Major Works Analysis](3_Major_Works_Analysis/The_Circle_of_Reason.md)
+
 ## Literary Style
 
 Amitav Ghosh's literary style is characterized by its ambitious scope, meticulous research, and a unique blend of historical narrative with contemporary relevance. He is known for his ability to weave together diverse elements into a rich and compelling tapestry.

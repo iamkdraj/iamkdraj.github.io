@@ -1,5 +1,7 @@
 # 6. Practice MCQs for Amitav Ghosh
 
+[Previous: Mindmap](5_Mindmap.md)
+
 This section contains 100 multiple-choice questions to test your knowledge of Amitav Ghosh. Click on "Answer" to reveal the correct choice.
 
 **1. Amitav Ghosh is a recipient of India's highest literary honor, the:**
