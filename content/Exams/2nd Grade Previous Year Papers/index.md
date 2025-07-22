@@ -14,17 +14,17 @@ Comprehensive collection of RPSC 2nd Grade previous year papers spanning over a 
 
 | Year/Code | Paper | Analysis Available | Key Features |
 |-----------|-------|-------------------|--------------|
-| **[[Simple Papers/2nd Grade TSS-24\|TSS-24]]** | 2024 Paper | **[[Analysis of Papers/Analysis of 2nd Grade TSS-24 Question Paper\|✅ Analysis]]** | Latest pattern, current trends |
-| **[[Simple Papers/2nd Grade STS-91\|STS-91]]** | 2023 Paper | **[[Analysis of Papers/Analysis of 2nd Grade STS-91 Question Paper\|✅ Analysis]]** | High-difficulty level |
-| **[[Simple Papers/2nd Grade STSP-91\|STSP-91]]** | 2023 Supplementary | **[[Analysis of Papers/Analysis of 2nd Grade STSP-91 Question Paper\|✅ Analysis]]** | Supplementary exam pattern |
-| **[[Simple Papers/2nd Grade ST-22\|ST-22]]** | 2022 Paper | **[[Analysis of Papers/Analysis of 2nd Grade ST-22 Question Paper\|✅ Analysis]]** | Post-COVID pattern changes |
-| **[[Simple Papers/2nd Grade STS-32\|STS-32]]** | 2021 Paper | **[[Analysis of Papers/Analysis of 2nd Grade STS-32 Question Paper\|✅ Analysis]]** | Standard difficulty level |
-| **[[Simple Papers/2nd Grade ST-81\|ST-81]]** | 2020 Paper | **[[Analysis of Papers/Analysis of 2nd Grade ST-81 Question Paper\|✅ Analysis]]** | Pre-pandemic pattern |
-| **[[Simple Papers/2nd Grade TS-71\|TS-71]]** | 2019 Paper | **[[Analysis of Papers/Analysis of 2nd Grade TS-71 Question Paper\|✅ Analysis]]** | Traditional format |
-| **[[Simple Papers/2nd Grade 2015-18\|2015-18]]** | 2015-18 Combined | **[[Analysis of Papers/Analysis of 2nd Grade 2015-18 Question Paper\|✅ Analysis]]** | Multi-year analysis |
-| **[[Simple Papers/2nd Grade 2013\|2013]]** | 2013 Paper | **[[Analysis of Papers/Analysis of 2nd Grade 2013 Question Paper\|✅ Analysis]]** | Mid-decade benchmark |
-| **[[Simple Papers/2nd Grade 2011-II\|2011-II]]** | 2011 Paper 2 | **[[Analysis of Papers/Analysis of 2nd Grade 2011-II\|✅ Analysis]]** | Second attempt pattern |
-| **[[Simple Papers/2nd Grade 2011-I\|2011-I]]** | 2011 Paper 1 | **[[Analysis of Papers/Analysis of 2nd Grade 2011-I Question Paper\|✅ Analysis]]** | Decade start reference |
+| **[[Simple Papers/2nd Grade TSS-24\|TSS-24]]** | 2024 Paper | **[[Analysis of 2nd Grade TSS-24 Question Paper\|✅ Analysis]]** | Latest pattern, current trends |
+| **[[Simple Papers/2nd Grade STS-91\|STS-91]]** | 2023 Paper | **[[Analysis of 2nd Grade STS-91 Question Paper\|✅ Analysis]]** | High-difficulty level |
+| **[[Simple Papers/2nd Grade STSP-91\|STSP-91]]** | 2023 Supplementary | **[[Analysis of 2nd Grade STSP-91 Question Paper\|✅ Analysis]]** | Supplementary exam pattern |
+| **[[Simple Papers/2nd Grade ST-22\|ST-22]]** | 2022 Paper | **[[Analysis of 2nd Grade ST-22 Question Paper\|✅ Analysis]]** | Post-COVID pattern changes |
+| **[[Simple Papers/2nd Grade STS-32\|STS-32]]** | 2021 Paper | **[[Analysis of 2nd Grade STS-32 Question Paper\|✅ Analysis]]** | Standard difficulty level |
+| **[[Simple Papers/2nd Grade ST-81\|ST-81]]** | 2020 Paper | **[[Analysis of 2nd Grade ST-81 Question Paper\|✅ Analysis]]** | Pre-pandemic pattern |
+| **[[Simple Papers/2nd Grade TS-71\|TS-71]]** | 2019 Paper | **[[Analysis of 2nd Grade TS-71 Question Paper\|✅ Analysis]]** | Traditional format |
+| **[[Simple Papers/2nd Grade 2015-18\|2015-18]]** | 2015-18 Combined | **[[Analysis of 2nd Grade 2015-18 Question Paper\|✅ Analysis]]** | Multi-year analysis |
+| **[[Simple Papers/2nd Grade 2013\|2013]]** | 2013 Paper | **[[Analysis of 2nd Grade 2013 Question Paper\|✅ Analysis]]** | Mid-decade benchmark |
+| **[[Simple Papers/2nd Grade 2011-II\|2011-II]]** | 2011 Paper 2 | **[[Analysis of 2nd Grade 2011-II\|✅ Analysis]]** | Second attempt pattern |
+| **[[Simple Papers/2nd Grade 2011-I\|2011-I]]** | 2011 Paper 1 | **[[Analysis of 2nd Grade 2011-I Question Paper\|✅ Analysis]]** | Decade start reference |
 
 ---
 
@@ -32,7 +32,7 @@ Comprehensive collection of RPSC 2nd Grade previous year papers spanning over a 
 
 ### 🎯 Strategic Study Resources
 
-#### **📈 [[Analysis of Papers/Comprehensive Analysis & Strategy Guide 2nd Grade English Exam|Complete Strategy Guide]]**
+#### **📈 [[Comprehensive Analysis & Strategy Guide 2nd Grade English Exam|Complete Strategy Guide]]**
 - **Pattern Evolution**: How exam patterns have changed over years
 - **Difficulty Trends**: Year-wise difficulty assessment
 - **Topic Distribution**: Subject-wise question allocation
@@ -58,7 +58,7 @@ Each paper includes detailed analysis covering:
 - Chronologically organized for trend analysis
 - Time-bound practice sessions
 
-#### **📊 [[Analysis of Papers/index|Detailed Analysis Hub]]**
+#### **📊 [[ZArxhive/Analysis of Papers/index|Detailed Analysis Hub]]**
 - Comprehensive question-by-question breakdown
 - Statistical analysis of topics and patterns
 - Strategic recommendations for each paper
@@ -117,7 +117,7 @@ Each paper includes detailed analysis covering:
 ## 🔗 Related Exam Resources
 
 - [[../Ashok Tests/index|Practice Test Series]]
-- [[../Analysis/index|Topic-wise Analysis]]
+- [[ZArxhive/Analysis/index|Topic-wise Analysis]]
 - [[../PYQs/index|Question Bank Collection]]
 - [[../../Literature/index|Literature Study Resources]]
 

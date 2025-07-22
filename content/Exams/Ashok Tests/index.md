@@ -141,7 +141,7 @@ Comprehensive practice test series designed for systematic preparation and perfo
 ## 🔗 Related Practice Resources
 
 - [[../2nd Grade Previous Year Papers/index|Previous Year Papers]]
-- [[../Analysis/index|Performance Analysis Tools]]
+- [[ZArxhive/Analysis/index|Performance Analysis Tools]]
 - [[../PYQs/index|Question Bank Practice]]
 - [[../Test/index|Additional Test Series]]
 

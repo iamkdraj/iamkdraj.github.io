@@ -14,9 +14,9 @@ Your comprehensive examination preparation center featuring previous year papers
 
 | Category | Focus | Resources Available | Quick Links |
 |----------|-------|-------------------|-------------|
-| **[[2nd Grade Previous Year Papers/index\|📄 Previous Year Papers]]** | Historical Exam Analysis | 10+ Years of Papers | [[2nd Grade Previous Year Papers/Simple Papers/index\|Papers]] • [[2nd Grade Previous Year Papers/Analysis of Papers/index\|Analysis]] |
+| **[[2nd Grade Previous Year Papers/index\|📄 Previous Year Papers]]** | Historical Exam Analysis | 10+ Years of Papers | [[2nd Grade Previous Year Papers/Simple Papers/index\|Papers]] • [[ZArxhive/Analysis of Papers/index\|Analysis]] |
 | **[[Ashok Tests/index\|📝 Ashok Tests]]** | Practice Tests | Mock Tests & Major Tests | [[Ashok Tests/index\|Monthly Tests]] • Performance Analysis |
-| **[[Analysis/index\|📊 Topic Analysis]]** | Subject-wise Breakdown | Comprehensive Topic Analysis | [[Analysis/RPSC 2nd Grade English - Topic-wise Question Analysis\|English Analysis]] |
+| **[[ZArxhive/Analysis/index\|📊 Topic Analysis]]** | Subject-wise Breakdown | Comprehensive Topic Analysis | [[RPSC 2nd Grade English - Topic-wise Question Analysis\|English Analysis]] |
 | **[[PYQs/index\|❓ PYQs Collection]]** | Question Bank | Subject-wise Questions | [[PYQs/Literary Periods & Movements PYQs\|Literature]] • [[PYQs/Indian Writers PYQs\|Writers]] |
 | **[[Literary Periods Questions/index\|📖 Literature Questions]]** | Period-specific Practice | Era-based Question Sets | Period-wise MCQs & Analysis |
 | **[[Test/index\|🧪 Test Series]]** | Practice Assessments | Mock Test Platform | Simulated Exam Experience |
@@ -30,7 +30,7 @@ Your comprehensive examination preparation center featuring previous year papers
 #### **📄 Previous Year Paper Analysis**
 - **Complete Paper Collection**: 11 years of comprehensive papers
 - **Detailed Analysis**: Question pattern and trend analysis  
-- **Strategic Insights**: [[2nd Grade Previous Year Papers/Analysis of Papers/Comprehensive Analysis & Strategy Guide 2nd Grade English Exam|Complete Strategy Guide]]
+- **Strategic Insights**: [[Comprehensive Analysis & Strategy Guide 2nd Grade English Exam|Complete Strategy Guide]]
 - **Performance Tracking**: Year-wise difficulty assessment
 
 #### **📝 Practice Test Series**
@@ -52,7 +52,7 @@ Your comprehensive examination preparation center featuring previous year papers
 - **[[PYQs/Literary Terms PYQs|Term Definitions]]**: Concept-based questions
 
 #### **Comprehensive Analysis**
-- **[[Analysis/RPSC 2nd Grade English - Topic-wise Question Analysis|Topic-wise Breakdown]]**: Subject analysis
+- **[[RPSC 2nd Grade English - Topic-wise Question Analysis|Topic-wise Breakdown]]**: Subject analysis
 - **Question Pattern Recognition**: Identifying exam trends
 - **Difficulty Assessment**: Level-wise question categorization
 - **Strategic Preparation**: Focused study recommendations
@@ -73,7 +73,7 @@ Your comprehensive examination preparation center featuring previous year papers
 > **📊 Phase 2: Practice & Assessment**  
 > - Solve [[2nd Grade Previous Year Papers/index|Previous Year Papers]]
 > - Take [[Ashok Tests/index|Regular Practice Tests]]
-> - Analyze [[Analysis/index|Performance patterns]]
+> - Analyze [[ZArxhive/Analysis/index|Performance patterns]]
 > 
 > **🎯 Phase 3: Final Preparation**
 > - Focus on [[PYQs/index|High-yield questions]]

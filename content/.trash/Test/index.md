@@ -144,7 +144,7 @@ Interactive testing platform featuring visual learning resources, practice asses
 - [[../2nd Grade Previous Year Papers/index|Exam Paper Practice]]
 - [[../Ashok Tests/index|Regular Assessment Series]]
 - [[../../Psychology/index|Psychology Study Hub]]
-- [[../Analysis/index|Performance Analysis Tools]]
+- [[ZArxhive/Analysis/index|Performance Analysis Tools]]
 
 ---
 

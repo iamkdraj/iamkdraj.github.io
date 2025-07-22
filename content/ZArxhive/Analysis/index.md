@@ -153,9 +153,9 @@ Advanced analytical center providing comprehensive topic-wise breakdowns, strate
 
 ## 🔗 Related Analytical Resources
 
-- [[../2nd Grade Previous Year Papers/Analysis of Papers/index|Paper-wise Analysis]]
-- [[../PYQs/index|Question Bank Analysis]]
-- [[../Ashok Tests/index|Practice Test Analytics]]
+- [[ZArxhive/Analysis of Papers/index|Paper-wise Analysis]]
+- [[Exams/PYQs/index|Question Bank Analysis]]
+- [[Exams/Ashok Tests/index|Practice Test Analytics]]
 - [[../../Literature/index|Subject Resource Hub]]
 
 ---
