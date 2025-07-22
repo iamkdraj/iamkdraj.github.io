@@ -1,5 +1,5 @@
 ---
-title: The Commonwealth Period or The Interregnum 1649 1660
+title: The Commonwealth Period or The Interregnum 1649-1660
 tags:
   - literary-periods
   - literature

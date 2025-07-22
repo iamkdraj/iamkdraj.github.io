@@ -1,5 +1,5 @@
 ---
-title: Core Aims and Techniques
+title: Stream of Consciousness
 tags:
   - literary-movements
   - literature

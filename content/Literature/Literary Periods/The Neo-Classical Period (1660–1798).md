@@ -1,5 +1,5 @@
 ---
-title: Context and Influences
+title: The Neo-Classical Period 1660-1798
 tags:
   - literary-periods
   - literature

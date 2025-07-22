@@ -1,5 +1,5 @@
 ---
-title: Context and Influences
+title: The Modernist Movement c 1901-1945
 tags:
   - literary-movements
   - literature

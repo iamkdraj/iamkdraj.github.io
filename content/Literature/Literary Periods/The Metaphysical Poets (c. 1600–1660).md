@@ -1,5 +1,5 @@
 ---
-title: Context and Influences
+title: The Metaphysical Poets c 1600-1660
 tags:
   - literary-periods
   - literature

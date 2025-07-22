@@ -1,5 +1,5 @@
 ---
-title: Context and Influences
+title: The Modern Period c 1901-1945
 tags:
   - literary-periods
   - literature

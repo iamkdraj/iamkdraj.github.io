@@ -1,5 +1,5 @@
 ---
-title: Core Principles and Characteristics
+title: The Pre-Raphaelite Movement founded 1848
 tags:
   - literary-movements
   - literature

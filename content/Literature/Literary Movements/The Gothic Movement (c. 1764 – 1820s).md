@@ -1,5 +1,5 @@
 ---
-title: Key Elements of Gothic Fiction
+title: The Gothic Movement c 1764-1820s
 tags:
   - literary-movements
   - literature

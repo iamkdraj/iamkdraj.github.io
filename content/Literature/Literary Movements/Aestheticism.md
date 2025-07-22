@@ -1,5 +1,5 @@
 ---
-title: Aestheticism and the "Art for Art's Sake" Movement (c. 1870-1900)
+title: Aestheticism and the Art for Arts Sake Movement c 1870-1900
 tags:
   - literary-movements
   - literature

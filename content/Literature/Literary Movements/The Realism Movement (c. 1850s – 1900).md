@@ -1,5 +1,5 @@
 ---
-title: Core Principles and Philosophy
+title: The Realism Movement c 1850s-1900
 tags:
   - literary-movements
   - literature

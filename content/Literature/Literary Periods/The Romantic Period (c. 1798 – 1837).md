@@ -1,5 +1,5 @@
 ---
-title: Context and Influences
+title: The Romantic Period c 1798-1837
 tags:
   - literary-periods
   - literature

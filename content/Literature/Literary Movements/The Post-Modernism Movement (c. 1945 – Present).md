@@ -1,5 +1,5 @@
 ---
-title: Core Principles and Philosophy
+title: The Post-Modernism Movement c 1945-Present
 tags:
   - literary-movements
   - literature

@@ -1,5 +1,5 @@
 ---
-title: Key Context and Influences
+title: The Jacobean Age 1603-1625
 tags:
   - literary-periods
   - literature
