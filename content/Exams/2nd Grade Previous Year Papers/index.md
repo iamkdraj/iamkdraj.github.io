@@ -58,7 +58,7 @@ Each paper includes detailed analysis covering:
 - Chronologically organized for trend analysis
 - Time-bound practice sessions
 
-#### **📊 [[ZArxhive/Analysis of Papers/index|Detailed Analysis Hub]]**
+#### **📊 [[Zarchive/Analysis of Papers/index|Detailed Analysis Hub]]**
 - Comprehensive question-by-question breakdown
 - Statistical analysis of topics and patterns
 - Strategic recommendations for each paper
@@ -117,7 +117,7 @@ Each paper includes detailed analysis covering:
 ## 🔗 Related Exam Resources
 
 - [[../Ashok Tests/index|Practice Test Series]]
-- [[ZArxhive/Analysis/index|Topic-wise Analysis]]
+- [[Zarchive/Analysis/index|Topic-wise Analysis]]
 - [[../PYQs/index|Question Bank Collection]]
 - [[../../Literature/index|Literature Study Resources]]
 

@@ -153,7 +153,7 @@ Advanced analytical center providing comprehensive topic-wise breakdowns, strate
 
 ## 🔗 Related Analytical Resources
 
-- [[ZArxhive/Analysis of Papers/index|Paper-wise Analysis]]
+- [[Zarchive/Analysis of Papers/index|Paper-wise Analysis]]
 - [[Exams/PYQs/index|Question Bank Analysis]]
 - [[Exams/Ashok Tests/index|Practice Test Analytics]]
 - [[../../Literature/index|Subject Resource Hub]]

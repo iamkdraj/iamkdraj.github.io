@@ -166,7 +166,7 @@ Specialized question collection focusing on historical literary periods, providi
 - [[../../Literature/Literary Periods/index|Comprehensive Period Studies]]
 - [[../PYQs/Literary Periods & Movements PYQs|Movement Questions]]
 - [[../../Literature/Glossary/index|Literary Terms & Concepts]]
-- [[ZArxhive/Analysis/index|Topic-wise Question Analysis]]
+- [[Zarchive/Analysis/index|Topic-wise Question Analysis]]
 
 ---
 

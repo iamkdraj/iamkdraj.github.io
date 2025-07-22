@@ -172,9 +172,9 @@ Behind-the-scenes resource collection containing templates, development tools, a
 ### 🌐 Vault Ecosystem Connections
 
 - **Content Creation**: Templates support all major vault sections
-- **Academic Resources**: Integration with [[../Academics/index|academic materials]]
-- **Literature Studies**: Support for [[../Literature/index|literary analysis]]
-- **Exam Preparation**: Enhancement of [[../Exams/index|assessment tools]]
+- **Academic Resources**: Integration with [[Academics/index|academic materials]]
+- **Literature Studies**: Support for [[Literature/index|literary analysis]]
+- **Exam Preparation**: Enhancement of [[Exams/index|assessment tools]]
 
 ---
 

@@ -14,9 +14,9 @@ Your comprehensive examination preparation center featuring previous year papers
 
 | Category | Focus | Resources Available | Quick Links |
 |----------|-------|-------------------|-------------|
-| **[[2nd Grade Previous Year Papers/index\|📄 Previous Year Papers]]** | Historical Exam Analysis | 10+ Years of Papers | [[2nd Grade Previous Year Papers/Simple Papers/index\|Papers]] • [[ZArxhive/Analysis of Papers/index\|Analysis]] |
+| **[[2nd Grade Previous Year Papers/index\|📄 Previous Year Papers]]** | Historical Exam Analysis | 10+ Years of Papers | [[2nd Grade Previous Year Papers/Simple Papers/index\|Papers]] • [[Zarchive/Analysis of Papers/index\|Analysis]] |
 | **[[Ashok Tests/index\|📝 Ashok Tests]]** | Practice Tests | Mock Tests & Major Tests | [[Ashok Tests/index\|Monthly Tests]] • Performance Analysis |
-| **[[ZArxhive/Analysis/index\|📊 Topic Analysis]]** | Subject-wise Breakdown | Comprehensive Topic Analysis | [[RPSC 2nd Grade English - Topic-wise Question Analysis\|English Analysis]] |
+| **[[Zarchive/Analysis/index\|📊 Topic Analysis]]** | Subject-wise Breakdown | Comprehensive Topic Analysis | [[RPSC 2nd Grade English - Topic-wise Question Analysis\|English Analysis]] |
 | **[[PYQs/index\|❓ PYQs Collection]]** | Question Bank | Subject-wise Questions | [[PYQs/Literary Periods & Movements PYQs\|Literature]] • [[PYQs/Indian Writers PYQs\|Writers]] |
 | **[[Literary Periods Questions/index\|📖 Literature Questions]]** | Period-specific Practice | Era-based Question Sets | Period-wise MCQs & Analysis |
 | **[[Test/index\|🧪 Test Series]]** | Practice Assessments | Mock Test Platform | Simulated Exam Experience |
@@ -68,12 +68,12 @@ Your comprehensive examination preparation center featuring previous year papers
 > **📅 Phase 1: Foundation Building**
 > - Review [[../Literature/index|Literature concepts]]
 > - Study [[../Academics/index|Academic fundamentals]]
-> - Complete [[Syllabus/index|Syllabus coverage]]
+> - Complete [[Zarchive/Syllabus/index|Syllabus coverage]]
 > 
 > **📊 Phase 2: Practice & Assessment**  
 > - Solve [[2nd Grade Previous Year Papers/index|Previous Year Papers]]
 > - Take [[Ashok Tests/index|Regular Practice Tests]]
-> - Analyze [[ZArxhive/Analysis/index|Performance patterns]]
+> - Analyze [[Zarchive/Analysis/index|Performance patterns]]
 > 
 > **🎯 Phase 3: Final Preparation**
 > - Focus on [[PYQs/index|High-yield questions]]
@@ -116,7 +116,7 @@ Your comprehensive examination preparation center featuring previous year papers
 - [[../Literature/index|Literature Study Hub]]
 - [[../Academics/index|Academic Foundation]]
 - [[../Psychology/index|Exam Psychology & Stress Management]]
-- [[../Syllabus/index|Complete Syllabus Coverage]]
+- [[Zarchive/Syllabus/index|Complete Syllabus Coverage]]
 
 ---
 

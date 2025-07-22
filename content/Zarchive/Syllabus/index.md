@@ -89,7 +89,7 @@ Complete syllabus repository providing detailed curriculum guides, subject break
 > 
 > **📚 Phase 2: Resource Mapping**
 > - Connect syllabus topics with available study materials
-> - Link to [[../Literature/index|literature resources]] and [[../Academics/index|academic content]]
+> - Link to [[Literature/index|literature resources]] and [[Academics/index|academic content]]
 > - Identify additional resource requirements
 > - Create integrated study resource database
 > 
@@ -106,15 +106,15 @@ Complete syllabus repository providing detailed curriculum guides, subject break
 ### 🔗 Cross-Resource Connections
 
 #### **📖 Literature Syllabus Links**
-- **[[../Literature/Literary Periods/index|Literary Periods]]**: Historical literary study
-- **[[../Literature/Literary Movements/index|Literary Movements]]**: Artistic school analysis  
-- **[[../Literature/Indian Writers/index|Indian Writers]]**: Author-specific studies
-- **[[../Literature/Glossary/index|Literary Terms]]**: Critical concept definitions
+- **[[Literature/Literary Periods/index|Literary Periods]]**: Historical literary study
+- **[[Literature/Literary Movements/index|Literary Movements]]**: Artistic school analysis  
+- **[[Literature/Indian Writers/index|Indian Writers]]**: Author-specific studies
+- **[[Literature/Glossary/index|Literary Terms]]**: Critical concept definitions
 
 #### **🎓 Academic Resource Integration**
-- **[[../Academics/index|Academic Studies]]**: Grade-wise learning materials
-- **[[../Exams/index|Exam Preparation]]**: Practice tests and assessments
-- **[[../Psychology/index|Educational Psychology]]**: Learning methodology support
+- **[[Academics/index|Academic Studies]]**: Grade-wise learning materials
+- **[[Exams/index|Exam Preparation]]**: Practice tests and assessments
+- **[[Psychology/index|Educational Psychology]]**: Learning methodology support
 
 ---
 
@@ -163,10 +163,10 @@ Complete syllabus repository providing detailed curriculum guides, subject break
 
 ## 🔗 Related Preparation Resources
 
-- [[../Literature/index|Literature Study Hub]]
-- [[../Academics/index|Academic Resource Center]]
-- [[../Exams/index|Exam Preparation Materials]]
-- [[../Psychology/index|Educational Psychology Support]]
+- [[Literature/index|Literature Study Hub]]
+- [[Academics/index|Academic Resource Center]]
+- [[Exams/index|Exam Preparation Materials]]
+- [[Psychology/index|Educational Psychology Support]]
 
 ---
 

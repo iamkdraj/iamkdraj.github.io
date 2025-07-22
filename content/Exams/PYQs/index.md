@@ -146,7 +146,7 @@ Systematically organized previous year questions (PYQs) categorized by subjects 
 > [!important] Integrated Learning
 > - **Literature Hub**: Connect PYQs with [[../../Literature/index|detailed subject study]]
 > - **Previous Papers**: Verify patterns with [[../2nd Grade Previous Year Papers/index|complete papers]]
-> - **Analysis Reports**: Cross-check with [[ZArxhive/Analysis/index|statistical analysis]]
+> - **Analysis Reports**: Cross-check with [[Zarchive/Analysis/index|statistical analysis]]
 > - **Practice Tests**: Apply learning in [[../Ashok Tests/index|simulated conditions]]
 
 ---
@@ -165,7 +165,7 @@ Systematically organized previous year questions (PYQs) categorized by subjects 
 ## 🔗 Related Preparation Resources
 
 - [[../2nd Grade Previous Year Papers/index|Complete Previous Year Papers]]
-- [[ZArxhive/Analysis/index|Topic-wise Analysis Hub]]
+- [[Zarchive/Analysis/index|Topic-wise Analysis Hub]]
 - [[../Ashok Tests/index|Practice Test Series]]
 - [[../../Literature/index|Comprehensive Literature Study]]
 

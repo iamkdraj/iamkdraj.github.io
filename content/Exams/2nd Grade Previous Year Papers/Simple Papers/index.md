@@ -120,9 +120,9 @@ Each paper follows standardized format:
 
 ## 🔗 Related Analysis Resources
 
-- **[[ZArxhive/Analysis of Papers/index|Detailed Paper Analysis]]**: Comprehensive breakdowns
+- **[[Zarchive/Analysis of Papers/index|Detailed Paper Analysis]]**: Comprehensive breakdowns
 - **[[../index|Previous Year Papers Hub]]**: Complete collection overview
-- **[[ZArxhive/Analysis/index|Topic-wise Analysis]]**: Subject-specific insights
+- **[[Zarchive/Analysis/index|Topic-wise Analysis]]**: Subject-specific insights
 - **[[../../Ashok Tests/index|Practice Test Series]]**: Additional practice materials
 
 ---

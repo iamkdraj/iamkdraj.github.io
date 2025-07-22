@@ -138,7 +138,7 @@ Each analysis document provides:
 
 - **[[Exams/2nd Grade Previous Year Papers/Simple Papers/index|Original Question Papers]]**: Raw papers for practice
 - **[[Exams/2nd Grade Previous Year Papers/index|Previous Year Papers Hub]]**: Complete collection
-- **[[ZArxhive/Analysis/index|Topic-wise Analysis]]**: Subject-specific breakdown
+- **[[Zarchive/Analysis/index|Topic-wise Analysis]]**: Subject-specific breakdown
 - **[[../../PYQs/index|Question Bank]]**: Categorized practice questions
 
 ---

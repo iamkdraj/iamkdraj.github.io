@@ -18,9 +18,9 @@ Your digital garden for learning and exploration. This space is dedicated to cur
 |---------|-------------|--------------|
 | **[[Academics/index\|📖 Academics]]** | Comprehensive notes and resources for various grade levels | [[Academics/11th Grade/index\|Grade 11]] • [[Academics/12th Grade/index\|Grade 12]] • [[Academics/2nd Grade/index\|Grade 2]] |
 | **[[Literature/index\|📝 Literature]]** | Explore literary periods, movements, and Indian writers | [[Literature/Literary Periods/index\|Periods]] • [[Literature/Literary Movements/index\|Movements]] • [[Literature/Indian Writers/index\|Writers]] |
-| **[[Exams/index\|🎯 Exams]]** | Preparation materials and analysis for competitive exams | [[Exams/2nd Grade Previous Year Papers/index\|PYPs]] • [[Exams/Ashok Tests/index\|Practice Tests]] • [[ZArxhive/Analysis/index\|Analysis]] |
+| **[[Exams/index\|🎯 Exams]]** | Preparation materials and analysis for competitive exams | [[Exams/2nd Grade Previous Year Papers/index\|PYPs]] • [[Exams/Ashok Tests/index\|Practice Tests]] • [[Zarchive/Analysis/index\|Analysis]] |
 | **[[Psychology/index\|🧠 Psychology]]** | Educational psychology and learning methodologies | [[Psychology/mindmaps/index\|Mind Maps]] |
-| **[[Syllabus/index\|📋 Syllabus]]** | Detailed syllabi for various subjects and exams | [[Syllabus/2nd Grade English Syllabus\|English]] • [[Syllabus/2nd Grade GK syllabus\|GK]] |
+| **[[Zarchive/Syllabus/index\|📋 Syllabus]]** | Detailed syllabi for various subjects and exams | [[2nd Grade English Syllabus\|English]] • [[2nd Grade GK syllabus\|GK]] |
 
 ---
 
