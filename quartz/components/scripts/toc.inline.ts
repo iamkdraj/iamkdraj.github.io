@@ -24,6 +24,51 @@ function toggleToc(this: HTMLElement) {
   content.classList.toggle("collapsed")
 }
 
+function setupMobileToc() {
+  const toggle = document.querySelector('.toc-mobile-toggle')
+  const sidebar = document.querySelector('.toc-mobile-sidebar')
+  const overlay = document.querySelector('.toc-mobile-overlay')
+  const closeBtn = document.querySelector('.toc-mobile-close')
+  
+  if (!toggle || !sidebar || !overlay || !closeBtn) return
+  
+  // Show toggle button on mobile only
+  if (window.innerWidth <= 768) {
+    (toggle as HTMLElement).style.display = 'block'
+  }
+  
+  const openToc = () => {
+    sidebar.classList.add('open')
+    overlay.classList.add('open')
+    document.body.style.overflow = 'hidden'
+  }
+  
+  const closeToc = () => {
+    sidebar.classList.remove('open')
+    overlay.classList.remove('open')
+    document.body.style.overflow = 'auto'
+  }
+  
+  toggle.addEventListener('click', openToc)
+  closeBtn.addEventListener('click', closeToc)
+  overlay.addEventListener('click', closeToc)
+  
+  // Close TOC when clicking on a link
+  const tocLinks = sidebar.querySelectorAll('a')
+  tocLinks.forEach(link => {
+    link.addEventListener('click', closeToc)
+  })
+  
+  window.addCleanup(() => {
+    toggle.removeEventListener('click', openToc)
+    closeBtn.removeEventListener('click', closeToc)
+    overlay.removeEventListener('click', closeToc)
+    tocLinks.forEach(link => {
+      link.removeEventListener('click', closeToc)
+    })
+  })
+}
+
 function setupToc() {
   for (const toc of document.getElementsByClassName("toc")) {
     const button = toc.querySelector(".toc-header")
@@ -32,6 +77,8 @@ function setupToc() {
     button.addEventListener("click", toggleToc)
     window.addCleanup(() => button.removeEventListener("click", toggleToc))
   }
+  
+  setupMobileToc()
 }
 
 document.addEventListener("nav", () => {
