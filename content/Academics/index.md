@@ -1,7 +1,7 @@
 ---
 title: Academics Hub
 description: Comprehensive academic resources across different grade levels
-showToc: true
+enableToc: true
 ---
 
 # 📖 Academics Hub
