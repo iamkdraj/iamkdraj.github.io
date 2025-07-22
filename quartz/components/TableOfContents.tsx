@@ -33,28 +33,6 @@ export default ((opts?: Partial<Options>) => {
       <div class={classNames(displayClass, "toc")}>
         <button
           type="button"
-          class="toc-mobile-toggle mobile-only"
-        >
-          📖
-        </button>
-        <div class="toc-mobile-overlay"></div>
-        <div class="toc-mobile-sidebar">
-          <button class="toc-mobile-close">×</button>
-          <div class="toc-mobile-content">
-            <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
-            <ul class="table-of-contents">
-              {fileData.toc.map((tocEntry) => (
-                <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-                  <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
-                    {tocEntry.text}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-        <button
-          type="button"
           class={fileData.collapseToc ? "collapsed toc-header" : "toc-header"}
           aria-controls="toc-content"
           aria-expanded={!fileData.collapseToc}

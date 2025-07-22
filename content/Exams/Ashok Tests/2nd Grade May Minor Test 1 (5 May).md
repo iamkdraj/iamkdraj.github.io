@@ -1,5 +1,5 @@
 ---
-title: 2nd Grade May Minor Test 1 (5 May)
+title: 1. It was a civilized and orderly society. The world 'Orderly' used in the above sentence is -
 tags:
   - 2nd-grade
   - ashok-tests
